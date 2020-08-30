@@ -50,3 +50,5 @@ The data folder contains:
 * data/connectivity_map: Perturbation profiles obtained in the Connectivity Map database (https://clue.io/) for selected polyphenols
 
 ## Citation
+
+do Valle, I. F. et al. Predicting the Health Impact of Dietary Polyphenols Using a Network Medicine Framework. bioRxiv 2020.08.27.270173 (2020) doi:10.1101/2020.08.27.270173.
