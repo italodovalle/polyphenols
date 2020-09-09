@@ -1,0 +1,2176 @@
+,chemical,DirectEvidence,disease,pubchem_compound_id
+526,cyanidin,therapeutic,Retinal Diseases,128861.0
+2858,butein,therapeutic,Dental Pulp Necrosis,5281222.0
+3627,phloretin,therapeutic,Drug-Induced Liver Injury,4788.0
+4625,phloridzin,therapeutic,"Diabetes Mellitus, Experimental",4789.0
+4907,phloridzin,therapeutic,Hyperglycemia,4789.0
+6784,dihydroquercetin,therapeutic,Hemolysis,10185.0
+8419,(+)-catechin,therapeutic,Atherosclerosis,9064.0
+8593,(+)-catechin,therapeutic,Breast Neoplasms,9064.0
+8907,(+)-catechin,therapeutic,"Cell Transformation, Neoplastic",9064.0
+9124,(+)-catechin,therapeutic,Cystitis,9064.0
+9351,(+)-catechin,therapeutic,Drug-Induced Liver Injury,9064.0
+9648,(+)-catechin,therapeutic,Hearing Loss,9064.0
+9659,(+)-catechin,therapeutic,Heart Diseases,9064.0
+9786,(+)-catechin,therapeutic,HIV Infections,9064.0
+9850,(+)-catechin,therapeutic,Hyperhomocysteinemia,9064.0
+10079,(+)-catechin,therapeutic,Insulin Resistance,9064.0
+10368,(+)-catechin,therapeutic,Liver Diseases,9064.0
+10379,(+)-catechin,therapeutic,"Liver Failure, Acute",9064.0
+10384,(+)-catechin,therapeutic,Liver Neoplasms,9064.0
+10537,(+)-catechin,therapeutic,"Mammary Neoplasms, Experimental",9064.0
+10740,(+)-catechin,therapeutic,Myocardial Infarction,9064.0
+10861,(+)-catechin,therapeutic,Neoplasm Metastasis,9064.0
+10926,(+)-catechin,therapeutic,Nerve Degeneration,9064.0
+10973,(+)-catechin,therapeutic,Neurodegenerative Diseases,9064.0
+11873,(+)-catechin,therapeutic,Weight Gain,9064.0
+12184,procyanidin dimer b2,therapeutic,Hyperglycemia,122738.0
+13498,hesperetin,therapeutic,Adenocarcinoma,72281.0
+14392,hesperetin,therapeutic,Colonic Neoplasms,72281.0
+14714,hesperetin,therapeutic,Drug-Induced Liver Injury,72281.0
+15230,hesperetin,therapeutic,Hyperalgesia,72281.0
+16446,hesperetin,therapeutic,Neuralgia,72281.0
+17452,hesperetin,therapeutic,Weight Loss,72281.0
+17473,hesperidin,therapeutic,Acute Kidney Injury,10621.0
+17481,hesperidin,therapeutic,Acute Lung Injury,10621.0
+17618,hesperidin,therapeutic,Bone Resorption,10621.0
+17881,hesperidin,therapeutic,Drug-Induced Liver Injury,10621.0
+18245,hesperidin,therapeutic,Lung Diseases,10621.0
+18361,hesperidin,therapeutic,Necrosis,10621.0
+18824,naringenin,therapeutic,Amnesia,439246.0
+18940,naringenin,therapeutic,Atherosclerosis,439246.0
+19027,naringenin,therapeutic,Brain Neoplasms,439246.0
+19196,naringenin,therapeutic,Cardiomyopathies,439246.0
+19497,naringenin,therapeutic,Drug-Induced Liver Injury,439246.0
+19520,naringenin,therapeutic,Drug-Related Side Effects and Adverse Reactions,439246.0
+19540,naringenin,therapeutic,Dyslipidemias,439246.0
+19801,naringenin,therapeutic,Hyperglycemia,439246.0
+19812,naringenin,therapeutic,Hyperinsulinism,439246.0
+19975,naringenin,therapeutic,Kidney Cortex Necrosis,439246.0
+19976,naringenin,therapeutic,Kidney Diseases,439246.0
+20004,naringenin,therapeutic,"Kidney Tubular Necrosis, Acute",439246.0
+20058,naringenin,therapeutic,"Liver Cirrhosis, Experimental",439246.0
+20082,naringenin,therapeutic,Liver Diseases,439246.0
+20335,naringenin,therapeutic,Necrosis,439246.0
+20349,naringenin,therapeutic,Neoplasm Invasiveness,439246.0
+20388,naringenin,therapeutic,Neoplasms,439246.0
+20397,naringenin,therapeutic,"Neoplasms, Experimental",439246.0
+20461,naringenin,therapeutic,Obesity,439246.0
+21039,naringin,therapeutic,Acute Kidney Injury,442428.0
+21059,naringin,therapeutic,Acute Lung Injury,442428.0
+21159,naringin,therapeutic,Anaphylaxis,442428.0
+21319,naringin,therapeutic,Atrophy,442428.0
+21382,naringin,therapeutic,Bone Resorption,442428.0
+21660,naringin,therapeutic,Cardiomegaly,442428.0
+21710,naringin,therapeutic,Cardiotoxicity,442428.0
+21900,naringin,therapeutic,Cough,442428.0
+21941,naringin,therapeutic,"Dermatitis, Allergic Contact",442428.0
+22140,naringin,therapeutic,Drug-Induced Liver Injury,442428.0
+22183,naringin,therapeutic,Dyslipidemias,442428.0
+22190,naringin,therapeutic,Edema,442428.0
+22205,naringin,therapeutic,Encephalomalacia,442428.0
+22264,naringin,therapeutic,Fatty Liver,442428.0
+22296,naringin,therapeutic,Fibrosis,442428.0
+22356,naringin,therapeutic,Gliosis,442428.0
+22756,naringin,therapeutic,Inflammation,442428.0
+22794,naringin,therapeutic,Insulin Resistance,442428.0
+22847,naringin,therapeutic,Kidney Diseases,442428.0
+23333,naringin,therapeutic,Myocardial Infarction,442428.0
+23401,naringin,therapeutic,Necrosis,442428.0
+23421,naringin,therapeutic,Neoplasm Invasiveness,442428.0
+23545,naringin,therapeutic,Neurotoxicity Syndromes,442428.0
+23639,naringin,therapeutic,Osteoporosis,442428.0
+23713,naringin,therapeutic,Paraquat lung,442428.0
+23758,naringin,therapeutic,"Plaque, Atherosclerotic",442428.0
+23766,naringin,therapeutic,Pleurisy,442428.0
+23773,naringin,therapeutic,Pneumonia,442428.0
+23942,naringin,therapeutic,Pulmonary Fibrosis,442428.0
+24023,naringin,therapeutic,Respiratory Hypersensitivity,442428.0
+24304,naringin,therapeutic,Uterine Cervical Neoplasms,442428.0
+24325,naringin,therapeutic,"Ventricular Dysfunction, Left",442428.0
+24348,naringin,therapeutic,Weight Loss,442428.0
+24617,apigenin,therapeutic,Adenoviridae Infections,5280443.0
+24731,apigenin,therapeutic,"Arthritis, Experimental",5280443.0
+24940,apigenin,therapeutic,Breast Neoplasms,5280443.0
+25047,apigenin,therapeutic,"Carcinoma, Ehrlich Tumor",5280443.0
+25162,apigenin,therapeutic,Cardiomyopathies,5280443.0
+25262,apigenin,therapeutic,Chromosome Aberrations,5280443.0
+25308,apigenin,therapeutic,Colonic Neoplasms,5280443.0
+25801,apigenin,therapeutic,Glioma,5280443.0
+26159,apigenin,therapeutic,Inflammation,5280443.0
+26575,apigenin,therapeutic,Melanoma,5280443.0
+26786,apigenin,therapeutic,Neoplasm Invasiveness,5280443.0
+26810,apigenin,therapeutic,Neoplasm Metastasis,5280443.0
+26847,apigenin,therapeutic,"Neoplasms, Experimental",5280443.0
+27020,apigenin,therapeutic,Pancreatic Neoplasms,5280443.0
+27107,apigenin,therapeutic,Poisoning,5280443.0
+27163,apigenin,therapeutic,Prostatic Neoplasms,5280443.0
+27435,apigenin,therapeutic,Skin Neoplasms,5280443.0
+27774,baicalein,therapeutic,Amnesia,5281605.0
+28378,baicalein,therapeutic,Drug-Induced Liver Injury,5281605.0
+28463,baicalein,therapeutic,Fibrosis,5281605.0
+28487,baicalein,therapeutic,Glioblastoma,5281605.0
+28590,baicalein,therapeutic,Hyperalgesia,5281605.0
+28887,baicalein,therapeutic,Lung Neoplasms,5281605.0
+29090,baicalein,therapeutic,Neoplasm Invasiveness,5281605.0
+29127,baicalein,therapeutic,Neoplasms,5281605.0
+29564,baicalein,therapeutic,Stomach Ulcer,5281605.0
+29812,chrysin,therapeutic,Anaphylaxis,5281607.0
+30290,chrysin,therapeutic,Colonic Neoplasms,5281607.0
+30552,chrysin,therapeutic,Edema,5281607.0
+30815,chrysin,therapeutic,Hypercholesterolemia,5281607.0
+30830,chrysin,therapeutic,Hyperinsulinism,5281607.0
+30941,chrysin,therapeutic,Inflammation,5281607.0
+31031,chrysin,therapeutic,Kidney Neoplasms,5281607.0
+31097,chrysin,therapeutic,Liver Cirrhosis,5281607.0
+31194,chrysin,therapeutic,Lung Neoplasms,5281607.0
+31690,chrysin,therapeutic,Precancerous Conditions,5281607.0
+32213,diosmin,therapeutic,"Carcinoma, Hepatocellular",5281613.0
+32300,diosmin,therapeutic,"Diabetes Mellitus, Experimental",5281613.0
+32311,diosmin,therapeutic,"Diabetes Mellitus, Type 2",5281613.0
+32328,diosmin,therapeutic,Drug-Induced Liver Injury,5281613.0
+32917,hispidulin,therapeutic,Edema,5281628.0
+33313,luteolin,therapeutic,"Arthritis, Experimental",5280445.0
+33717,luteolin,therapeutic,Cardiomyopathies,5280445.0
+33745,luteolin,therapeutic,Cataract,5280445.0
+33747,luteolin,therapeutic,"Cell Transformation, Neoplastic",5280445.0
+34250,luteolin,therapeutic,Flushing,5280445.0
+34414,luteolin,therapeutic,Hepatomegaly,5280445.0
+34612,luteolin,therapeutic,Inflammation,5280445.0
+34691,luteolin,therapeutic,Kidney Diseases,5280445.0
+34794,luteolin,therapeutic,Liver Cirrhosis,5280445.0
+35368,luteolin,therapeutic,Ovarian Neoplasms,5280445.0
+36563,luteolin 6-c-glucoside,therapeutic,"Liver Cirrhosis, Alcoholic",114776.0
+37359,nobiletin,therapeutic,Colonic Neoplasms,72344.0
+37492,nobiletin,therapeutic,Precancerous Conditions,72344.0
+37644,scutellarein,therapeutic,Ventricular Remodeling,5281697.0
+37841,tangeretin,therapeutic,Breast Neoplasms,68077.0
+37982,tangeretin,therapeutic,"Diabetes Mellitus, Experimental",68077.0
+38021,tangeretin,therapeutic,Drug-Induced Liver Injury,68077.0
+38030,tangeretin,therapeutic,Drug-Related Side Effects and Adverse Reactions,68077.0
+38226,tangeretin,therapeutic,Kidney Diseases,68077.0
+38237,tangeretin,therapeutic,Kidney Neoplasms,68077.0
+38717,galangin,therapeutic,Anaphylaxis,5281616.0
+38954,galangin,therapeutic,"Carcinoma, squamous cell of head and neck",5281616.0
+39287,galangin,therapeutic,Hearing Loss,5281616.0
+39359,galangin,therapeutic,Hyperglycemia,5281616.0
+39363,galangin,therapeutic,Hyperinsulinism,5281616.0
+39374,galangin,therapeutic,Hypersensitivity,5281616.0
+39399,galangin,therapeutic,Hypertriglyceridemia,5281616.0
+39430,galangin,therapeutic,Inflammation,5281616.0
+39449,galangin,therapeutic,Insulin Resistance,5281616.0
+39778,galangin,therapeutic,"Neoplasms, Experimental",5281616.0
+41311,isorhamnetin,therapeutic,Drug-Induced Liver Injury,5281654.0
+41981,isorhamnetin,therapeutic,Inflammation,5281654.0
+42189,isorhamnetin,therapeutic,Liver Cirrhosis,5281654.0
+43849,kaempferol,therapeutic,Atherosclerosis,5280863.0
+43969,kaempferol,therapeutic,Breast Neoplasms,5280863.0
+44187,kaempferol,therapeutic,Cardiomyopathies,5280863.0
+44205,kaempferol,therapeutic,Cardiovascular Diseases,5280863.0
+44226,kaempferol,therapeutic,"Cell Transformation, Neoplastic",5280863.0
+44966,kaempferol,therapeutic,Hyperglycemia,5280863.0
+45895,kaempferol,therapeutic,Osteoporosis,5280863.0
+46565,kaempferol 3-o-galactoside,therapeutic,Edema,5488283.0
+46749,kaempferol 3-o-glucoside,therapeutic,"Dermatitis, Atopic",5282102.0
+47514,morin,therapeutic,"Carcinoma, Hepatocellular",5281670.0
+47808,morin,therapeutic,Drug-Induced Liver Injury,5281670.0
+47840,morin,therapeutic,Edema,5281670.0
+48152,morin,therapeutic,Insulin Resistance,5281670.0
+48173,morin,therapeutic,Ischemia,5281670.0
+48190,morin,therapeutic,Kidney Diseases,5281670.0
+48271,morin,therapeutic,"Liver Cirrhosis, Experimental",5281670.0
+48307,morin,therapeutic,"Liver Neoplasms, Experimental",5281670.0
+48530,morin,therapeutic,"Neoplasms, Experimental",5281670.0
+49000,morin,therapeutic,Weight Loss,5281670.0
+49413,myricetin,therapeutic,"Cell Transformation, Neoplastic",5281672.0
+49775,myricetin,therapeutic,Glioblastoma,5281672.0
+50315,myricetin,therapeutic,Myocardial Infarction,5281672.0
+50345,myricetin,therapeutic,Necrosis,5281672.0
+50410,myricetin,therapeutic,Nephritis,5281672.0
+51019,myricetin 3-o-rhamnoside,therapeutic,Atherosclerosis,5281673.0
+51291,myricetin 3-o-rhamnoside,therapeutic,Drug-Induced Liver Injury,5281673.0
+51412,myricetin 3-o-rhamnoside,therapeutic,Hepatomegaly,5281673.0
+52067,myricetin 3-o-rhamnoside,therapeutic,Weight Loss,5281673.0
+52206,quercetin,therapeutic,Acute Kidney Injury,5280343.0
+52251,quercetin,therapeutic,Acute Lung Injury,5280343.0
+52427,quercetin,therapeutic,Adenomatous Polyposis Coli,5280343.0
+52489,quercetin,therapeutic,Airway Obstruction,5280343.0
+52725,quercetin,therapeutic,"Anemia, Hemolytic",5280343.0
+52755,quercetin,therapeutic,Aneurysm,5280343.0
+52824,quercetin,therapeutic,Anxiety Disorders,5280343.0
+52844,quercetin,therapeutic,"Aortic Aneurysm, Abdominal",5280343.0
+52929,quercetin,therapeutic,Arterial Occlusive Diseases,5280343.0
+53132,quercetin,therapeutic,Ascites,5280343.0
+53142,quercetin,therapeutic,Asthenozoospermia,5280343.0
+53218,quercetin,therapeutic,Ataxia Telangiectasia,5280343.0
+53226,quercetin,therapeutic,Atherosclerosis,5280343.0
+53406,quercetin,therapeutic,Autoimmune Diseases,5280343.0
+53520,quercetin,therapeutic,Birth Weight,5280343.0
+53626,quercetin,therapeutic,Brain Injuries,5280343.0
+53739,quercetin,therapeutic,Breast Neoplasms,5280343.0
+54026,quercetin,therapeutic,Cachexia,5280343.0
+54035,quercetin,therapeutic,Cadmium Poisoning,5280343.0
+54228,quercetin,therapeutic,"Carcinoma, Hepatocellular",5280343.0
+54460,quercetin,therapeutic,"Carcinoma, Pancreatic Ductal",5280343.0
+54538,quercetin,therapeutic,"Carcinoma, Squamous Cell",5280343.0
+54656,quercetin,therapeutic,Carcinosarcoma,5280343.0
+54667,quercetin,therapeutic,Cardiomegaly,5280343.0
+54716,quercetin,therapeutic,Cardiomyopathies,5280343.0
+54802,quercetin,therapeutic,"Cardiomyopathy, Hypertrophic",5280343.0
+54821,quercetin,therapeutic,Cardiotoxicity,5280343.0
+54872,quercetin,therapeutic,Cartilage Diseases,5280343.0
+54875,quercetin,therapeutic,Catalepsy,5280343.0
+54910,quercetin,therapeutic,"Cell Transformation, Neoplastic",5280343.0
+55193,quercetin,therapeutic,Chromosome Aberrations,5280343.0
+55205,quercetin,therapeutic,Chromosome Breakage,5280343.0
+55300,quercetin,therapeutic,Cognition Disorders,5280343.0
+55372,quercetin,therapeutic,Colonic Neoplasms,5280343.0
+55468,quercetin,therapeutic,Colorectal Neoplasms,5280343.0
+55833,quercetin,therapeutic,Cystitis,5280343.0
+56076,quercetin,therapeutic,"Diabetes Mellitus, Experimental",5280343.0
+56329,quercetin,therapeutic,Diarrhea,5280343.0
+56337,quercetin,therapeutic,"Disease Models, Animal",5280343.0
+56490,quercetin,therapeutic,Drug-Induced Liver Injury,5280343.0
+56619,quercetin,therapeutic,Drug-Related Side Effects and Adverse Reactions,5280343.0
+56675,quercetin,therapeutic,"Dyskinesia, Drug-Induced",5280343.0
+56685,quercetin,therapeutic,Dyslipidemias,5280343.0
+56719,quercetin,therapeutic,Edema,5280343.0
+56873,quercetin,therapeutic,Endotoxemia,5280343.0
+56965,quercetin,therapeutic,Erectile Dysfunction,5280343.0
+57082,quercetin,therapeutic,"Esophagitis, Peptic",5280343.0
+57140,quercetin,therapeutic,Fatty Liver,5280343.0
+57248,quercetin,therapeutic,Fibrosis,5280343.0
+57281,quercetin,therapeutic,Flushing,5280343.0
+57395,quercetin,therapeutic,Glioblastoma,5280343.0
+57435,quercetin,therapeutic,Glioma,5280343.0
+57479,quercetin,therapeutic,Gliosis,5280343.0
+57544,quercetin,therapeutic,Glucose Intolerance,5280343.0
+57865,quercetin,therapeutic,Hemolysis,5280343.0
+57880,quercetin,therapeutic,Hemorrhage,5280343.0
+57986,quercetin,therapeutic,Hepatomegaly,5280343.0
+58149,quercetin,therapeutic,Hyperalgesia,5280343.0
+58218,quercetin,therapeutic,Hypercholesterolemia,5280343.0
+58252,quercetin,therapeutic,Hyperglycemia,5280343.0
+58284,quercetin,therapeutic,Hyperinsulinism,5280343.0
+58311,quercetin,therapeutic,Hyperlipidemias,5280343.0
+58368,quercetin,therapeutic,Hyperplasia,5280343.0
+58432,quercetin,therapeutic,Hypertension,5280343.0
+58558,quercetin,therapeutic,"Hypertension, Pulmonary",5280343.0
+58593,quercetin,therapeutic,Hypertriglyceridemia,5280343.0
+58602,quercetin,therapeutic,Hypertrophy,5280343.0
+58615,quercetin,therapeutic,"Hypertrophy, Left Ventricular",5280343.0
+58637,quercetin,therapeutic,"Hypertrophy, Right Ventricular",5280343.0
+58639,quercetin,therapeutic,Hyperuricemia,5280343.0
+58773,quercetin,therapeutic,Infarction,5280343.0
+58847,quercetin,therapeutic,Inflammation,5280343.0
+58936,quercetin,therapeutic,"Influenza, Human",5280343.0
+58965,quercetin,therapeutic,Insulin Resistance,5280343.0
+59104,quercetin,therapeutic,"Ischemic Attack, Transient",5280343.0
+59131,quercetin,therapeutic,Keloid,5280343.0
+59173,quercetin,therapeutic,Kidney Diseases,5280343.0
+59290,quercetin,therapeutic,"Kidney Tubular Necrosis, Acute",5280343.0
+59314,quercetin,therapeutic,"Lead Poisoning, Nervous System",5280343.0
+59315,quercetin,therapeutic,Learning Disorders,5280343.0
+59379,quercetin,therapeutic,Lethargy,5280343.0
+59454,quercetin,therapeutic,"Leukemia, Myeloid",5280343.0
+59627,quercetin,therapeutic,Liver Cirrhosis,5280343.0
+59722,quercetin,therapeutic,"Liver Cirrhosis, Experimental",5280343.0
+60066,quercetin,therapeutic,Liver Diseases,5280343.0
+60127,quercetin,therapeutic,Liver Neoplasms,5280343.0
+60199,quercetin,therapeutic,"Liver Neoplasms, Experimental",5280343.0
+60307,quercetin,therapeutic,Lung Neoplasms,5280343.0
+60543,quercetin,therapeutic,"Lymphoma, T-Cell",5280343.0
+60689,quercetin,therapeutic,"Mammary Neoplasms, Experimental",5280343.0
+60940,quercetin,therapeutic,Memory Disorders,5280343.0
+61080,quercetin,therapeutic,Metabolic Syndrome X,5280343.0
+61175,quercetin,therapeutic,Mitochondrial Diseases,5280343.0
+61212,quercetin,therapeutic,Mouth Neoplasms,5280343.0
+61379,quercetin,therapeutic,Myalgia,5280343.0
+61413,quercetin,therapeutic,Myocardial Infarction,5280343.0
+61579,quercetin,therapeutic,Myocardial Reperfusion Injury,5280343.0
+61680,quercetin,therapeutic,Necrosis,5280343.0
+61728,quercetin,therapeutic,Neoplasm Invasiveness,5280343.0
+61821,quercetin,therapeutic,Neoplasm Metastasis,5280343.0
+61950,quercetin,therapeutic,Neoplasms,5280343.0
+61991,quercetin,therapeutic,"Neoplasms, Experimental",5280343.0
+62092,quercetin,therapeutic,Nerve Degeneration,5280343.0
+62179,quercetin,therapeutic,Neural Tube Defects,5280343.0
+62220,quercetin,therapeutic,Neurodegenerative Diseases,5280343.0
+62270,quercetin,therapeutic,Neurogenic Inflammation,5280343.0
+62321,quercetin,therapeutic,Non-alcoholic Fatty Liver Disease,5280343.0
+62372,quercetin,therapeutic,Obesity,5280343.0
+62485,quercetin,therapeutic,Oligospermia,5280343.0
+62640,quercetin,therapeutic,"Osteoporosis, Postmenopausal",5280343.0
+62682,quercetin,therapeutic,Ovarian Neoplasms,5280343.0
+62738,quercetin,therapeutic,Pain,5280343.0
+62826,quercetin,therapeutic,Pancreatitis,5280343.0
+63082,quercetin,therapeutic,"Plaque, Atherosclerotic",5280343.0
+63150,quercetin,therapeutic,Poisoning,5280343.0
+63246,quercetin,therapeutic,Polyuria,5280343.0
+63261,quercetin,therapeutic,Precancerous Conditions,5280343.0
+63426,quercetin,therapeutic,Prostatic Neoplasms,5280343.0
+63676,quercetin,therapeutic,Proteinuria,5280343.0
+63772,quercetin,therapeutic,"Pulmonary Disease, Chronic Obstructive",5280343.0
+63792,quercetin,therapeutic,Pulmonary Edema,5280343.0
+63925,quercetin,therapeutic,Reperfusion Injury,5280343.0
+64027,quercetin,therapeutic,Respiratory Hypersensitivity,5280343.0
+64191,quercetin,therapeutic,Schistosomiasis japonica,5280343.0
+64421,quercetin,therapeutic,Skin Neoplasms,5280343.0
+64484,quercetin,therapeutic,Sneezing,5280343.0
+64608,quercetin,therapeutic,Stomach Diseases,5280343.0
+64610,quercetin,therapeutic,Stomach Neoplasms,5280343.0
+64750,quercetin,therapeutic,Stomach Ulcer,5280343.0
+64889,quercetin,therapeutic,Teratoma,5280343.0
+64891,quercetin,therapeutic,Testicular Diseases,5280343.0
+65140,quercetin,therapeutic,Urinary Bladder Neoplasms,5280343.0
+65264,quercetin,therapeutic,Vascular Calcification,5280343.0
+65314,quercetin,therapeutic,"Ventricular Dysfunction, Left",5280343.0
+65376,quercetin,therapeutic,Weight Gain,5280343.0
+65426,quercetin,therapeutic,Weight Loss,5280343.0
+65681,quercetin 3-o-galactoside,therapeutic,Drug-Induced Liver Injury,5281643.0
+65917,quercetin 3-o-galactoside,therapeutic,Necrosis,5281643.0
+66541,quercetin 3-o-glucoside,therapeutic,"Cell Transformation, Neoplastic",5280804.0
+71110,quercetin 3-o-rhamnoside,therapeutic,Pain,5359430.0
+72034,quercetin 3-o-rutinoside,therapeutic,Acute Lung Injury,5280805.0
+72102,quercetin 3-o-rutinoside,therapeutic,Agranulocytosis,5280805.0
+72484,quercetin 3-o-rutinoside,therapeutic,Bacterial Infections,5280805.0
+72778,quercetin 3-o-rutinoside,therapeutic,"Carcinoma, Ehrlich Tumor",5280805.0
+72928,quercetin 3-o-rutinoside,therapeutic,Cardiomegaly,5280805.0
+73138,quercetin 3-o-rutinoside,therapeutic,Colitis,5280805.0
+73612,quercetin 3-o-rutinoside,therapeutic,Drug-Induced Liver Injury,5280805.0
+73680,quercetin 3-o-rutinoside,therapeutic,"Dyskinesia, Drug-Induced",5280805.0
+73686,quercetin 3-o-rutinoside,therapeutic,Dyslipidemias,5280805.0
+73814,quercetin 3-o-rutinoside,therapeutic,Fanconi Anemia,5280805.0
+73818,quercetin 3-o-rutinoside,therapeutic,Fatty Liver,5280805.0
+74140,quercetin 3-o-rutinoside,therapeutic,Hemolysis,5280805.0
+74258,quercetin 3-o-rutinoside,therapeutic,Hyperalgesia,5280805.0
+74338,quercetin 3-o-rutinoside,therapeutic,Hyperinsulinism,5280805.0
+74536,quercetin 3-o-rutinoside,therapeutic,Hyperuricemia,5280805.0
+74692,quercetin 3-o-rutinoside,therapeutic,Inflammatory Bowel Diseases,5280805.0
+74706,quercetin 3-o-rutinoside,therapeutic,Insulin Resistance,5280805.0
+74784,quercetin 3-o-rutinoside,therapeutic,Kidney Diseases,5280805.0
+74904,quercetin 3-o-rutinoside,therapeutic,Leukemia,5280805.0
+75304,quercetin 3-o-rutinoside,therapeutic,Melanoma,5280805.0
+75400,quercetin 3-o-rutinoside,therapeutic,Mitochondrial Diseases,5280805.0
+75432,quercetin 3-o-rutinoside,therapeutic,Multiple Myeloma,5280805.0
+75586,quercetin 3-o-rutinoside,therapeutic,Necrosis,5280805.0
+76034,quercetin 3-o-rutinoside,therapeutic,Paralysis,5280805.0
+76380,quercetin 3-o-rutinoside,therapeutic,Pulmonary Edema,5280805.0
+76782,quercetin 3-o-rutinoside,therapeutic,Stomach Ulcer,5280805.0
+77012,quercetin 3-o-rutinoside,therapeutic,"Ventricular Dysfunction, Left",5280805.0
+78598,biochanin a,therapeutic,Glioblastoma,5280373.0
+80011,biochanin a,therapeutic,Prostatic Neoplasms,5280373.0
+80624,daidzein,therapeutic,Adenocarcinoma,5281708.0
+80784,daidzein,therapeutic,Amnesia,5281708.0
+81682,daidzein,therapeutic,Cardiovascular Diseases,5281708.0
+82188,daidzein,therapeutic,"Diabetes Mellitus, Type 2",5281708.0
+82382,daidzein,therapeutic,Edema,5281708.0
+82406,daidzein,therapeutic,Endometrial Neoplasms,5281708.0
+83002,daidzein,therapeutic,Hyperplasia,5281708.0
+83028,daidzein,therapeutic,Hypertension,5281708.0
+83500,daidzein,therapeutic,Leukemic Infiltration,5281708.0
+83916,daidzein,therapeutic,Memory Disorders,5281708.0
+85590,daidzein,therapeutic,Ventricular Fibrillation,5281708.0
+85816,daidzin,therapeutic,Memory Disorders,107971.0
+85852,daidzin,therapeutic,Prostatic Neoplasms,107971.0
+89315,formononetin,therapeutic,Uterine Cervical Neoplasms,5280378.0
+90067,genistein,therapeutic,Adenocarcinoma,5280961.0
+90367,genistein,therapeutic,Adenocarcinoma of lung,5280961.0
+92731,genistein,therapeutic,Asphyxia,5280961.0
+94603,genistein,therapeutic,Breast Neoplasms,5280961.0
+96283,genistein,therapeutic,"Carcinoma, Hepatocellular",5280961.0
+98063,genistein,therapeutic,Cardiotoxicity,5280961.0
+98083,genistein,therapeutic,Cardiovascular Diseases,5280961.0
+99483,genistein,therapeutic,Cognition Disorders,5280961.0
+99695,genistein,therapeutic,Colonic Neoplasms,5280961.0
+100383,genistein,therapeutic,Congenital Abnormalities,5280961.0
+102191,genistein,therapeutic,"Diabetes Mellitus, Type 2",5280961.0
+103099,genistein,therapeutic,Drug-Induced Liver Injury,5280961.0
+103451,genistein,therapeutic,Drug-Related Side Effects and Adverse Reactions,5280961.0
+103775,genistein,therapeutic,Edema,5280961.0
+103975,genistein,therapeutic,Endometrial Hyperplasia,5280961.0
+103995,genistein,therapeutic,Endometrial Neoplasms,5280961.0
+106063,genistein,therapeutic,Glioblastoma,5280961.0
+107943,genistein,therapeutic,Hepatomegaly,5280961.0
+108787,genistein,therapeutic,Hyperglycemia,5280961.0
+109139,genistein,therapeutic,Hyperplasia,5280961.0
+110723,genistein,therapeutic,Inflammation,5280961.0
+112359,genistein,therapeutic,Leiomyoma,5280961.0
+112535,genistein,therapeutic,Leukemia,5280961.0
+113051,genistein,therapeutic,"Leukemia, Promyelocytic, Acute",5280961.0
+113115,genistein,therapeutic,Leukemic Infiltration,5280961.0
+113387,genistein,therapeutic,Liver Cirrhosis,5280961.0
+113591,genistein,therapeutic,"Liver Cirrhosis, Alcoholic",5280961.0
+113691,genistein,therapeutic,"Liver Cirrhosis, Experimental",5280961.0
+114791,genistein,therapeutic,Liver Failure,5280961.0
+115387,genistein,therapeutic,Lung Neoplasms,5280961.0
+116583,genistein,therapeutic,"Mammary Neoplasms, Experimental",5280961.0
+117395,genistein,therapeutic,Memory Disorders,5280961.0
+118867,genistein,therapeutic,Myocardial Infarction,5280961.0
+119403,genistein,therapeutic,Myocardial Reperfusion Injury,5280961.0
+119747,genistein,therapeutic,Necrosis,5280961.0
+120583,genistein,therapeutic,Neoplasms,5280961.0
+120731,genistein,therapeutic,"Neoplasms, Experimental",5280961.0
+122675,genistein,therapeutic,Osteoporosis,5280961.0
+122807,genistein,therapeutic,"Osteoporosis, Postmenopausal",5280961.0
+122963,genistein,therapeutic,Ovarian Neoplasms,5280961.0
+125111,genistein,therapeutic,Prenatal Exposure Delayed Effects,5280961.0
+125243,genistein,therapeutic,Prostatic Hyperplasia,5280961.0
+125303,genistein,therapeutic,Prostatic Neoplasms,5280961.0
+126119,genistein,therapeutic,Prostatitis,5280961.0
+131239,genistein,therapeutic,Uterine Neoplasms,5280961.0
+131631,genistein,therapeutic,Weight Gain,5280961.0
+132451,genistin,therapeutic,Prostatic Neoplasms,5281377.0
+132659,glycitein,therapeutic,Astrocytoma,5317750.0
+133457,glycitein,therapeutic,Neoplasm Invasiveness,5317750.0
+133517,glycitein,therapeutic,Neurodegenerative Diseases,5317750.0
+133563,glycitein,therapeutic,Paralysis,5317750.0
+134239,sesamol,therapeutic,Drug-Induced Liver Injury,68289.0
+134283,sesamol,therapeutic,Fatty Liver,68289.0
+134443,sesamol,therapeutic,Inflammation,68289.0
+134511,sesamol,therapeutic,"Liver Cirrhosis, Experimental",68289.0
+134603,sesamol,therapeutic,Myocardial Infarction,68289.0
+136986,4-methylcatechol,therapeutic,Diabetic Neuropathies,9958.0
+137781,4-methylcatechol,therapeutic,Peripheral Nervous System Diseases,9958.0
+138243,bergapten,therapeutic,Psoriasis,2355.0
+138485,psoralen,therapeutic,Amnesia,6199.0
+138660,psoralen,therapeutic,Psoriasis,6199.0
+138687,psoralen,therapeutic,Weight Gain,6199.0
+138959,xanthotoxin,therapeutic,Drug-Induced Liver Injury,4114.0
+138979,xanthotoxin,therapeutic,Eczema,4114.0
+139104,xanthotoxin,therapeutic,Kidney Diseases,4114.0
+139164,xanthotoxin,therapeutic,Lung Neoplasms,4114.0
+139181,xanthotoxin,therapeutic,"Lymphoma, T-Cell, Cutaneous",4114.0
+139225,xanthotoxin,therapeutic,Mycosis Fungoides,4114.0
+139374,xanthotoxin,therapeutic,Psoriasis,4114.0
+139459,xanthotoxin,therapeutic,Tinea Capitis,4114.0
+139485,xanthotoxin,therapeutic,Vestibular Diseases,4114.0
+139487,xanthotoxin,therapeutic,Vitiligo,4114.0
+139551,protocatechuic aldehyde,therapeutic,Cataract,8768.0
+139575,protocatechuic aldehyde,therapeutic,Diabetes Complications,8768.0
+139713,protocatechuic aldehyde,therapeutic,Pulmonary Fibrosis,8768.0
+140648,vanillin,therapeutic,Chromosome Breakage,1183.0
+140972,vanillin,therapeutic,Drug-Induced Liver Injury,1183.0
+141108,vanillin,therapeutic,Fatty Liver,1183.0
+141472,vanillin,therapeutic,Hypercholesterolemia,1183.0
+141500,vanillin,therapeutic,Hyperlipoproteinemias,1183.0
+141592,vanillin,therapeutic,Hypertriglyceridemia,1183.0
+142004,vanillin,therapeutic,Liver Neoplasms,1183.0
+142372,vanillin,therapeutic,Necrosis,1183.0
+143848,ferulaldehyde,therapeutic,Edema,9984.0
+145034,coumarin,therapeutic,"Diabetes Mellitus, Type 2",323.0
+145065,coumarin,therapeutic,Drug-Induced Liver Injury,323.0
+145352,coumarin,therapeutic,Kidney Diseases,323.0
+145995,coumarin,therapeutic,Venous Insufficiency,323.0
+146585,esculetin,therapeutic,"Colitis, Ulcerative",5281416.0
+146765,esculetin,therapeutic,Diarrhea,5281416.0
+146881,esculetin,therapeutic,Fatty Liver,5281416.0
+147023,esculetin,therapeutic,Hepatomegaly,5281416.0
+147237,esculetin,therapeutic,Kidney Diseases,5281416.0
+148369,esculetin,therapeutic,Ventricular Fibrillation,5281416.0
+148389,esculin,therapeutic,Stomach Diseases,5281417.0
+148820,scopoletin,therapeutic,Hepatomegaly,5280460.0
+148994,scopoletin,therapeutic,"Liver Cirrhosis, Experimental",5280460.0
+149484,umbelliferone,therapeutic,Cardiomegaly,5281426.0
+149570,umbelliferone,therapeutic,Glucose Intolerance,5281426.0
+149587,umbelliferone,therapeutic,Hyperglycemia,5281426.0
+149597,umbelliferone,therapeutic,Hypertriglyceridemia,5281426.0
+149598,umbelliferone,therapeutic,"Hypertrophy, Left Ventricular",5281426.0
+150108,anethole,therapeutic,"Carcinoma, Ehrlich Tumor",637563.0
+150471,anethole,therapeutic,Gastrointestinal Diseases,637563.0
+150702,anethole,therapeutic,Inflammation,637563.0
+151086,anethole,therapeutic,Neoplasm Metastasis,637563.0
+151248,anethole,therapeutic,Paralysis,637563.0
+151497,anethole,therapeutic,Stomach Ulcer,637563.0
+151530,anethole,therapeutic,Thrombosis,637563.0
+151659,estragole,therapeutic,Edema,8815.0
+153118,eugenol,therapeutic,Breast Neoplasms,3314.0
+155110,eugenol,therapeutic,Drug-Induced Liver Injury,3314.0
+155953,eugenol,therapeutic,Heart Diseases,3314.0
+156088,eugenol,therapeutic,Hemolysis,3314.0
+156286,eugenol,therapeutic,Hyperalgesia,3314.0
+156820,eugenol,therapeutic,Inflammation,3314.0
+158146,eugenol,therapeutic,Melanoma,3314.0
+158797,eugenol,therapeutic,Neoplasm Invasiveness,3314.0
+158872,eugenol,therapeutic,Neoplasm Metastasis,3314.0
+159007,eugenol,therapeutic,"Neoplasms, Experimental",3314.0
+159070,eugenol,therapeutic,"Neovascularization, Pathologic",3314.0
+159100,eugenol,therapeutic,Nerve Degeneration,3314.0
+159574,eugenol,therapeutic,Pain,3314.0
+159595,eugenol,therapeutic,"Pain, Postoperative",3314.0
+159697,eugenol,therapeutic,Parkinson Disease,3314.0
+160426,eugenol,therapeutic,"Radiation Injuries, Experimental",3314.0
+160660,eugenol,therapeutic,"Salmonella Infections, Animal",3314.0
+160915,eugenol,therapeutic,Skin Neoplasms,3314.0
+160978,eugenol,therapeutic,Spasm,3314.0
+161041,eugenol,therapeutic,Staphylococcal Infections,3314.0
+161101,eugenol,therapeutic,Stomach Neoplasms,3314.0
+161173,eugenol,therapeutic,Stomach Ulcer,3314.0
+161524,eugenol,therapeutic,Urticaria,3314.0
+161545,eugenol,therapeutic,Uterine Cervical Neoplasms,3314.0
+161955,[6]-gingerol,therapeutic,Breast Neoplasms,42675.0
+162492,[6]-gingerol,therapeutic,Glucose Intolerance,42675.0
+162584,[6]-gingerol,therapeutic,Hyperglycemia,42675.0
+163477,[6]-gingerol,therapeutic,Skin Neoplasms,42675.0
+163622,[6]-gingerol,therapeutic,Weight Gain,42675.0
+163629,[6]-gingerol,therapeutic,Weight Loss,42675.0
+163983,guaiacol,therapeutic,Pain,460.0
+175678,coumestrol,therapeutic,Prostatic Neoplasms,5281707.0
+177064,phenol,therapeutic,Bone Neoplasms,996.0
+177066,phenol,therapeutic,Bowen's Disease,996.0
+177306,phenol,therapeutic,Cystitis,996.0
+177579,phenol,therapeutic,Hematuria,996.0
+177589,phenol,therapeutic,Hemorrhage,996.0
+177772,phenol,therapeutic,"Keratosis, Actinic",996.0
+178216,phenol,therapeutic,Pain,996.0
+178252,phenol,therapeutic,Pilonidal Sinus,996.0
+178451,phenol,therapeutic,Spermatocele,996.0
+178498,phenol,therapeutic,Testicular Hydrocele,996.0
+178522,phenol,therapeutic,Trigeminal Neuralgia,996.0
+178559,phenol,therapeutic,Warts,996.0
+181304,carnosic acid,therapeutic,"Carcinoma, Squamous Cell",65126.0
+181517,carnosic acid,therapeutic,"Dyskinesia, Drug-Induced",65126.0
+181678,carnosic acid,therapeutic,Hyperplasia,65126.0
+181937,carnosic acid,therapeutic,Mouth Neoplasms,65126.0
+182011,carnosic acid,therapeutic,"Neoplasms, Experimental",65126.0
+182036,carnosic acid,therapeutic,Neurobehavioral Manifestations,65126.0
+182447,carvacrol,therapeutic,Bacteremia,10364.0
+182622,carvacrol,therapeutic,Hyperalgesia,10364.0
+182683,carvacrol,therapeutic,Leukocyte Disorders,10364.0
+182748,carvacrol,therapeutic,Necrosis,10364.0
+182783,carvacrol,therapeutic,Pain,10364.0
+182943,thymol,therapeutic,Aspergillosis,6989.0
+183082,thymol,therapeutic,Edema,6989.0
+183243,thymol,therapeutic,Necrosis,6989.0
+183361,thymol,therapeutic,Ulcer,6989.0
+184873,hydroxytyrosol,therapeutic,Diabetic Nephropathies,82755.0
+184997,hydroxytyrosol,therapeutic,Dyslipidemias,82755.0
+185249,hydroxytyrosol,therapeutic,Heart Diseases,82755.0
+185469,hydroxytyrosol,therapeutic,Hyperglycemia,82755.0
+186041,hydroxytyrosol,therapeutic,Liver Diseases,82755.0
+188315,ligstroside,therapeutic,Drug-Related Side Effects and Adverse Reactions,75492723.0
+188316,oleuropein,therapeutic,Drug-Related Side Effects and Adverse Reactions,5281544.0
+188353,ligstroside,therapeutic,Fatty Liver,75492723.0
+188354,oleuropein,therapeutic,Fatty Liver,5281544.0
+188401,ligstroside,therapeutic,Heart Diseases,75492723.0
+188402,oleuropein,therapeutic,Heart Diseases,5281544.0
+188435,ligstroside,therapeutic,Hepatomegaly,75492723.0
+188436,oleuropein,therapeutic,Hepatomegaly,5281544.0
+188459,ligstroside,therapeutic,Hypercholesterolemia,75492723.0
+188460,oleuropein,therapeutic,Hypercholesterolemia,5281544.0
+188479,ligstroside,therapeutic,Hyperlipidemias,75492723.0
+188480,oleuropein,therapeutic,Hyperlipidemias,5281544.0
+188515,ligstroside,therapeutic,Hypertriglyceridemia,75492723.0
+188516,oleuropein,therapeutic,Hypertriglyceridemia,5281544.0
+189169,ligstroside,therapeutic,Weight Gain,75492723.0
+189170,oleuropein,therapeutic,Weight Gain,5281544.0
+190002,2-hydroxybenzoic acid,therapeutic,Atherosclerosis,338.0
+190662,2-hydroxybenzoic acid,therapeutic,Hearing Loss,338.0
+191154,2-hydroxybenzoic acid,therapeutic,Memory Disorders,338.0
+191852,2-hydroxybenzoic acid,therapeutic,Warts,338.0
+192097,ellagic acid,therapeutic,"Abnormalities, Drug-Induced",5281855.0
+193399,ellagic acid,therapeutic,"Cell Transformation, Neoplastic",5281855.0
+194338,ellagic acid,therapeutic,"Fatty Liver, Alcoholic",5281855.0
+194839,ellagic acid,therapeutic,Hyperglycemia,5281855.0
+194878,ellagic acid,therapeutic,Hyperplasia,5281855.0
+195103,ellagic acid,therapeutic,"Infertility, Male",5281855.0
+195280,ellagic acid,therapeutic,Kidney Diseases,5281855.0
+196216,ellagic acid,therapeutic,Myocardial Infarction,5281855.0
+196567,ellagic acid,therapeutic,Neurobehavioral Manifestations,5281855.0
+197242,ellagic acid,therapeutic,Proteinuria,5281855.0
+197401,ellagic acid,therapeutic,Reperfusion Injury,5281855.0
+197659,ellagic acid,therapeutic,Skin Neoplasms,5281855.0
+197878,ellagic acid,therapeutic,Sunburn,5281855.0
+197899,ellagic acid,therapeutic,Testicular Diseases,5281855.0
+198013,ellagic acid,therapeutic,Urinary Bladder Neoplasms,5281855.0
+198165,gallic acid,therapeutic,Acute Kidney Injury,370.0
+198817,gallic acid,therapeutic,Diabetes Mellitus,370.0
+198824,gallic acid,therapeutic,"Diabetes Mellitus, Experimental",370.0
+198936,gallic acid,therapeutic,Dyslipidemias,370.0
+198993,gallic acid,therapeutic,Fatty Liver,370.0
+199012,gallic acid,therapeutic,Fibrosis,370.0
+199071,gallic acid,therapeutic,Glucose Intolerance,370.0
+199089,gallic acid,therapeutic,Heart Diseases,370.0
+199184,gallic acid,therapeutic,Hypercholesterolemia,370.0
+199194,gallic acid,therapeutic,Hyperglycemia,370.0
+199201,gallic acid,therapeutic,Hyperlipidemias,370.0
+199257,gallic acid,therapeutic,Hypertriglyceridemia,370.0
+199343,gallic acid,therapeutic,Ischemia,370.0
+199420,gallic acid,therapeutic,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",370.0
+199601,gallic acid,therapeutic,"Melanoma, Experimental",370.0
+199649,gallic acid,therapeutic,Movement Disorders,370.0
+199676,gallic acid,therapeutic,Myocardial Infarction,370.0
+199740,gallic acid,therapeutic,Neoplasm Invasiveness,370.0
+199763,gallic acid,therapeutic,Neoplasm Metastasis,370.0
+199890,gallic acid,therapeutic,Osteosarcoma,370.0
+199914,gallic acid,therapeutic,Pancreatic Diseases,370.0
+200127,gallic acid,therapeutic,Reperfusion Injury,370.0
+200289,gallic acid,therapeutic,Stomach Ulcer,370.0
+201669,punicalagin,therapeutic,"Arthritis, Experimental",16129869.0
+201726,punicalagin,therapeutic,Inflammation,16129869.0
+202266,3-caffeoylquinic acid,therapeutic,Amnesia,9476.0
+202267,5-caffeoylquinic acid,therapeutic,Amnesia,12310830.0
+203254,3-caffeoylquinic acid,therapeutic,"Dilatation, Pathologic",9476.0
+203255,5-caffeoylquinic acid,therapeutic,"Dilatation, Pathologic",12310830.0
+203290,3-caffeoylquinic acid,therapeutic,Drug-Induced Liver Injury,9476.0
+203291,5-caffeoylquinic acid,therapeutic,Drug-Induced Liver Injury,12310830.0
+203814,3-caffeoylquinic acid,therapeutic,Hypercholesterolemia,9476.0
+203815,5-caffeoylquinic acid,therapeutic,Hypercholesterolemia,12310830.0
+203850,3-caffeoylquinic acid,therapeutic,Hyperlipoproteinemias,9476.0
+203851,5-caffeoylquinic acid,therapeutic,Hyperlipoproteinemias,12310830.0
+203954,3-caffeoylquinic acid,therapeutic,Hypertriglyceridemia,9476.0
+203955,5-caffeoylquinic acid,therapeutic,Hypertriglyceridemia,12310830.0
+203970,3-caffeoylquinic acid,therapeutic,Hypoalphalipoproteinemias,9476.0
+203971,5-caffeoylquinic acid,therapeutic,Hypoalphalipoproteinemias,12310830.0
+204506,3-caffeoylquinic acid,therapeutic,Melanoma,9476.0
+204507,5-caffeoylquinic acid,therapeutic,Melanoma,12310830.0
+204728,3-caffeoylquinic acid,therapeutic,Necrosis,9476.0
+204729,5-caffeoylquinic acid,therapeutic,Necrosis,12310830.0
+205792,3-caffeoylquinic acid,therapeutic,Weight Loss,9476.0
+205793,5-caffeoylquinic acid,therapeutic,Weight Loss,12310830.0
+205989,caffeic acid,therapeutic,Atherosclerosis,689043.0
+206049,caffeic acid,therapeutic,Brain Injuries,689043.0
+206432,caffeic acid,therapeutic,Drug-Induced Liver Injury,689043.0
+206458,caffeic acid,therapeutic,Edema,689043.0
+206765,caffeic acid,therapeutic,Inflammation,689043.0
+206837,caffeic acid,therapeutic,Learning Disorders,689043.0
+206994,caffeic acid,therapeutic,Melanoma,689043.0
+207005,caffeic acid,therapeutic,Memory Disorders,689043.0
+207069,caffeic acid,therapeutic,Myocardial Infarction,689043.0
+207158,caffeic acid,therapeutic,Nerve Degeneration,689043.0
+208523,ferulic acid,therapeutic,Atherosclerosis,709.0
+208757,ferulic acid,therapeutic,Carbon Tetrachloride Poisoning,709.0
+209798,ferulic acid,therapeutic,Hyperinsulinism,709.0
+209840,ferulic acid,therapeutic,Hypertension,709.0
+209960,ferulic acid,therapeutic,Inflammation,709.0
+210194,ferulic acid,therapeutic,"Liver Cirrhosis, Experimental",709.0
+210425,ferulic acid,therapeutic,Melanoma,709.0
+210530,ferulic acid,therapeutic,Myocardial Infarction,709.0
+211223,ferulic acid,therapeutic,Seizures,709.0
+211559,isoferulic acid,therapeutic,Amnesia,736186.0
+211787,p-coumaric acid,therapeutic,Cardiotoxicity,322.0
+212250,p-coumaric acid,therapeutic,Melanoma,322.0
+212356,p-coumaric acid,therapeutic,Obesity,322.0
+212671,sinapic acid,therapeutic,Amnesia,10743.0
+212719,sinapic acid,therapeutic,Anoxia,10743.0
+212863,sinapic acid,therapeutic,Brain Injuries,10743.0
+213283,sinapic acid,therapeutic,Drug-Induced Liver Injury,10743.0
+213315,sinapic acid,therapeutic,Edema,10743.0
+217702,verbascoside,therapeutic,Inflammation,5281800.0
+218032,verbascoside,therapeutic,Leukemia,5281800.0
+220332,verbascoside,therapeutic,Skin Neoplasms,5281800.0
+220877,verbascoside,therapeutic,Wounds and Injuries,5281800.0
+222375,homovanillic acid,therapeutic,Stereotypic Movement Disorder,1738.0
+222825,dihydrocaffeic acid,therapeutic,Melanoma,348154.0
+223054,piceatannol,therapeutic,Anaphylaxis,4813.0
+223416,piceatannol,therapeutic,Breast Neoplasms,4813.0
+223804,piceatannol,therapeutic,"Cell Transformation, Neoplastic",4813.0
+223942,piceatannol,therapeutic,Colitis,4813.0
+224330,piceatannol,therapeutic,Drug Eruptions,4813.0
+224626,piceatannol,therapeutic,Glucose Intolerance,4813.0
+225076,piceatannol,therapeutic,Inflammation,4813.0
+225602,piceatannol,therapeutic,"Mammary Neoplasms, Experimental",4813.0
+225918,piceatannol,therapeutic,Neoplasm Invasiveness,4813.0
+225952,piceatannol,therapeutic,Neoplasm Metastasis,4813.0
+225992,piceatannol,therapeutic,Neoplasms,4813.0
+226104,piceatannol,therapeutic,Neurotoxicity Syndromes,4813.0
+226476,piceatannol,therapeutic,Prostatic Neoplasms,4813.0
+227004,piceatannol,therapeutic,Thrombosis,4813.0
+227355,pinosylvin,therapeutic,Colorectal Neoplasms,100754.0
+227713,pterostilbene,therapeutic,Aberrant Crypt Foci,5281727.0
+227778,pterostilbene,therapeutic,Adenoma,5281727.0
+228053,pterostilbene,therapeutic,Breast Neoplasms,5281727.0
+228155,pterostilbene,therapeutic,"Carcinoma, Hepatocellular",5281727.0
+228290,pterostilbene,therapeutic,"Cell Transformation, Neoplastic",5281727.0
+228385,pterostilbene,therapeutic,Colonic Neoplasms,5281727.0
+228408,pterostilbene,therapeutic,Colorectal Neoplasms,5281727.0
+228500,pterostilbene,therapeutic,"Diabetes Mellitus, Experimental",5281727.0
+228575,pterostilbene,therapeutic,"Disease Models, Animal",5281727.0
+228784,pterostilbene,therapeutic,Glucose Intolerance,5281727.0
+228923,pterostilbene,therapeutic,Hyperglycemia,5281727.0
+229003,pterostilbene,therapeutic,Hyperuricemia,5281727.0
+229052,pterostilbene,therapeutic,Inflammation,5281727.0
+229124,pterostilbene,therapeutic,Kidney Diseases,5281727.0
+229182,pterostilbene,therapeutic,Leukemia,5281727.0
+229197,pterostilbene,therapeutic,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",5281727.0
+229606,pterostilbene,therapeutic,Neoplasm Invasiveness,5281727.0
+229626,pterostilbene,therapeutic,Neoplasm Metastasis,5281727.0
+229779,pterostilbene,therapeutic,Osteosarcoma,5281727.0
+229809,pterostilbene,therapeutic,Pancreatic Neoplasms,5281727.0
+229826,pterostilbene,therapeutic,Papilloma,5281727.0
+230149,pterostilbene,therapeutic,Skin Neoplasms,5281727.0
+230377,resveratrol,therapeutic,Abdominal Injuries,445154.0
+230378,trans-resveratrol,therapeutic,Abdominal Injuries,445154.0
+230381,resveratrol,therapeutic,Aberrant Crypt Foci,445154.0
+230382,trans-resveratrol,therapeutic,Aberrant Crypt Foci,445154.0
+230623,resveratrol,therapeutic,Acute Kidney Injury,445154.0
+230624,trans-resveratrol,therapeutic,Acute Kidney Injury,445154.0
+230723,resveratrol,therapeutic,Acute Lung Injury,445154.0
+230724,trans-resveratrol,therapeutic,Acute Lung Injury,445154.0
+230757,resveratrol,therapeutic,Adenocarcinoma,445154.0
+230758,trans-resveratrol,therapeutic,Adenocarcinoma,445154.0
+230933,resveratrol,therapeutic,Adenocarcinoma of lung,445154.0
+230934,trans-resveratrol,therapeutic,Adenocarcinoma of lung,445154.0
+231013,resveratrol,therapeutic,Adenoma,445154.0
+231014,trans-resveratrol,therapeutic,Adenoma,445154.0
+231063,resveratrol,therapeutic,Adenomatous Polyposis Coli,445154.0
+231064,trans-resveratrol,therapeutic,Adenomatous Polyposis Coli,445154.0
+231081,resveratrol,therapeutic,Adrenal Cortex Diseases,445154.0
+231082,trans-resveratrol,therapeutic,Adrenal Cortex Diseases,445154.0
+231155,resveratrol,therapeutic,"Aging, Premature",445154.0
+231156,trans-resveratrol,therapeutic,"Aging, Premature",445154.0
+231195,resveratrol,therapeutic,Albuminuria,445154.0
+231196,trans-resveratrol,therapeutic,Albuminuria,445154.0
+231311,resveratrol,therapeutic,Alveolar Bone Loss,445154.0
+231312,trans-resveratrol,therapeutic,Alveolar Bone Loss,445154.0
+231319,resveratrol,therapeutic,Alzheimer Disease,445154.0
+231320,trans-resveratrol,therapeutic,Alzheimer Disease,445154.0
+231529,resveratrol,therapeutic,Amyotrophic Lateral Sclerosis,445154.0
+231530,trans-resveratrol,therapeutic,Amyotrophic Lateral Sclerosis,445154.0
+231611,resveratrol,therapeutic,Anaphylaxis,445154.0
+231612,trans-resveratrol,therapeutic,Anaphylaxis,445154.0
+231619,resveratrol,therapeutic,Anemia,445154.0
+231620,trans-resveratrol,therapeutic,Anemia,445154.0
+231777,resveratrol,therapeutic,Anophthalmos,445154.0
+231778,trans-resveratrol,therapeutic,Anophthalmos,445154.0
+231795,resveratrol,therapeutic,Anoxia,445154.0
+231796,trans-resveratrol,therapeutic,Anoxia,445154.0
+231901,resveratrol,therapeutic,"Aortic Aneurysm, Abdominal",445154.0
+231902,trans-resveratrol,therapeutic,"Aortic Aneurysm, Abdominal",445154.0
+232035,resveratrol,therapeutic,Arsenic Poisoning,445154.0
+232036,trans-resveratrol,therapeutic,Arsenic Poisoning,445154.0
+232119,resveratrol,therapeutic,"Arthritis, Experimental",445154.0
+232120,trans-resveratrol,therapeutic,"Arthritis, Experimental",445154.0
+232299,resveratrol,therapeutic,"Arthritis, Rheumatoid",445154.0
+232300,trans-resveratrol,therapeutic,"Arthritis, Rheumatoid",445154.0
+232521,resveratrol,therapeutic,Asthenozoospermia,445154.0
+232522,trans-resveratrol,therapeutic,Asthenozoospermia,445154.0
+232527,resveratrol,therapeutic,Asthma,445154.0
+232528,trans-resveratrol,therapeutic,Asthma,445154.0
+232691,resveratrol,therapeutic,Atherosclerosis,445154.0
+232692,trans-resveratrol,therapeutic,Atherosclerosis,445154.0
+233227,resveratrol,therapeutic,beta-Thalassemia,445154.0
+233228,trans-resveratrol,therapeutic,beta-Thalassemia,445154.0
+233395,resveratrol,therapeutic,Bone Marrow failure syndromes,445154.0
+233396,trans-resveratrol,therapeutic,Bone Marrow failure syndromes,445154.0
+233417,resveratrol,therapeutic,Bone Resorption,445154.0
+233418,trans-resveratrol,therapeutic,Bone Resorption,445154.0
+233447,resveratrol,therapeutic,Bradycardia,445154.0
+233448,trans-resveratrol,therapeutic,Bradycardia,445154.0
+233501,resveratrol,therapeutic,Brain Edema,445154.0
+233502,trans-resveratrol,therapeutic,Brain Edema,445154.0
+233515,resveratrol,therapeutic,Brain Infarction,445154.0
+233516,trans-resveratrol,therapeutic,Brain Infarction,445154.0
+233525,resveratrol,therapeutic,Brain Injuries,445154.0
+233526,trans-resveratrol,therapeutic,Brain Injuries,445154.0
+233607,resveratrol,therapeutic,Brain Ischemia,445154.0
+233608,trans-resveratrol,therapeutic,Brain Ischemia,445154.0
+233765,resveratrol,therapeutic,Breast Neoplasms,445154.0
+233766,trans-resveratrol,therapeutic,Breast Neoplasms,445154.0
+234535,resveratrol,therapeutic,Carcinoma,445154.0
+234536,trans-resveratrol,therapeutic,Carcinoma,445154.0
+234847,resveratrol,therapeutic,"Carcinoma, Ductal",445154.0
+234848,trans-resveratrol,therapeutic,"Carcinoma, Ductal",445154.0
+234871,resveratrol,therapeutic,"Carcinoma, Ehrlich Tumor",445154.0
+234872,trans-resveratrol,therapeutic,"Carcinoma, Ehrlich Tumor",445154.0
+234873,resveratrol,therapeutic,"Carcinoma, Hepatocellular",445154.0
+234874,trans-resveratrol,therapeutic,"Carcinoma, Hepatocellular",445154.0
+235191,resveratrol,therapeutic,"Carcinoma, Lewis Lung",445154.0
+235192,trans-resveratrol,therapeutic,"Carcinoma, Lewis Lung",445154.0
+235203,resveratrol,therapeutic,"Carcinoma, Merkel Cell",445154.0
+235204,trans-resveratrol,therapeutic,"Carcinoma, Merkel Cell",445154.0
+235209,resveratrol,therapeutic,"Carcinoma, Non-Small-Cell Lung",445154.0
+235210,trans-resveratrol,therapeutic,"Carcinoma, Non-Small-Cell Lung",445154.0
+235363,resveratrol,therapeutic,"Carcinoma, Renal Cell",445154.0
+235364,trans-resveratrol,therapeutic,"Carcinoma, Renal Cell",445154.0
+235491,resveratrol,therapeutic,"Carcinoma, Squamous Cell",445154.0
+235492,trans-resveratrol,therapeutic,"Carcinoma, Squamous Cell",445154.0
+235635,resveratrol,therapeutic,"Carcinoma, squamous cell of head and neck",445154.0
+235636,trans-resveratrol,therapeutic,"Carcinoma, squamous cell of head and neck",445154.0
+235743,resveratrol,therapeutic,Cardiomegaly,445154.0
+235744,trans-resveratrol,therapeutic,Cardiomegaly,445154.0
+235849,resveratrol,therapeutic,Cardiomyopathies,445154.0
+235850,trans-resveratrol,therapeutic,Cardiomyopathies,445154.0
+235949,resveratrol,therapeutic,"Cardiomyopathy, Dilated",445154.0
+235950,trans-resveratrol,therapeutic,"Cardiomyopathy, Dilated",445154.0
+236053,resveratrol,therapeutic,"Cardiomyopathy, Hypertrophic",445154.0
+236054,trans-resveratrol,therapeutic,"Cardiomyopathy, Hypertrophic",445154.0
+236093,resveratrol,therapeutic,Cardiotoxicity,445154.0
+236094,trans-resveratrol,therapeutic,Cardiotoxicity,445154.0
+236105,resveratrol,therapeutic,Cardiovascular Diseases,445154.0
+236106,trans-resveratrol,therapeutic,Cardiovascular Diseases,445154.0
+236183,resveratrol,therapeutic,Carotid Artery Injuries,445154.0
+236184,trans-resveratrol,therapeutic,Carotid Artery Injuries,445154.0
+236193,resveratrol,therapeutic,Cartilage Diseases,445154.0
+236194,trans-resveratrol,therapeutic,Cartilage Diseases,445154.0
+236201,resveratrol,therapeutic,Catalepsy,445154.0
+236202,trans-resveratrol,therapeutic,Catalepsy,445154.0
+236267,resveratrol,therapeutic,"Cell Transformation, Neoplastic",445154.0
+236268,trans-resveratrol,therapeutic,"Cell Transformation, Neoplastic",445154.0
+236509,resveratrol,therapeutic,Cerebral Infarction,445154.0
+236510,trans-resveratrol,therapeutic,Cerebral Infarction,445154.0
+236539,resveratrol,therapeutic,"Ceroid lipofuscinosis, neuronal 1, infantile",445154.0
+236540,trans-resveratrol,therapeutic,"Ceroid lipofuscinosis, neuronal 1, infantile",445154.0
+236695,resveratrol,therapeutic,Cholestasis,445154.0
+236696,trans-resveratrol,therapeutic,Cholestasis,445154.0
+236827,resveratrol,therapeutic,Choroidal Neovascularization,445154.0
+236828,trans-resveratrol,therapeutic,Choroidal Neovascularization,445154.0
+236883,resveratrol,therapeutic,Chronobiology Disorders,445154.0
+236884,trans-resveratrol,therapeutic,Chronobiology Disorders,445154.0
+237071,resveratrol,therapeutic,Cognition Disorders,445154.0
+237072,trans-resveratrol,therapeutic,Cognition Disorders,445154.0
+237119,resveratrol,therapeutic,Colitis,445154.0
+237120,trans-resveratrol,therapeutic,Colitis,445154.0
+237161,resveratrol,therapeutic,"Colitis, Ulcerative",445154.0
+237162,trans-resveratrol,therapeutic,"Colitis, Ulcerative",445154.0
+237207,resveratrol,therapeutic,Colonic Neoplasms,445154.0
+237208,trans-resveratrol,therapeutic,Colonic Neoplasms,445154.0
+237395,resveratrol,therapeutic,Colonic Polyps,445154.0
+237396,trans-resveratrol,therapeutic,Colonic Polyps,445154.0
+237401,resveratrol,therapeutic,Colorectal Neoplasms,445154.0
+237402,trans-resveratrol,therapeutic,Colorectal Neoplasms,445154.0
+237761,resveratrol,therapeutic,Coronary Artery Disease,445154.0
+237762,trans-resveratrol,therapeutic,Coronary Artery Disease,445154.0
+237829,resveratrol,therapeutic,Coronary Disease,445154.0
+237830,trans-resveratrol,therapeutic,Coronary Disease,445154.0
+238191,resveratrol,therapeutic,Death,445154.0
+238192,trans-resveratrol,therapeutic,Death,445154.0
+238237,resveratrol,therapeutic,Depressive Disorder,445154.0
+238238,trans-resveratrol,therapeutic,Depressive Disorder,445154.0
+238553,resveratrol,therapeutic,Diabetes Complications,445154.0
+238554,trans-resveratrol,therapeutic,Diabetes Complications,445154.0
+238587,resveratrol,therapeutic,Diabetes Mellitus,445154.0
+238588,trans-resveratrol,therapeutic,Diabetes Mellitus,445154.0
+238629,resveratrol,therapeutic,"Diabetes Mellitus, Experimental",445154.0
+238630,trans-resveratrol,therapeutic,"Diabetes Mellitus, Experimental",445154.0
+238843,resveratrol,therapeutic,"Diabetes Mellitus, Type 1",445154.0
+238844,trans-resveratrol,therapeutic,"Diabetes Mellitus, Type 1",445154.0
+238903,resveratrol,therapeutic,"Diabetes Mellitus, Type 2",445154.0
+238904,trans-resveratrol,therapeutic,"Diabetes Mellitus, Type 2",445154.0
+239055,resveratrol,therapeutic,Diabetic Angiopathies,445154.0
+239056,trans-resveratrol,therapeutic,Diabetic Angiopathies,445154.0
+239081,resveratrol,therapeutic,Diabetic Cardiomyopathies,445154.0
+239082,trans-resveratrol,therapeutic,Diabetic Cardiomyopathies,445154.0
+239103,resveratrol,therapeutic,Diabetic Nephropathies,445154.0
+239104,trans-resveratrol,therapeutic,Diabetic Nephropathies,445154.0
+239149,resveratrol,therapeutic,Diabetic Neuropathies,445154.0
+239150,trans-resveratrol,therapeutic,Diabetic Neuropathies,445154.0
+239173,resveratrol,therapeutic,Diabetic Retinopathy,445154.0
+239174,trans-resveratrol,therapeutic,Diabetic Retinopathy,445154.0
+239215,resveratrol,therapeutic,"Disease Models, Animal",445154.0
+239216,trans-resveratrol,therapeutic,"Disease Models, Animal",445154.0
+239293,resveratrol,therapeutic,Disease Progression,445154.0
+239294,trans-resveratrol,therapeutic,Disease Progression,445154.0
+239541,resveratrol,therapeutic,Drug-Induced Liver Injury,445154.0
+239542,trans-resveratrol,therapeutic,Drug-Induced Liver Injury,445154.0
+239811,resveratrol,therapeutic,Drug-Related Side Effects and Adverse Reactions,445154.0
+239812,trans-resveratrol,therapeutic,Drug-Related Side Effects and Adverse Reactions,445154.0
+239949,resveratrol,therapeutic,Dyslipidemias,445154.0
+239950,trans-resveratrol,therapeutic,Dyslipidemias,445154.0
+240019,resveratrol,therapeutic,Edema,445154.0
+240020,trans-resveratrol,therapeutic,Edema,445154.0
+240059,resveratrol,therapeutic,"Edema, Cardiac",445154.0
+240060,trans-resveratrol,therapeutic,"Edema, Cardiac",445154.0
+240085,resveratrol,therapeutic,Embolism and Thrombosis,445154.0
+240086,trans-resveratrol,therapeutic,Embolism and Thrombosis,445154.0
+240117,resveratrol,therapeutic,"Encephalomyelitis, Autoimmune, Experimental",445154.0
+240118,trans-resveratrol,therapeutic,"Encephalomyelitis, Autoimmune, Experimental",445154.0
+240221,resveratrol,therapeutic,Endometriosis,445154.0
+240222,trans-resveratrol,therapeutic,Endometriosis,445154.0
+240375,resveratrol,therapeutic,Endomyocardial Fibrosis,445154.0
+240376,trans-resveratrol,therapeutic,Endomyocardial Fibrosis,445154.0
+240387,resveratrol,therapeutic,Endotoxemia,445154.0
+240388,trans-resveratrol,therapeutic,Endotoxemia,445154.0
+240423,resveratrol,therapeutic,"Enterocolitis, Necrotizing",445154.0
+240424,trans-resveratrol,therapeutic,"Enterocolitis, Necrotizing",445154.0
+240443,resveratrol,therapeutic,Enterovirus Infections,445154.0
+240444,trans-resveratrol,therapeutic,Enterovirus Infections,445154.0
+240589,resveratrol,therapeutic,Epstein-Barr Virus Infections,445154.0
+240590,trans-resveratrol,therapeutic,Epstein-Barr Virus Infections,445154.0
+240591,resveratrol,therapeutic,Erectile Dysfunction,445154.0
+240592,trans-resveratrol,therapeutic,Erectile Dysfunction,445154.0
+240605,resveratrol,therapeutic,Erythema,445154.0
+240606,trans-resveratrol,therapeutic,Erythema,445154.0
+240639,resveratrol,therapeutic,Esophageal Neoplasms,445154.0
+240640,trans-resveratrol,therapeutic,Esophageal Neoplasms,445154.0
+240923,resveratrol,therapeutic,Fanconi Anemia,445154.0
+240924,trans-resveratrol,therapeutic,Fanconi Anemia,445154.0
+240955,resveratrol,therapeutic,Fatigue,445154.0
+240956,trans-resveratrol,therapeutic,Fatigue,445154.0
+240963,resveratrol,therapeutic,Fatty Liver,445154.0
+240964,trans-resveratrol,therapeutic,Fatty Liver,445154.0
+241079,resveratrol,therapeutic,"Fatty Liver, Alcoholic",445154.0
+241080,trans-resveratrol,therapeutic,"Fatty Liver, Alcoholic",445154.0
+241127,resveratrol,therapeutic,Fetal Growth Retardation,445154.0
+241128,trans-resveratrol,therapeutic,Fetal Growth Retardation,445154.0
+241195,resveratrol,therapeutic,Fibrosis,445154.0
+241196,trans-resveratrol,therapeutic,Fibrosis,445154.0
+241263,resveratrol,therapeutic,Fish Diseases,445154.0
+241264,trans-resveratrol,therapeutic,Fish Diseases,445154.0
+241285,resveratrol,therapeutic,Food Hypersensitivity,445154.0
+241286,trans-resveratrol,therapeutic,Food Hypersensitivity,445154.0
+241315,resveratrol,therapeutic,Friedreich Ataxia,445154.0
+241316,trans-resveratrol,therapeutic,Friedreich Ataxia,445154.0
+241513,resveratrol,therapeutic,Glioblastoma,445154.0
+241514,trans-resveratrol,therapeutic,Glioblastoma,445154.0
+241587,resveratrol,therapeutic,Glioma,445154.0
+241588,trans-resveratrol,therapeutic,Glioma,445154.0
+241757,resveratrol,therapeutic,"Glomerulonephritis, IGA",445154.0
+241758,trans-resveratrol,therapeutic,"Glomerulonephritis, IGA",445154.0
+241799,resveratrol,therapeutic,"Glomerulonephritis, Membranous",445154.0
+241800,trans-resveratrol,therapeutic,"Glomerulonephritis, Membranous",445154.0
+241843,resveratrol,therapeutic,Glucose Intolerance,445154.0
+241844,trans-resveratrol,therapeutic,Glucose Intolerance,445154.0
+242021,resveratrol,therapeutic,Head and Neck Neoplasms,445154.0
+242022,trans-resveratrol,therapeutic,Head and Neck Neoplasms,445154.0
+242055,resveratrol,therapeutic,Hearing Loss,445154.0
+242056,trans-resveratrol,therapeutic,Hearing Loss,445154.0
+242077,resveratrol,therapeutic,"Hearing Loss, Noise-Induced",445154.0
+242078,trans-resveratrol,therapeutic,"Hearing Loss, Noise-Induced",445154.0
+242153,resveratrol,therapeutic,Heart Diseases,445154.0
+242154,trans-resveratrol,therapeutic,Heart Diseases,445154.0
+242211,resveratrol,therapeutic,Heart Failure,445154.0
+242212,trans-resveratrol,therapeutic,Heart Failure,445154.0
+242371,resveratrol,therapeutic,"Heart Failure, Diastolic",445154.0
+242372,trans-resveratrol,therapeutic,"Heart Failure, Diastolic",445154.0
+242517,resveratrol,therapeutic,Hematoma,445154.0
+242518,trans-resveratrol,therapeutic,Hematoma,445154.0
+242577,resveratrol,therapeutic,Hemorrhage,445154.0
+242578,trans-resveratrol,therapeutic,Hemorrhage,445154.0
+242623,resveratrol,therapeutic,Hepatic Insufficiency,445154.0
+242624,trans-resveratrol,therapeutic,Hepatic Insufficiency,445154.0
+242629,resveratrol,therapeutic,Hepatitis,445154.0
+242630,trans-resveratrol,therapeutic,Hepatitis,445154.0
+242711,resveratrol,therapeutic,Hepatitis C,445154.0
+242712,trans-resveratrol,therapeutic,Hepatitis C,445154.0
+242785,resveratrol,therapeutic,Hepatomegaly,445154.0
+242786,trans-resveratrol,therapeutic,Hepatomegaly,445154.0
+242931,resveratrol,therapeutic,Herpes Simplex,445154.0
+242932,trans-resveratrol,therapeutic,Herpes Simplex,445154.0
+242969,resveratrol,therapeutic,HIV Infections,445154.0
+242970,trans-resveratrol,therapeutic,HIV Infections,445154.0
+243123,resveratrol,therapeutic,Huntington Disease,445154.0
+243124,trans-resveratrol,therapeutic,Huntington Disease,445154.0
+243159,resveratrol,therapeutic,Hyperalgesia,445154.0
+243160,trans-resveratrol,therapeutic,Hyperalgesia,445154.0
+243257,resveratrol,therapeutic,Hyperamylasemia,445154.0
+243258,trans-resveratrol,therapeutic,Hyperamylasemia,445154.0
+243297,resveratrol,therapeutic,Hypercholesterolemia,445154.0
+243298,trans-resveratrol,therapeutic,Hypercholesterolemia,445154.0
+243367,resveratrol,therapeutic,Hyperglycemia,445154.0
+243368,trans-resveratrol,therapeutic,Hyperglycemia,445154.0
+243433,resveratrol,therapeutic,Hyperinsulinism,445154.0
+243434,trans-resveratrol,therapeutic,Hyperinsulinism,445154.0
+243491,resveratrol,therapeutic,Hyperlipidemias,445154.0
+243492,trans-resveratrol,therapeutic,Hyperlipidemias,445154.0
+243571,resveratrol,therapeutic,Hyperplasia,445154.0
+243572,trans-resveratrol,therapeutic,Hyperplasia,445154.0
+243619,resveratrol,therapeutic,Hypersensitivity,445154.0
+243620,trans-resveratrol,therapeutic,Hypersensitivity,445154.0
+243727,resveratrol,therapeutic,Hypertension,445154.0
+243728,trans-resveratrol,therapeutic,Hypertension,445154.0
+243977,resveratrol,therapeutic,"Hypertension, Pulmonary",445154.0
+243978,trans-resveratrol,therapeutic,"Hypertension, Pulmonary",445154.0
+244025,resveratrol,therapeutic,Hypertensive Encephalopathy,445154.0
+244026,trans-resveratrol,therapeutic,Hypertensive Encephalopathy,445154.0
+244027,resveratrol,therapeutic,Hypertensive Nephropathy,445154.0
+244028,trans-resveratrol,therapeutic,Hypertensive Nephropathy,445154.0
+244029,resveratrol,therapeutic,Hyperthyroidism,445154.0
+244030,trans-resveratrol,therapeutic,Hyperthyroidism,445154.0
+244055,resveratrol,therapeutic,Hypertriglyceridemia,445154.0
+244056,trans-resveratrol,therapeutic,Hypertriglyceridemia,445154.0
+244073,resveratrol,therapeutic,Hypertrophy,445154.0
+244074,trans-resveratrol,therapeutic,Hypertrophy,445154.0
+244101,resveratrol,therapeutic,"Hypertrophy, Left Ventricular",445154.0
+244102,trans-resveratrol,therapeutic,"Hypertrophy, Left Ventricular",445154.0
+244131,resveratrol,therapeutic,"Hypertrophy, Right Ventricular",445154.0
+244132,trans-resveratrol,therapeutic,"Hypertrophy, Right Ventricular",445154.0
+244135,resveratrol,therapeutic,Hyperuricemia,445154.0
+244136,trans-resveratrol,therapeutic,Hyperuricemia,445154.0
+244223,resveratrol,therapeutic,Hyponatremia,445154.0
+244224,trans-resveratrol,therapeutic,Hyponatremia,445154.0
+244315,resveratrol,therapeutic,Hypothermia,445154.0
+244316,trans-resveratrol,therapeutic,Hypothermia,445154.0
+244427,resveratrol,therapeutic,"Infarction, Middle Cerebral Artery",445154.0
+244428,trans-resveratrol,therapeutic,"Infarction, Middle Cerebral Artery",445154.0
+244493,resveratrol,therapeutic,"Infertility, Female",445154.0
+244494,trans-resveratrol,therapeutic,"Infertility, Female",445154.0
+244541,resveratrol,therapeutic,"Infertility, Male",445154.0
+244542,trans-resveratrol,therapeutic,"Infertility, Male",445154.0
+244595,resveratrol,therapeutic,Inflammation,445154.0
+244596,trans-resveratrol,therapeutic,Inflammation,445154.0
+244777,resveratrol,therapeutic,"Influenza, Human",445154.0
+244778,trans-resveratrol,therapeutic,"Influenza, Human",445154.0
+244817,resveratrol,therapeutic,Insulin Resistance,445154.0
+244818,trans-resveratrol,therapeutic,Insulin Resistance,445154.0
+244973,resveratrol,therapeutic,Intervertebral Disc Degeneration,445154.0
+244974,trans-resveratrol,therapeutic,Intervertebral Disc Degeneration,445154.0
+244979,resveratrol,therapeutic,Intestinal Diseases,445154.0
+244980,trans-resveratrol,therapeutic,Intestinal Diseases,445154.0
+245061,resveratrol,therapeutic,Ischemia,445154.0
+245062,trans-resveratrol,therapeutic,Ischemia,445154.0
+245107,resveratrol,therapeutic,"Ischemic Attack, Transient",445154.0
+245108,trans-resveratrol,therapeutic,"Ischemic Attack, Transient",445154.0
+245165,resveratrol,therapeutic,Keloid,445154.0
+245166,trans-resveratrol,therapeutic,Keloid,445154.0
+245247,resveratrol,therapeutic,Kidney Calculi,445154.0
+245248,trans-resveratrol,therapeutic,Kidney Calculi,445154.0
+245259,resveratrol,therapeutic,Kidney Diseases,445154.0
+245260,trans-resveratrol,therapeutic,Kidney Diseases,445154.0
+245675,resveratrol,therapeutic,Lens Diseases,445154.0
+245676,trans-resveratrol,therapeutic,Lens Diseases,445154.0
+245801,resveratrol,therapeutic,"Leukemia, Lymphoid",445154.0
+245802,trans-resveratrol,therapeutic,"Leukemia, Lymphoid",445154.0
+245807,resveratrol,therapeutic,"Leukemia-Lymphoma, Adult T-Cell",445154.0
+245808,trans-resveratrol,therapeutic,"Leukemia-Lymphoma, Adult T-Cell",445154.0
+245853,resveratrol,therapeutic,"Leukemia, Monocytic, Acute",445154.0
+245854,trans-resveratrol,therapeutic,"Leukemia, Monocytic, Acute",445154.0
+245857,resveratrol,therapeutic,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",445154.0
+245858,trans-resveratrol,therapeutic,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",445154.0
+245893,resveratrol,therapeutic,"Leukemia, Myeloid, Acute",445154.0
+245894,trans-resveratrol,therapeutic,"Leukemia, Myeloid, Acute",445154.0
+246015,resveratrol,therapeutic,"Leukemia, Promyelocytic, Acute",445154.0
+246016,trans-resveratrol,therapeutic,"Leukemia, Promyelocytic, Acute",445154.0
+246065,resveratrol,therapeutic,"Leukemia, T-Cell",445154.0
+246066,trans-resveratrol,therapeutic,"Leukemia, T-Cell",445154.0
+246243,resveratrol,therapeutic,Liver Cirrhosis,445154.0
+246244,trans-resveratrol,therapeutic,Liver Cirrhosis,445154.0
+246417,resveratrol,therapeutic,"Liver Cirrhosis, Experimental",445154.0
+246418,trans-resveratrol,therapeutic,"Liver Cirrhosis, Experimental",445154.0
+247151,resveratrol,therapeutic,Liver Diseases,445154.0
+247152,trans-resveratrol,therapeutic,Liver Diseases,445154.0
+247233,resveratrol,therapeutic,"Liver Diseases, Alcoholic",445154.0
+247234,trans-resveratrol,therapeutic,"Liver Diseases, Alcoholic",445154.0
+247287,resveratrol,therapeutic,Liver Neoplasms,445154.0
+247288,trans-resveratrol,therapeutic,Liver Neoplasms,445154.0
+247421,resveratrol,therapeutic,"Liver Neoplasms, Experimental",445154.0
+247422,trans-resveratrol,therapeutic,"Liver Neoplasms, Experimental",445154.0
+247591,resveratrol,therapeutic,Lung Diseases,445154.0
+247592,trans-resveratrol,therapeutic,Lung Diseases,445154.0
+247987,resveratrol,therapeutic,Lymphatic Diseases,445154.0
+247988,trans-resveratrol,therapeutic,Lymphatic Diseases,445154.0
+248031,resveratrol,therapeutic,"Lymphoma, B-Cell",445154.0
+248032,trans-resveratrol,therapeutic,"Lymphoma, B-Cell",445154.0
+248127,resveratrol,therapeutic,"Lymphoma, Non-Hodgkin",445154.0
+248128,trans-resveratrol,therapeutic,"Lymphoma, Non-Hodgkin",445154.0
+248231,resveratrol,therapeutic,Lymphoproliferative Disorders,445154.0
+248232,trans-resveratrol,therapeutic,Lymphoproliferative Disorders,445154.0
+248255,resveratrol,therapeutic,Macular Degeneration,445154.0
+248256,trans-resveratrol,therapeutic,Macular Degeneration,445154.0
+248335,resveratrol,therapeutic,"Mammary Neoplasms, Animal",445154.0
+248336,trans-resveratrol,therapeutic,"Mammary Neoplasms, Animal",445154.0
+248511,resveratrol,therapeutic,"Mammary Neoplasms, Experimental",445154.0
+248512,trans-resveratrol,therapeutic,"Mammary Neoplasms, Experimental",445154.0
+248859,resveratrol,therapeutic,Melanoma,445154.0
+248860,trans-resveratrol,therapeutic,Melanoma,445154.0
+249041,resveratrol,therapeutic,"Melanoma, Experimental",445154.0
+249042,trans-resveratrol,therapeutic,"Melanoma, Experimental",445154.0
+249067,resveratrol,therapeutic,Memory Disorders,445154.0
+249068,trans-resveratrol,therapeutic,Memory Disorders,445154.0
+249239,resveratrol,therapeutic,"Mesothelioma, Malignant",445154.0
+249240,trans-resveratrol,therapeutic,"Mesothelioma, Malignant",445154.0
+249357,resveratrol,therapeutic,Metabolic Diseases,445154.0
+249358,trans-resveratrol,therapeutic,Metabolic Diseases,445154.0
+249371,resveratrol,therapeutic,Metabolic Syndrome X,445154.0
+249372,trans-resveratrol,therapeutic,Metabolic Syndrome X,445154.0
+249611,resveratrol,therapeutic,Mitochondrial Diseases,445154.0
+249612,trans-resveratrol,therapeutic,Mitochondrial Diseases,445154.0
+249667,resveratrol,therapeutic,Motor Disorders,445154.0
+249668,trans-resveratrol,therapeutic,Motor Disorders,445154.0
+249753,resveratrol,therapeutic,Movement Disorders,445154.0
+249754,trans-resveratrol,therapeutic,Movement Disorders,445154.0
+249807,resveratrol,therapeutic,Multiple Myeloma,445154.0
+249808,trans-resveratrol,therapeutic,Multiple Myeloma,445154.0
+249909,resveratrol,therapeutic,Muscle Weakness,445154.0
+249910,trans-resveratrol,therapeutic,Muscle Weakness,445154.0
+249921,resveratrol,therapeutic,Muscular Atrophy,445154.0
+249922,trans-resveratrol,therapeutic,Muscular Atrophy,445154.0
+249943,resveratrol,therapeutic,"Muscular Atrophy, Spinal",445154.0
+249944,trans-resveratrol,therapeutic,"Muscular Atrophy, Spinal",445154.0
+249989,resveratrol,therapeutic,"Muscular Dystrophy, Duchenne",445154.0
+249990,trans-resveratrol,therapeutic,"Muscular Dystrophy, Duchenne",445154.0
+250093,resveratrol,therapeutic,Myocardial Infarction,445154.0
+250094,trans-resveratrol,therapeutic,Myocardial Infarction,445154.0
+250437,resveratrol,therapeutic,Myocardial Reperfusion Injury,445154.0
+250438,trans-resveratrol,therapeutic,Myocardial Reperfusion Injury,445154.0
+250575,resveratrol,therapeutic,Myocarditis,445154.0
+250576,trans-resveratrol,therapeutic,Myocarditis,445154.0
+250637,resveratrol,therapeutic,Nasopharyngeal carcinoma,445154.0
+250638,trans-resveratrol,therapeutic,Nasopharyngeal carcinoma,445154.0
+250691,resveratrol,therapeutic,Necrosis,445154.0
+250692,trans-resveratrol,therapeutic,Necrosis,445154.0
+250799,resveratrol,therapeutic,Neointima,445154.0
+250800,trans-resveratrol,therapeutic,Neointima,445154.0
+250809,resveratrol,therapeutic,Neoplasm Invasiveness,445154.0
+250810,trans-resveratrol,therapeutic,Neoplasm Invasiveness,445154.0
+251003,resveratrol,therapeutic,Neoplasm Metastasis,445154.0
+251004,trans-resveratrol,therapeutic,Neoplasm Metastasis,445154.0
+251293,resveratrol,therapeutic,Neoplasms,445154.0
+251294,trans-resveratrol,therapeutic,Neoplasms,445154.0
+251379,resveratrol,therapeutic,"Neoplasms, Experimental",445154.0
+251380,trans-resveratrol,therapeutic,"Neoplasms, Experimental",445154.0
+251479,resveratrol,therapeutic,"Neovascularization, Pathologic",445154.0
+251480,trans-resveratrol,therapeutic,"Neovascularization, Pathologic",445154.0
+251585,resveratrol,therapeutic,Nerve Degeneration,445154.0
+251586,trans-resveratrol,therapeutic,Nerve Degeneration,445154.0
+251783,resveratrol,therapeutic,Neural Tube Defects,445154.0
+251784,trans-resveratrol,therapeutic,Neural Tube Defects,445154.0
+251881,resveratrol,therapeutic,Neurodegenerative Diseases,445154.0
+251882,trans-resveratrol,therapeutic,Neurodegenerative Diseases,445154.0
+252001,resveratrol,therapeutic,Neurogenic Inflammation,445154.0
+252002,trans-resveratrol,therapeutic,Neurogenic Inflammation,445154.0
+252043,resveratrol,therapeutic,Neurotoxicity Syndromes,445154.0
+252044,trans-resveratrol,therapeutic,Neurotoxicity Syndromes,445154.0
+252125,resveratrol,therapeutic,Non-alcoholic Fatty Liver Disease,445154.0
+252126,trans-resveratrol,therapeutic,Non-alcoholic Fatty Liver Disease,445154.0
+252239,resveratrol,therapeutic,Obesity,445154.0
+252240,trans-resveratrol,therapeutic,Obesity,445154.0
+252511,resveratrol,therapeutic,Oligospermia,445154.0
+252512,trans-resveratrol,therapeutic,Oligospermia,445154.0
+252537,resveratrol,therapeutic,Opioid-Related Disorders,445154.0
+252538,trans-resveratrol,therapeutic,Opioid-Related Disorders,445154.0
+252623,resveratrol,therapeutic,Osteoarthritis,445154.0
+252624,trans-resveratrol,therapeutic,Osteoarthritis,445154.0
+252715,resveratrol,therapeutic,"Osteoarthritis, Knee",445154.0
+252716,trans-resveratrol,therapeutic,"Osteoarthritis, Knee",445154.0
+252781,resveratrol,therapeutic,Osteoporosis,445154.0
+252782,trans-resveratrol,therapeutic,Osteoporosis,445154.0
+252845,resveratrol,therapeutic,"Osteoporosis, Postmenopausal",445154.0
+252846,trans-resveratrol,therapeutic,"Osteoporosis, Postmenopausal",445154.0
+252935,resveratrol,therapeutic,Ovarian Neoplasms,445154.0
+252936,trans-resveratrol,therapeutic,Ovarian Neoplasms,445154.0
+253119,resveratrol,therapeutic,Pancreatic Neoplasms,445154.0
+253120,trans-resveratrol,therapeutic,Pancreatic Neoplasms,445154.0
+253225,resveratrol,therapeutic,Pancreatitis,445154.0
+253226,trans-resveratrol,therapeutic,Pancreatitis,445154.0
+253437,resveratrol,therapeutic,"Parkinson Disease, Secondary",445154.0
+253438,trans-resveratrol,therapeutic,"Parkinson Disease, Secondary",445154.0
+253449,resveratrol,therapeutic,Parkinsonian Disorders,445154.0
+253450,trans-resveratrol,therapeutic,Parkinsonian Disorders,445154.0
+253627,resveratrol,therapeutic,Peritonitis,445154.0
+253628,trans-resveratrol,therapeutic,Peritonitis,445154.0
+253729,resveratrol,therapeutic,Pituitary Neoplasms,445154.0
+253730,trans-resveratrol,therapeutic,Pituitary Neoplasms,445154.0
+253947,resveratrol,therapeutic,Polycystic Ovary Syndrome,445154.0
+253948,trans-resveratrol,therapeutic,Polycystic Ovary Syndrome,445154.0
+254123,resveratrol,therapeutic,Precancerous Conditions,445154.0
+254124,trans-resveratrol,therapeutic,Precancerous Conditions,445154.0
+254243,resveratrol,therapeutic,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,445154.0
+254244,trans-resveratrol,therapeutic,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,445154.0
+254253,resveratrol,therapeutic,Precursor Cell Lymphoblastic Leukemia-Lymphoma,445154.0
+254254,trans-resveratrol,therapeutic,Precursor Cell Lymphoblastic Leukemia-Lymphoma,445154.0
+254291,resveratrol,therapeutic,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,445154.0
+254292,trans-resveratrol,therapeutic,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,445154.0
+254305,resveratrol,therapeutic,Pre-Eclampsia,445154.0
+254306,trans-resveratrol,therapeutic,Pre-Eclampsia,445154.0
+254357,resveratrol,therapeutic,Prenatal Exposure Delayed Effects,445154.0
+254358,trans-resveratrol,therapeutic,Prenatal Exposure Delayed Effects,445154.0
+254403,resveratrol,therapeutic,Progeria,445154.0
+254404,trans-resveratrol,therapeutic,Progeria,445154.0
+254417,resveratrol,therapeutic,Prolactinoma,445154.0
+254418,trans-resveratrol,therapeutic,Prolactinoma,445154.0
+254469,resveratrol,therapeutic,Prostatic Neoplasms,445154.0
+254470,trans-resveratrol,therapeutic,Prostatic Neoplasms,445154.0
+254971,resveratrol,therapeutic,Proteinuria,445154.0
+254972,trans-resveratrol,therapeutic,Proteinuria,445154.0
+255143,resveratrol,therapeutic,"Pulmonary Disease, Chronic Obstructive",445154.0
+255144,trans-resveratrol,therapeutic,"Pulmonary Disease, Chronic Obstructive",445154.0
+255185,resveratrol,therapeutic,Pulmonary Edema,445154.0
+255186,trans-resveratrol,therapeutic,Pulmonary Edema,445154.0
+255225,resveratrol,therapeutic,Pulmonary Fibrosis,445154.0
+255226,trans-resveratrol,therapeutic,Pulmonary Fibrosis,445154.0
+255477,resveratrol,therapeutic,"Renal Insufficiency, Chronic",445154.0
+255478,trans-resveratrol,therapeutic,"Renal Insufficiency, Chronic",445154.0
+255501,resveratrol,therapeutic,Reperfusion Injury,445154.0
+255502,trans-resveratrol,therapeutic,Reperfusion Injury,445154.0
+255747,resveratrol,therapeutic,Respiratory Syncytial Virus Infections,445154.0
+255748,trans-resveratrol,therapeutic,Respiratory Syncytial Virus Infections,445154.0
+255763,resveratrol,therapeutic,Respiratory Tract Diseases,445154.0
+255764,trans-resveratrol,therapeutic,Respiratory Tract Diseases,445154.0
+255797,resveratrol,therapeutic,Retinal Detachment,445154.0
+255798,trans-resveratrol,therapeutic,Retinal Detachment,445154.0
+255813,resveratrol,therapeutic,Retinal Diseases,445154.0
+255814,trans-resveratrol,therapeutic,Retinal Diseases,445154.0
+255847,resveratrol,therapeutic,Retinal Neovascularization,445154.0
+255848,trans-resveratrol,therapeutic,Retinal Neovascularization,445154.0
+256055,resveratrol,therapeutic,Schistosomiasis japonica,445154.0
+256056,trans-resveratrol,therapeutic,Schistosomiasis japonica,445154.0
+256177,resveratrol,therapeutic,"Scleroderma, Systemic",445154.0
+256178,trans-resveratrol,therapeutic,"Scleroderma, Systemic",445154.0
+256193,resveratrol,therapeutic,Scoliosis,445154.0
+256194,trans-resveratrol,therapeutic,Scoliosis,445154.0
+256213,resveratrol,therapeutic,Seizures,445154.0
+256214,trans-resveratrol,therapeutic,Seizures,445154.0
+256309,resveratrol,therapeutic,Sepsis,445154.0
+256310,trans-resveratrol,therapeutic,Sepsis,445154.0
+256375,resveratrol,therapeutic,Sezary Syndrome,445154.0
+256376,trans-resveratrol,therapeutic,Sezary Syndrome,445154.0
+256413,resveratrol,therapeutic,"Shock, Hemorrhagic",445154.0
+256414,trans-resveratrol,therapeutic,"Shock, Hemorrhagic",445154.0
+256567,resveratrol,therapeutic,Skin Neoplasms,445154.0
+256568,trans-resveratrol,therapeutic,Skin Neoplasms,445154.0
+256779,resveratrol,therapeutic,Spinocerebellar Ataxia 17,445154.0
+256780,trans-resveratrol,therapeutic,Spinocerebellar Ataxia 17,445154.0
+256811,resveratrol,therapeutic,Splenomegaly,445154.0
+256812,trans-resveratrol,therapeutic,Splenomegaly,445154.0
+256997,resveratrol,therapeutic,Stomach Neoplasms,445154.0
+256998,trans-resveratrol,therapeutic,Stomach Neoplasms,445154.0
+257309,resveratrol,therapeutic,Stroke,445154.0
+257310,trans-resveratrol,therapeutic,Stroke,445154.0
+257367,resveratrol,therapeutic,Subarachnoid Hemorrhage,445154.0
+257368,trans-resveratrol,therapeutic,Subarachnoid Hemorrhage,445154.0
+257377,resveratrol,therapeutic,Substance-Related Disorders,445154.0
+257378,trans-resveratrol,therapeutic,Substance-Related Disorders,445154.0
+257537,resveratrol,therapeutic,Teratoma,445154.0
+257538,trans-resveratrol,therapeutic,Teratoma,445154.0
+257541,resveratrol,therapeutic,Testicular Diseases,445154.0
+257542,trans-resveratrol,therapeutic,Testicular Diseases,445154.0
+257735,resveratrol,therapeutic,"Thyroid cancer, medullary",445154.0
+257736,trans-resveratrol,therapeutic,"Thyroid cancer, medullary",445154.0
+257857,resveratrol,therapeutic,Tongue Neoplasms,445154.0
+257858,trans-resveratrol,therapeutic,Tongue Neoplasms,445154.0
+257909,resveratrol,therapeutic,Trigeminal Neuralgia,445154.0
+257910,trans-resveratrol,therapeutic,Trigeminal Neuralgia,445154.0
+258245,resveratrol,therapeutic,Uterine Cervical Neoplasms,445154.0
+258246,trans-resveratrol,therapeutic,Uterine Cervical Neoplasms,445154.0
+258287,resveratrol,therapeutic,Uterine Neoplasms,445154.0
+258288,trans-resveratrol,therapeutic,Uterine Neoplasms,445154.0
+258337,resveratrol,therapeutic,Vascular Diseases,445154.0
+258338,trans-resveratrol,therapeutic,Vascular Diseases,445154.0
+258381,resveratrol,therapeutic,"Vasospasm, Intracranial",445154.0
+258382,trans-resveratrol,therapeutic,"Vasospasm, Intracranial",445154.0
+258427,resveratrol,therapeutic,Ventricular Dysfunction,445154.0
+258428,trans-resveratrol,therapeutic,Ventricular Dysfunction,445154.0
+258441,resveratrol,therapeutic,"Ventricular Dysfunction, Left",445154.0
+258442,trans-resveratrol,therapeutic,"Ventricular Dysfunction, Left",445154.0
+258473,resveratrol,therapeutic,"Ventricular Dysfunction, Right",445154.0
+258474,trans-resveratrol,therapeutic,"Ventricular Dysfunction, Right",445154.0
+258487,resveratrol,therapeutic,Ventricular Remodeling,445154.0
+258488,trans-resveratrol,therapeutic,Ventricular Remodeling,445154.0
+258573,resveratrol,therapeutic,Waldenstrom Macroglobulinemia,445154.0
+258574,trans-resveratrol,therapeutic,Waldenstrom Macroglobulinemia,445154.0
+258577,resveratrol,therapeutic,Wallerian Degeneration,445154.0
+258578,trans-resveratrol,therapeutic,Wallerian Degeneration,445154.0
+258587,resveratrol,therapeutic,Wasting Syndrome,445154.0
+258588,trans-resveratrol,therapeutic,Wasting Syndrome,445154.0
+258593,resveratrol,therapeutic,Weight Gain,445154.0
+258594,trans-resveratrol,therapeutic,Weight Gain,445154.0
+258685,resveratrol,therapeutic,Weight Loss,445154.0
+258686,trans-resveratrol,therapeutic,Weight Loss,445154.0
+258717,resveratrol,therapeutic,Werner Syndrome,445154.0
+258718,trans-resveratrol,therapeutic,Werner Syndrome,445154.0
+258747,resveratrol,therapeutic,Wounds and Injuries,445154.0
+258748,trans-resveratrol,therapeutic,Wounds and Injuries,445154.0
+258923,resveratrol 3-o-glucoside,therapeutic,Anaphylaxis,5281718.0
+259371,resveratrol 3-o-glucoside,therapeutic,Cardiomegaly,5281718.0
+259737,resveratrol 3-o-glucoside,therapeutic,"Disease Models, Animal",5281718.0
+259849,resveratrol 3-o-glucoside,therapeutic,Endomyocardial Fibrosis,5281718.0
+259863,resveratrol 3-o-glucoside,therapeutic,Enterovirus Infections,5281718.0
+260299,resveratrol 3-o-glucoside,therapeutic,Hypertrophy,5281718.0
+260317,resveratrol 3-o-glucoside,therapeutic,Hyperuricemia,5281718.0
+260451,resveratrol 3-o-glucoside,therapeutic,Kidney Diseases,5281718.0
+262516,xanthohumol,therapeutic,Breast Neoplasms,639665.0
+262563,xanthohumol,therapeutic,"Carcinoma, Hepatocellular",639665.0
+262775,xanthohumol,therapeutic,Disease Progression,639665.0
+263126,xanthohumol,therapeutic,Lymphatic Metastasis,639665.0
+263226,xanthohumol,therapeutic,Neoplasm Invasiveness,639665.0
+263295,xanthohumol,therapeutic,Osteoarthritis,639665.0
+263306,xanthohumol,therapeutic,Osteoporosis,639665.0
+263341,xanthohumol,therapeutic,Periodontitis,639665.0
+264835,(-)-epigallocatechin 3-o-gallate,therapeutic,Acute Kidney Injury,65064.0
+264860,(-)-epigallocatechin 3-o-gallate,therapeutic,Acute Lung Injury,65064.0
+264926,(-)-epigallocatechin 3-o-gallate,therapeutic,Adenoma,65064.0
+265147,(-)-epigallocatechin 3-o-gallate,therapeutic,Anxiety Disorders,65064.0
+265350,(-)-epigallocatechin 3-o-gallate,therapeutic,Asthma,65064.0
+265396,(-)-epigallocatechin 3-o-gallate,therapeutic,Atherosclerosis,65064.0
+265496,(-)-epigallocatechin 3-o-gallate,therapeutic,Autoimmune Diseases,65064.0
+265691,(-)-epigallocatechin 3-o-gallate,therapeutic,Breast Neoplasms,65064.0
+265950,(-)-epigallocatechin 3-o-gallate,therapeutic,"Carcinoma, Hepatocellular",65064.0
+266116,(-)-epigallocatechin 3-o-gallate,therapeutic,"Carcinoma, Squamous Cell",65064.0
+266244,(-)-epigallocatechin 3-o-gallate,therapeutic,"Cardiomyopathy, Hypertrophic",65064.0
+266250,(-)-epigallocatechin 3-o-gallate,therapeutic,Cardiotoxicity,65064.0
+266499,(-)-epigallocatechin 3-o-gallate,therapeutic,Cocaine-Related Disorders,65064.0
+266565,(-)-epigallocatechin 3-o-gallate,therapeutic,Colonic Neoplasms,65064.0
+266612,(-)-epigallocatechin 3-o-gallate,therapeutic,Colorectal Neoplasms,65064.0
+266962,(-)-epigallocatechin 3-o-gallate,therapeutic,"Diabetes Mellitus, Type 2",65064.0
+267110,(-)-epigallocatechin 3-o-gallate,therapeutic,Drug-Induced Liver Injury,65064.0
+267212,(-)-epigallocatechin 3-o-gallate,therapeutic,Edema,65064.0
+267531,(-)-epigallocatechin 3-o-gallate,therapeutic,Fish Diseases,65064.0
+267753,(-)-epigallocatechin 3-o-gallate,therapeutic,Heart Diseases,65064.0
+267849,(-)-epigallocatechin 3-o-gallate,therapeutic,Hemolysis,65064.0
+267859,(-)-epigallocatechin 3-o-gallate,therapeutic,Hemorrhage,65064.0
+267946,(-)-epigallocatechin 3-o-gallate,therapeutic,Herpes Simplex,65064.0
+268064,(-)-epigallocatechin 3-o-gallate,therapeutic,Hyperkinesis,65064.0
+268118,(-)-epigallocatechin 3-o-gallate,therapeutic,Hypertension,65064.0
+268340,(-)-epigallocatechin 3-o-gallate,therapeutic,Inflammation,65064.0
+268536,(-)-epigallocatechin 3-o-gallate,therapeutic,Kidney Diseases,65064.0
+268772,(-)-epigallocatechin 3-o-gallate,therapeutic,Liver Cirrhosis,65064.0
+268823,(-)-epigallocatechin 3-o-gallate,therapeutic,"Liver Cirrhosis, Experimental",65064.0
+269019,(-)-epigallocatechin 3-o-gallate,therapeutic,Liver Neoplasms,65064.0
+269113,(-)-epigallocatechin 3-o-gallate,therapeutic,Lung Neoplasms,65064.0
+269389,(-)-epigallocatechin 3-o-gallate,therapeutic,Melanoma,65064.0
+269662,(-)-epigallocatechin 3-o-gallate,therapeutic,"Muscular Atrophy, Spinal",65064.0
+269702,(-)-epigallocatechin 3-o-gallate,therapeutic,Myocardial Infarction,65064.0
+269839,(-)-epigallocatechin 3-o-gallate,therapeutic,Necrosis,65064.0
+269868,(-)-epigallocatechin 3-o-gallate,therapeutic,Neoplasm Invasiveness,65064.0
+270062,(-)-epigallocatechin 3-o-gallate,therapeutic,Nerve Degeneration,65064.0
+270433,(-)-epigallocatechin 3-o-gallate,therapeutic,Pancreatic Neoplasms,65064.0
+270566,(-)-epigallocatechin 3-o-gallate,therapeutic,Peritoneal Fibrosis,65064.0
+270636,(-)-epigallocatechin 3-o-gallate,therapeutic,Poisoning,65064.0
+270702,(-)-epigallocatechin 3-o-gallate,therapeutic,Precancerous Conditions,65064.0
+270789,(-)-epigallocatechin 3-o-gallate,therapeutic,Prostatic Neoplasms,65064.0
+270908,(-)-epigallocatechin 3-o-gallate,therapeutic,Prostatitis,65064.0
+270983,(-)-epigallocatechin 3-o-gallate,therapeutic,Pulmonary Fibrosis,65064.0
+271344,(-)-epigallocatechin 3-o-gallate,therapeutic,Skin Neoplasms,65064.0
+271575,(-)-epigallocatechin 3-o-gallate,therapeutic,Substance Withdrawal Syndrome,65064.0
+271678,(-)-epigallocatechin 3-o-gallate,therapeutic,Tongue Neoplasms,65064.0
+271890,(-)-epigallocatechin 3-o-gallate,therapeutic,Weight Loss,65064.0
+271998,theaflavin,therapeutic,Atherosclerosis,114777.0
+272245,theaflavin,therapeutic,Drug-Induced Liver Injury,114777.0
+272357,theaflavin,therapeutic,Hyperplasia,114777.0
+272386,theaflavin,therapeutic,Inflammation,114777.0
+272451,theaflavin,therapeutic,Liver Neoplasms,114777.0
+272690,theaflavin,therapeutic,Prostatic Neoplasms,114777.0
+272808,theaflavin,therapeutic,Tongue Neoplasms,114777.0
+272841,theaflavin,therapeutic,Weight Loss,114777.0
+272890,kaempferol 3-o-sophoroside,therapeutic,Diabetes Mellitus,5282155.0
+272913,kaempferol 3-o-sophoroside,therapeutic,Hypersensitivity,5282155.0
+272919,kaempferol 3-o-sophoroside,therapeutic,Inflammation,5282155.0
+272952,kaempferol 3-o-sophoroside,therapeutic,Neoplasms,5282155.0
+273809,episesamin,therapeutic,Brain Injuries,72307.0
+273810,sesamin,therapeutic,Brain Injuries,72307.0
+273939,episesamin,therapeutic,Catalepsy,72307.0
+273940,sesamin,therapeutic,Catalepsy,72307.0
+274129,episesamin,therapeutic,Drug-Induced Liver Injury,72307.0
+274130,sesamin,therapeutic,Drug-Induced Liver Injury,72307.0
+274157,episesamin,therapeutic,Edema,72307.0
+274158,sesamin,therapeutic,Edema,72307.0
+274259,episesamin,therapeutic,Heart Diseases,72307.0
+274260,sesamin,therapeutic,Heart Diseases,72307.0
+274397,episesamin,therapeutic,Hypokinesia,72307.0
+274398,sesamin,therapeutic,Hypokinesia,72307.0
+274413,episesamin,therapeutic,"Infarction, Middle Cerebral Artery",72307.0
+274414,sesamin,therapeutic,"Infarction, Middle Cerebral Artery",72307.0
+274429,episesamin,therapeutic,Inflammation,72307.0
+274430,sesamin,therapeutic,Inflammation,72307.0
+274875,episesamin,therapeutic,Parkinsonian Disorders,72307.0
+274876,sesamin,therapeutic,Parkinsonian Disorders,72307.0
+275298,secoisolariciresinol,therapeutic,Edema,11646293.0
+275523,bisdemethoxycurcumin,therapeutic,Alzheimer Disease,5315472.0
+275822,bisdemethoxycurcumin,therapeutic,Edema,5315472.0
+276147,bisdemethoxycurcumin,therapeutic,Neoplasm Invasiveness,5315472.0
+276373,bisdemethoxycurcumin,therapeutic,Stomach Ulcer,5315472.0
+276497,curcumin,therapeutic,Acute Kidney Injury,969516.0
+276531,curcumin,therapeutic,Acute Lung Injury,969516.0
+276624,curcumin,therapeutic,Adenoma,969516.0
+276642,curcumin,therapeutic,Adenomatous Polyposis Coli,969516.0
+276678,curcumin,therapeutic,Albuminuria,969516.0
+276693,curcumin,therapeutic,Alcohol-Related Disorders,969516.0
+276708,curcumin,therapeutic,Alzheimer Disease,969516.0
+276742,curcumin,therapeutic,Amnesia,969516.0
+276919,curcumin,therapeutic,Arsenic Poisoning,969516.0
+276941,curcumin,therapeutic,"Arthritis, Experimental",969516.0
+277002,curcumin,therapeutic,"Arthritis, Rheumatoid",969516.0
+277062,curcumin,therapeutic,Ascites,969516.0
+277068,curcumin,therapeutic,Asthenozoospermia,969516.0
+277117,curcumin,therapeutic,Atherosclerosis,969516.0
+277223,curcumin,therapeutic,Autoimmune Diseases,969516.0
+277366,curcumin,therapeutic,Brain Ischemia,969516.0
+277411,curcumin,therapeutic,Brain Neoplasms,969516.0
+277429,curcumin,therapeutic,Breast Neoplasms,969516.0
+277640,curcumin,therapeutic,Capillary Leak Syndrome,969516.0
+277645,curcumin,therapeutic,Carcinoma,969516.0
+277720,curcumin,therapeutic,"Carcinoma, Ductal, Breast",969516.0
+277726,curcumin,therapeutic,"Carcinoma, Hepatocellular",969516.0
+277831,curcumin,therapeutic,"Carcinoma, Non-Small-Cell Lung",969516.0
+277915,curcumin,therapeutic,"Carcinoma, Squamous Cell",969516.0
+277997,curcumin,therapeutic,Cardiomegaly,969516.0
+278025,curcumin,therapeutic,Cardiomyopathies,969516.0
+278313,curcumin,therapeutic,Cocaine-Related Disorders,969516.0
+278335,curcumin,therapeutic,Cognition Disorders,969516.0
+278346,curcumin,therapeutic,Colitis,969516.0
+278384,curcumin,therapeutic,Coloboma,969516.0
+278386,curcumin,therapeutic,Colonic Neoplasms,969516.0
+278532,curcumin,therapeutic,Corneal Neovascularization,969516.0
+278638,curcumin,therapeutic,Cystitis,969516.0
+278649,curcumin,therapeutic,Dementia,969516.0
+278844,curcumin,therapeutic,"Diabetes Mellitus, Type 2",969516.0
+278897,curcumin,therapeutic,Diabetic Nephropathies,969516.0
+278935,curcumin,therapeutic,Diarrhea,969516.0
+279019,curcumin,therapeutic,Drug-Induced Liver Injury,969516.0
+279085,curcumin,therapeutic,Drug-Related Side Effects and Adverse Reactions,969516.0
+279109,curcumin,therapeutic,Duodenal Ulcer,969516.0
+279135,curcumin,therapeutic,Edema,969516.0
+279231,curcumin,therapeutic,Enteritis,969516.0
+279369,curcumin,therapeutic,Fatty Liver,969516.0
+279440,curcumin,therapeutic,Fibrosis,969516.0
+279497,curcumin,therapeutic,Gastrointestinal Neoplasms,969516.0
+279530,curcumin,therapeutic,Glioblastoma,969516.0
+279671,curcumin,therapeutic,Head and Neck Neoplasms,969516.0
+279699,curcumin,therapeutic,Heart Diseases,969516.0
+279784,curcumin,therapeutic,Helicobacter Infections,969516.0
+279810,curcumin,therapeutic,Hemolysis,969516.0
+279821,curcumin,therapeutic,Hemorrhage,969516.0
+279834,curcumin,therapeutic,Hepatic Veno-Occlusive Disease,969516.0
+279893,curcumin,therapeutic,Hepatomegaly,969516.0
+279905,curcumin,therapeutic,Hereditary Sensory and Motor Neuropathy,969516.0
+279981,curcumin,therapeutic,Hyperalgesia,969516.0
+280024,curcumin,therapeutic,Hypercholesterolemia,969516.0
+280046,curcumin,therapeutic,Hyperglycemia,969516.0
+280076,curcumin,therapeutic,Hyperlipidemias,969516.0
+280142,curcumin,therapeutic,Hypertension,969516.0
+280232,curcumin,therapeutic,Hyperthyroidism,969516.0
+280263,curcumin,therapeutic,Hypoalbuminemia,969516.0
+280306,curcumin,therapeutic,Hypothyroidism,969516.0
+280378,curcumin,therapeutic,Inflammation,969516.0
+280438,curcumin,therapeutic,Inflammatory Bowel Diseases,969516.0
+280454,curcumin,therapeutic,Insulin Resistance,969516.0
+280505,curcumin,therapeutic,Intestinal Neoplasms,969516.0
+280589,curcumin,therapeutic,Kidney Diseases,969516.0
+280617,curcumin,therapeutic,"Kidney Failure, Chronic",969516.0
+280674,curcumin,therapeutic,Learning Disorders,969516.0
+280687,curcumin,therapeutic,Leiomyoma,969516.0
+280727,curcumin,therapeutic,Leukemia,969516.0
+280930,curcumin,therapeutic,"Liver Cirrhosis, Experimental",969516.0
+281076,curcumin,therapeutic,Liver Diseases,969516.0
+281207,curcumin,therapeutic,Lung Neoplasms,969516.0
+281307,curcumin,therapeutic,Lymphoma,969516.0
+281348,curcumin,therapeutic,"Lymphoma, T-Cell",969516.0
+281508,curcumin,therapeutic,Melanoma,969516.0
+281562,curcumin,therapeutic,Memory Disorders,969516.0
+281592,curcumin,therapeutic,Mercury Poisoning,969516.0
+281600,curcumin,therapeutic,Mesothelioma,969516.0
+281728,curcumin,therapeutic,Mouth Neoplasms,969516.0
+281747,curcumin,therapeutic,Movement Disorders,969516.0
+281756,curcumin,therapeutic,Multiple Myeloma,969516.0
+281797,curcumin,therapeutic,"Muscular Atrophy, Spinal",969516.0
+281799,curcumin,therapeutic,Muscular Diseases,969516.0
+281835,curcumin,therapeutic,Myocardial Infarction,969516.0
+281882,curcumin,therapeutic,Myocardial Ischemia,969516.0
+281996,curcumin,therapeutic,Necrosis,969516.0
+282023,curcumin,therapeutic,Neoplasm Invasiveness,969516.0
+282165,curcumin,therapeutic,Neoplasms,969516.0
+282192,curcumin,therapeutic,"Neoplasms, Experimental",969516.0
+282220,curcumin,therapeutic,"Neoplasms, Hormone-Dependent",969516.0
+282224,curcumin,therapeutic,Neoplastic Processes,969516.0
+282260,curcumin,therapeutic,Nerve Degeneration,969516.0
+282320,curcumin,therapeutic,Nervous System Neoplasms,969516.0
+282332,curcumin,therapeutic,Neurobehavioral Manifestations,969516.0
+282385,curcumin,therapeutic,Neurotoxicity Syndromes,969516.0
+282436,curcumin,therapeutic,Obesity,969516.0
+282509,curcumin,therapeutic,Oligospermia,969516.0
+282534,curcumin,therapeutic,Osteoarthritis,969516.0
+282576,curcumin,therapeutic,Osteoporosis,969516.0
+282621,curcumin,therapeutic,Ovarian Neoplasms,969516.0
+282672,curcumin,therapeutic,Pancreatic Neoplasms,969516.0
+282772,curcumin,therapeutic,Parkinsonian Disorders,969516.0
+283036,curcumin,therapeutic,Prostatic Neoplasms,969516.0
+283166,curcumin,therapeutic,Proteinuria,969516.0
+283230,curcumin,therapeutic,Pulmonary Edema,969516.0
+283239,curcumin,therapeutic,Pulmonary Emphysema,969516.0
+283386,curcumin,therapeutic,"Respiratory Distress Syndrome, Adult",969516.0
+283472,curcumin,therapeutic,Sarcoma,969516.0
+283534,curcumin,therapeutic,Seizures,969516.0
+283561,curcumin,therapeutic,Sepsis,969516.0
+283634,curcumin,therapeutic,Skin Neoplasms,969516.0
+283752,curcumin,therapeutic,Stomach Neoplasms,969516.0
+283835,curcumin,therapeutic,Stomach Ulcer,969516.0
+284017,curcumin,therapeutic,Ulcer,969516.0
+284049,curcumin,therapeutic,Urinary Bladder Neoplasms,969516.0
+284094,curcumin,therapeutic,Urogenital Neoplasms,969516.0
+284159,curcumin,therapeutic,"Ventricular Dysfunction, Left",969516.0
+284200,curcumin,therapeutic,Weight Gain,969516.0
+284224,curcumin,therapeutic,Weight Loss,969516.0
+284289,demethoxycurcumin,therapeutic,Amnesia,5469424.0
+284631,demethoxycurcumin,therapeutic,Edema,5469424.0
+285014,demethoxycurcumin,therapeutic,Neoplasm Invasiveness,5469424.0
+285415,juglone,therapeutic,"Gait Disorders, Neurologic",3806.0
+285461,juglone,therapeutic,Nerve Degeneration,3806.0
+286145,"2,3-dihydroxybenzoic acid",therapeutic,Acute Kidney Injury,19.0
+286178,"2,3-dihydroxybenzoic acid",therapeutic,Hearing Loss,19.0
+286181,"2,3-dihydroxybenzoic acid",therapeutic,Kidney Diseases,19.0
+286219,"2,3-dihydroxybenzoic acid",therapeutic,Vestibular Diseases,19.0
+286476,cinnamic acid,therapeutic,Coxsackievirus Infections,444539.0
+286648,cinnamic acid,therapeutic,Kidney Diseases,444539.0
+286701,cinnamic acid,therapeutic,Melanoma,444539.0
+287317,rosmarinic acid,therapeutic,Inflammation,5281792.0
+287369,rosmarinic acid,therapeutic,Liver Diseases,5281792.0
+287378,rosmarinic acid,therapeutic,Lung Injury,5281792.0
+287447,rosmarinic acid,therapeutic,Necrosis,5281792.0
+5722,(-)-epicatechin,therapeutic,Atherosclerosis,72276.0
+6070,(-)-epicatechin,therapeutic,Breast Neoplasms,72276.0
+6698,(-)-epicatechin,therapeutic,"Cell Transformation, Neoplastic",72276.0
+7132,(-)-epicatechin,therapeutic,Cystitis,72276.0
+7586,(-)-epicatechin,therapeutic,Drug-Induced Liver Injury,72276.0
+8180,(-)-epicatechin,therapeutic,Hearing Loss,72276.0
+8202,(-)-epicatechin,therapeutic,Heart Diseases,72276.0
+8456,(-)-epicatechin,therapeutic,HIV Infections,72276.0
+8584,(-)-epicatechin,therapeutic,Hyperhomocysteinemia,72276.0
+9042,(-)-epicatechin,therapeutic,Insulin Resistance,72276.0
+9620,(-)-epicatechin,therapeutic,Liver Diseases,72276.0
+9642,(-)-epicatechin,therapeutic,"Liver Failure, Acute",72276.0
+9652,(-)-epicatechin,therapeutic,Liver Neoplasms,72276.0
+9958,(-)-epicatechin,therapeutic,"Mammary Neoplasms, Experimental",72276.0
+10364,(-)-epicatechin,therapeutic,Myocardial Infarction,72276.0
+10606,(-)-epicatechin,therapeutic,Neoplasm Metastasis,72276.0
+10736,(-)-epicatechin,therapeutic,Nerve Degeneration,72276.0
+10830,(-)-epicatechin,therapeutic,Neurodegenerative Diseases,72276.0
+12630,(-)-epicatechin,therapeutic,Weight Gain,72276.0
+26547,poncirin,therapeutic,Seizures,442456.0
+214479,piceatannol 3-o-glucoside,therapeutic,Liver Diseases,5281712.0
+214507,piceatannol 3-o-glucoside,therapeutic,"Mammary Neoplasms, Experimental",5281712.0
+217420,resveratrol 3-sulfate,therapeutic,Abdominal Injuries,25113755.0
+217421,trans-resveratrol 3-sulfate,therapeutic,Abdominal Injuries,25113755.0
+217428,resveratrol 3-sulfate,therapeutic,Aberrant Crypt Foci,25113755.0
+217429,trans-resveratrol 3-sulfate,therapeutic,Aberrant Crypt Foci,25113755.0
+217912,resveratrol 3-sulfate,therapeutic,Acute Kidney Injury,25113755.0
+217913,trans-resveratrol 3-sulfate,therapeutic,Acute Kidney Injury,25113755.0
+218112,resveratrol 3-sulfate,therapeutic,Acute Lung Injury,25113755.0
+218113,trans-resveratrol 3-sulfate,therapeutic,Acute Lung Injury,25113755.0
+218180,resveratrol 3-sulfate,therapeutic,Adenocarcinoma,25113755.0
+218181,trans-resveratrol 3-sulfate,therapeutic,Adenocarcinoma,25113755.0
+218532,resveratrol 3-sulfate,therapeutic,Adenocarcinoma of lung,25113755.0
+218533,trans-resveratrol 3-sulfate,therapeutic,Adenocarcinoma of lung,25113755.0
+218692,resveratrol 3-sulfate,therapeutic,Adenoma,25113755.0
+218693,trans-resveratrol 3-sulfate,therapeutic,Adenoma,25113755.0
+218792,resveratrol 3-sulfate,therapeutic,Adenomatous Polyposis Coli,25113755.0
+218793,trans-resveratrol 3-sulfate,therapeutic,Adenomatous Polyposis Coli,25113755.0
+218828,resveratrol 3-sulfate,therapeutic,Adrenal Cortex Diseases,25113755.0
+218829,trans-resveratrol 3-sulfate,therapeutic,Adrenal Cortex Diseases,25113755.0
+218976,resveratrol 3-sulfate,therapeutic,"Aging, Premature",25113755.0
+218977,trans-resveratrol 3-sulfate,therapeutic,"Aging, Premature",25113755.0
+219056,resveratrol 3-sulfate,therapeutic,Albuminuria,25113755.0
+219057,trans-resveratrol 3-sulfate,therapeutic,Albuminuria,25113755.0
+219288,resveratrol 3-sulfate,therapeutic,Alveolar Bone Loss,25113755.0
+219289,trans-resveratrol 3-sulfate,therapeutic,Alveolar Bone Loss,25113755.0
+219304,resveratrol 3-sulfate,therapeutic,Alzheimer Disease,25113755.0
+219305,trans-resveratrol 3-sulfate,therapeutic,Alzheimer Disease,25113755.0
+219724,resveratrol 3-sulfate,therapeutic,Amyotrophic Lateral Sclerosis,25113755.0
+219725,trans-resveratrol 3-sulfate,therapeutic,Amyotrophic Lateral Sclerosis,25113755.0
+219888,resveratrol 3-sulfate,therapeutic,Anaphylaxis,25113755.0
+219889,trans-resveratrol 3-sulfate,therapeutic,Anaphylaxis,25113755.0
+219904,resveratrol 3-sulfate,therapeutic,Anemia,25113755.0
+219905,trans-resveratrol 3-sulfate,therapeutic,Anemia,25113755.0
+220220,resveratrol 3-sulfate,therapeutic,Anophthalmos,25113755.0
+220221,trans-resveratrol 3-sulfate,therapeutic,Anophthalmos,25113755.0
+220256,resveratrol 3-sulfate,therapeutic,Anoxia,25113755.0
+220257,trans-resveratrol 3-sulfate,therapeutic,Anoxia,25113755.0
+220468,resveratrol 3-sulfate,therapeutic,"Aortic Aneurysm, Abdominal",25113755.0
+220469,trans-resveratrol 3-sulfate,therapeutic,"Aortic Aneurysm, Abdominal",25113755.0
+220736,resveratrol 3-sulfate,therapeutic,Arsenic Poisoning,25113755.0
+220737,trans-resveratrol 3-sulfate,therapeutic,Arsenic Poisoning,25113755.0
+220904,resveratrol 3-sulfate,therapeutic,"Arthritis, Experimental",25113755.0
+220905,trans-resveratrol 3-sulfate,therapeutic,"Arthritis, Experimental",25113755.0
+221264,resveratrol 3-sulfate,therapeutic,"Arthritis, Rheumatoid",25113755.0
+221265,trans-resveratrol 3-sulfate,therapeutic,"Arthritis, Rheumatoid",25113755.0
+221708,resveratrol 3-sulfate,therapeutic,Asthenozoospermia,25113755.0
+221709,trans-resveratrol 3-sulfate,therapeutic,Asthenozoospermia,25113755.0
+221720,resveratrol 3-sulfate,therapeutic,Asthma,25113755.0
+221721,trans-resveratrol 3-sulfate,therapeutic,Asthma,25113755.0
+222048,resveratrol 3-sulfate,therapeutic,Atherosclerosis,25113755.0
+222049,trans-resveratrol 3-sulfate,therapeutic,Atherosclerosis,25113755.0
+223120,resveratrol 3-sulfate,therapeutic,beta-Thalassemia,25113755.0
+223121,trans-resveratrol 3-sulfate,therapeutic,beta-Thalassemia,25113755.0
+223456,resveratrol 3-sulfate,therapeutic,Bone Marrow failure syndromes,25113755.0
+223457,trans-resveratrol 3-sulfate,therapeutic,Bone Marrow failure syndromes,25113755.0
+223500,resveratrol 3-sulfate,therapeutic,Bone Resorption,25113755.0
+223501,trans-resveratrol 3-sulfate,therapeutic,Bone Resorption,25113755.0
+223560,resveratrol 3-sulfate,therapeutic,Bradycardia,25113755.0
+223561,trans-resveratrol 3-sulfate,therapeutic,Bradycardia,25113755.0
+223668,resveratrol 3-sulfate,therapeutic,Brain Edema,25113755.0
+223669,trans-resveratrol 3-sulfate,therapeutic,Brain Edema,25113755.0
+223696,resveratrol 3-sulfate,therapeutic,Brain Infarction,25113755.0
+223697,trans-resveratrol 3-sulfate,therapeutic,Brain Infarction,25113755.0
+223716,resveratrol 3-sulfate,therapeutic,Brain Injuries,25113755.0
+223717,trans-resveratrol 3-sulfate,therapeutic,Brain Injuries,25113755.0
+223880,resveratrol 3-sulfate,therapeutic,Brain Ischemia,25113755.0
+223881,trans-resveratrol 3-sulfate,therapeutic,Brain Ischemia,25113755.0
+224196,resveratrol 3-sulfate,therapeutic,Breast Neoplasms,25113755.0
+224197,trans-resveratrol 3-sulfate,therapeutic,Breast Neoplasms,25113755.0
+225736,resveratrol 3-sulfate,therapeutic,Carcinoma,25113755.0
+225737,trans-resveratrol 3-sulfate,therapeutic,Carcinoma,25113755.0
+226360,resveratrol 3-sulfate,therapeutic,"Carcinoma, Ductal",25113755.0
+226361,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Ductal",25113755.0
+226408,resveratrol 3-sulfate,therapeutic,"Carcinoma, Ehrlich Tumor",25113755.0
+226409,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Ehrlich Tumor",25113755.0
+226412,resveratrol 3-sulfate,therapeutic,"Carcinoma, Hepatocellular",25113755.0
+226413,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Hepatocellular",25113755.0
+227048,resveratrol 3-sulfate,therapeutic,"Carcinoma, Lewis Lung",25113755.0
+227049,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Lewis Lung",25113755.0
+227072,resveratrol 3-sulfate,therapeutic,"Carcinoma, Merkel Cell",25113755.0
+227073,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Merkel Cell",25113755.0
+227084,resveratrol 3-sulfate,therapeutic,"Carcinoma, Non-Small-Cell Lung",25113755.0
+227085,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Non-Small-Cell Lung",25113755.0
+227392,resveratrol 3-sulfate,therapeutic,"Carcinoma, Renal Cell",25113755.0
+227393,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Renal Cell",25113755.0
+227648,resveratrol 3-sulfate,therapeutic,"Carcinoma, Squamous Cell",25113755.0
+227649,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, Squamous Cell",25113755.0
+227936,resveratrol 3-sulfate,therapeutic,"Carcinoma, squamous cell of head and neck",25113755.0
+227937,trans-resveratrol 3-sulfate,therapeutic,"Carcinoma, squamous cell of head and neck",25113755.0
+228152,resveratrol 3-sulfate,therapeutic,Cardiomegaly,25113755.0
+228153,trans-resveratrol 3-sulfate,therapeutic,Cardiomegaly,25113755.0
+228364,resveratrol 3-sulfate,therapeutic,Cardiomyopathies,25113755.0
+228365,trans-resveratrol 3-sulfate,therapeutic,Cardiomyopathies,25113755.0
+228564,resveratrol 3-sulfate,therapeutic,"Cardiomyopathy, Dilated",25113755.0
+228565,trans-resveratrol 3-sulfate,therapeutic,"Cardiomyopathy, Dilated",25113755.0
+228772,resveratrol 3-sulfate,therapeutic,"Cardiomyopathy, Hypertrophic",25113755.0
+228773,trans-resveratrol 3-sulfate,therapeutic,"Cardiomyopathy, Hypertrophic",25113755.0
+228852,resveratrol 3-sulfate,therapeutic,Cardiotoxicity,25113755.0
+228853,trans-resveratrol 3-sulfate,therapeutic,Cardiotoxicity,25113755.0
+228876,resveratrol 3-sulfate,therapeutic,Cardiovascular Diseases,25113755.0
+228877,trans-resveratrol 3-sulfate,therapeutic,Cardiovascular Diseases,25113755.0
+229032,resveratrol 3-sulfate,therapeutic,Carotid Artery Injuries,25113755.0
+229033,trans-resveratrol 3-sulfate,therapeutic,Carotid Artery Injuries,25113755.0
+229052,resveratrol 3-sulfate,therapeutic,Cartilage Diseases,25113755.0
+229053,trans-resveratrol 3-sulfate,therapeutic,Cartilage Diseases,25113755.0
+229068,resveratrol 3-sulfate,therapeutic,Catalepsy,25113755.0
+229069,trans-resveratrol 3-sulfate,therapeutic,Catalepsy,25113755.0
+229200,resveratrol 3-sulfate,therapeutic,"Cell Transformation, Neoplastic",25113755.0
+229201,trans-resveratrol 3-sulfate,therapeutic,"Cell Transformation, Neoplastic",25113755.0
+229684,resveratrol 3-sulfate,therapeutic,Cerebral Infarction,25113755.0
+229685,trans-resveratrol 3-sulfate,therapeutic,Cerebral Infarction,25113755.0
+229744,resveratrol 3-sulfate,therapeutic,"Ceroid lipofuscinosis, neuronal 1, infantile",25113755.0
+229745,trans-resveratrol 3-sulfate,therapeutic,"Ceroid lipofuscinosis, neuronal 1, infantile",25113755.0
+230056,resveratrol 3-sulfate,therapeutic,Cholestasis,25113755.0
+230057,trans-resveratrol 3-sulfate,therapeutic,Cholestasis,25113755.0
+230320,resveratrol 3-sulfate,therapeutic,Choroidal Neovascularization,25113755.0
+230321,trans-resveratrol 3-sulfate,therapeutic,Choroidal Neovascularization,25113755.0
+230432,resveratrol 3-sulfate,therapeutic,Chronobiology Disorders,25113755.0
+230433,trans-resveratrol 3-sulfate,therapeutic,Chronobiology Disorders,25113755.0
+230808,resveratrol 3-sulfate,therapeutic,Cognition Disorders,25113755.0
+230809,trans-resveratrol 3-sulfate,therapeutic,Cognition Disorders,25113755.0
+230904,resveratrol 3-sulfate,therapeutic,Colitis,25113755.0
+230905,trans-resveratrol 3-sulfate,therapeutic,Colitis,25113755.0
+230988,resveratrol 3-sulfate,therapeutic,"Colitis, Ulcerative",25113755.0
+230989,trans-resveratrol 3-sulfate,therapeutic,"Colitis, Ulcerative",25113755.0
+231080,resveratrol 3-sulfate,therapeutic,Colonic Neoplasms,25113755.0
+231081,trans-resveratrol 3-sulfate,therapeutic,Colonic Neoplasms,25113755.0
+231456,resveratrol 3-sulfate,therapeutic,Colonic Polyps,25113755.0
+231457,trans-resveratrol 3-sulfate,therapeutic,Colonic Polyps,25113755.0
+231468,resveratrol 3-sulfate,therapeutic,Colorectal Neoplasms,25113755.0
+231469,trans-resveratrol 3-sulfate,therapeutic,Colorectal Neoplasms,25113755.0
+232188,resveratrol 3-sulfate,therapeutic,Coronary Artery Disease,25113755.0
+232189,trans-resveratrol 3-sulfate,therapeutic,Coronary Artery Disease,25113755.0
+232324,resveratrol 3-sulfate,therapeutic,Coronary Disease,25113755.0
+232325,trans-resveratrol 3-sulfate,therapeutic,Coronary Disease,25113755.0
+233048,resveratrol 3-sulfate,therapeutic,Death,25113755.0
+233049,trans-resveratrol 3-sulfate,therapeutic,Death,25113755.0
+233140,resveratrol 3-sulfate,therapeutic,Depressive Disorder,25113755.0
+233141,trans-resveratrol 3-sulfate,therapeutic,Depressive Disorder,25113755.0
+233772,resveratrol 3-sulfate,therapeutic,Diabetes Complications,25113755.0
+233773,trans-resveratrol 3-sulfate,therapeutic,Diabetes Complications,25113755.0
+233840,resveratrol 3-sulfate,therapeutic,Diabetes Mellitus,25113755.0
+233841,trans-resveratrol 3-sulfate,therapeutic,Diabetes Mellitus,25113755.0
+233924,resveratrol 3-sulfate,therapeutic,"Diabetes Mellitus, Experimental",25113755.0
+233925,trans-resveratrol 3-sulfate,therapeutic,"Diabetes Mellitus, Experimental",25113755.0
+234352,resveratrol 3-sulfate,therapeutic,"Diabetes Mellitus, Type 1",25113755.0
+234353,trans-resveratrol 3-sulfate,therapeutic,"Diabetes Mellitus, Type 1",25113755.0
+234472,resveratrol 3-sulfate,therapeutic,"Diabetes Mellitus, Type 2",25113755.0
+234473,trans-resveratrol 3-sulfate,therapeutic,"Diabetes Mellitus, Type 2",25113755.0
+234776,resveratrol 3-sulfate,therapeutic,Diabetic Angiopathies,25113755.0
+234777,trans-resveratrol 3-sulfate,therapeutic,Diabetic Angiopathies,25113755.0
+234828,resveratrol 3-sulfate,therapeutic,Diabetic Cardiomyopathies,25113755.0
+234829,trans-resveratrol 3-sulfate,therapeutic,Diabetic Cardiomyopathies,25113755.0
+234872,resveratrol 3-sulfate,therapeutic,Diabetic Nephropathies,25113755.0
+234873,trans-resveratrol 3-sulfate,therapeutic,Diabetic Nephropathies,25113755.0
+234964,resveratrol 3-sulfate,therapeutic,Diabetic Neuropathies,25113755.0
+234965,trans-resveratrol 3-sulfate,therapeutic,Diabetic Neuropathies,25113755.0
+235012,resveratrol 3-sulfate,therapeutic,Diabetic Retinopathy,25113755.0
+235013,trans-resveratrol 3-sulfate,therapeutic,Diabetic Retinopathy,25113755.0
+235096,resveratrol 3-sulfate,therapeutic,"Disease Models, Animal",25113755.0
+235097,trans-resveratrol 3-sulfate,therapeutic,"Disease Models, Animal",25113755.0
+235252,resveratrol 3-sulfate,therapeutic,Disease Progression,25113755.0
+235253,trans-resveratrol 3-sulfate,therapeutic,Disease Progression,25113755.0
+235748,resveratrol 3-sulfate,therapeutic,Drug-Induced Liver Injury,25113755.0
+235749,trans-resveratrol 3-sulfate,therapeutic,Drug-Induced Liver Injury,25113755.0
+236288,resveratrol 3-sulfate,therapeutic,Drug-Related Side Effects and Adverse Reactions,25113755.0
+236289,trans-resveratrol 3-sulfate,therapeutic,Drug-Related Side Effects and Adverse Reactions,25113755.0
+236564,resveratrol 3-sulfate,therapeutic,Dyslipidemias,25113755.0
+236565,trans-resveratrol 3-sulfate,therapeutic,Dyslipidemias,25113755.0
+236704,resveratrol 3-sulfate,therapeutic,Edema,25113755.0
+236705,trans-resveratrol 3-sulfate,therapeutic,Edema,25113755.0
+236784,resveratrol 3-sulfate,therapeutic,"Edema, Cardiac",25113755.0
+236785,trans-resveratrol 3-sulfate,therapeutic,"Edema, Cardiac",25113755.0
+236836,resveratrol 3-sulfate,therapeutic,Embolism and Thrombosis,25113755.0
+236837,trans-resveratrol 3-sulfate,therapeutic,Embolism and Thrombosis,25113755.0
+236900,resveratrol 3-sulfate,therapeutic,"Encephalomyelitis, Autoimmune, Experimental",25113755.0
+236901,trans-resveratrol 3-sulfate,therapeutic,"Encephalomyelitis, Autoimmune, Experimental",25113755.0
+237108,resveratrol 3-sulfate,therapeutic,Endometriosis,25113755.0
+237109,trans-resveratrol 3-sulfate,therapeutic,Endometriosis,25113755.0
+237416,resveratrol 3-sulfate,therapeutic,Endomyocardial Fibrosis,25113755.0
+237417,trans-resveratrol 3-sulfate,therapeutic,Endomyocardial Fibrosis,25113755.0
+237440,resveratrol 3-sulfate,therapeutic,Endotoxemia,25113755.0
+237441,trans-resveratrol 3-sulfate,therapeutic,Endotoxemia,25113755.0
+237512,resveratrol 3-sulfate,therapeutic,"Enterocolitis, Necrotizing",25113755.0
+237513,trans-resveratrol 3-sulfate,therapeutic,"Enterocolitis, Necrotizing",25113755.0
+237552,resveratrol 3-sulfate,therapeutic,Enterovirus Infections,25113755.0
+237553,trans-resveratrol 3-sulfate,therapeutic,Enterovirus Infections,25113755.0
+237844,resveratrol 3-sulfate,therapeutic,Epstein-Barr Virus Infections,25113755.0
+237845,trans-resveratrol 3-sulfate,therapeutic,Epstein-Barr Virus Infections,25113755.0
+237848,resveratrol 3-sulfate,therapeutic,Erectile Dysfunction,25113755.0
+237849,trans-resveratrol 3-sulfate,therapeutic,Erectile Dysfunction,25113755.0
+237876,resveratrol 3-sulfate,therapeutic,Erythema,25113755.0
+237877,trans-resveratrol 3-sulfate,therapeutic,Erythema,25113755.0
+237944,resveratrol 3-sulfate,therapeutic,Esophageal Neoplasms,25113755.0
+237945,trans-resveratrol 3-sulfate,therapeutic,Esophageal Neoplasms,25113755.0
+238512,resveratrol 3-sulfate,therapeutic,Fanconi Anemia,25113755.0
+238513,trans-resveratrol 3-sulfate,therapeutic,Fanconi Anemia,25113755.0
+238576,resveratrol 3-sulfate,therapeutic,Fatigue,25113755.0
+238577,trans-resveratrol 3-sulfate,therapeutic,Fatigue,25113755.0
+238592,resveratrol 3-sulfate,therapeutic,Fatty Liver,25113755.0
+238593,trans-resveratrol 3-sulfate,therapeutic,Fatty Liver,25113755.0
+238824,resveratrol 3-sulfate,therapeutic,"Fatty Liver, Alcoholic",25113755.0
+238825,trans-resveratrol 3-sulfate,therapeutic,"Fatty Liver, Alcoholic",25113755.0
+238920,resveratrol 3-sulfate,therapeutic,Fetal Growth Retardation,25113755.0
+238921,trans-resveratrol 3-sulfate,therapeutic,Fetal Growth Retardation,25113755.0
+239056,resveratrol 3-sulfate,therapeutic,Fibrosis,25113755.0
+239057,trans-resveratrol 3-sulfate,therapeutic,Fibrosis,25113755.0
+239192,resveratrol 3-sulfate,therapeutic,Fish Diseases,25113755.0
+239193,trans-resveratrol 3-sulfate,therapeutic,Fish Diseases,25113755.0
+239236,resveratrol 3-sulfate,therapeutic,Food Hypersensitivity,25113755.0
+239237,trans-resveratrol 3-sulfate,therapeutic,Food Hypersensitivity,25113755.0
+239296,resveratrol 3-sulfate,therapeutic,Friedreich Ataxia,25113755.0
+239297,trans-resveratrol 3-sulfate,therapeutic,Friedreich Ataxia,25113755.0
+239692,resveratrol 3-sulfate,therapeutic,Glioblastoma,25113755.0
+239693,trans-resveratrol 3-sulfate,therapeutic,Glioblastoma,25113755.0
+239840,resveratrol 3-sulfate,therapeutic,Glioma,25113755.0
+239841,trans-resveratrol 3-sulfate,therapeutic,Glioma,25113755.0
+240180,resveratrol 3-sulfate,therapeutic,"Glomerulonephritis, IGA",25113755.0
+240181,trans-resveratrol 3-sulfate,therapeutic,"Glomerulonephritis, IGA",25113755.0
+240264,resveratrol 3-sulfate,therapeutic,"Glomerulonephritis, Membranous",25113755.0
+240265,trans-resveratrol 3-sulfate,therapeutic,"Glomerulonephritis, Membranous",25113755.0
+240352,resveratrol 3-sulfate,therapeutic,Glucose Intolerance,25113755.0
+240353,trans-resveratrol 3-sulfate,therapeutic,Glucose Intolerance,25113755.0
+240708,resveratrol 3-sulfate,therapeutic,Head and Neck Neoplasms,25113755.0
+240709,trans-resveratrol 3-sulfate,therapeutic,Head and Neck Neoplasms,25113755.0
+240776,resveratrol 3-sulfate,therapeutic,Hearing Loss,25113755.0
+240777,trans-resveratrol 3-sulfate,therapeutic,Hearing Loss,25113755.0
+240820,resveratrol 3-sulfate,therapeutic,"Hearing Loss, Noise-Induced",25113755.0
+240821,trans-resveratrol 3-sulfate,therapeutic,"Hearing Loss, Noise-Induced",25113755.0
+240972,resveratrol 3-sulfate,therapeutic,Heart Diseases,25113755.0
+240973,trans-resveratrol 3-sulfate,therapeutic,Heart Diseases,25113755.0
+241088,resveratrol 3-sulfate,therapeutic,Heart Failure,25113755.0
+241089,trans-resveratrol 3-sulfate,therapeutic,Heart Failure,25113755.0
+241408,resveratrol 3-sulfate,therapeutic,"Heart Failure, Diastolic",25113755.0
+241409,trans-resveratrol 3-sulfate,therapeutic,"Heart Failure, Diastolic",25113755.0
+241700,resveratrol 3-sulfate,therapeutic,Hematoma,25113755.0
+241701,trans-resveratrol 3-sulfate,therapeutic,Hematoma,25113755.0
+241820,resveratrol 3-sulfate,therapeutic,Hemorrhage,25113755.0
+241821,trans-resveratrol 3-sulfate,therapeutic,Hemorrhage,25113755.0
+241912,resveratrol 3-sulfate,therapeutic,Hepatic Insufficiency,25113755.0
+241913,trans-resveratrol 3-sulfate,therapeutic,Hepatic Insufficiency,25113755.0
+241924,resveratrol 3-sulfate,therapeutic,Hepatitis,25113755.0
+241925,trans-resveratrol 3-sulfate,therapeutic,Hepatitis,25113755.0
+242088,resveratrol 3-sulfate,therapeutic,Hepatitis C,25113755.0
+242089,trans-resveratrol 3-sulfate,therapeutic,Hepatitis C,25113755.0
+242236,resveratrol 3-sulfate,therapeutic,Hepatomegaly,25113755.0
+242237,trans-resveratrol 3-sulfate,therapeutic,Hepatomegaly,25113755.0
+242528,resveratrol 3-sulfate,therapeutic,Herpes Simplex,25113755.0
+242529,trans-resveratrol 3-sulfate,therapeutic,Herpes Simplex,25113755.0
+242604,resveratrol 3-sulfate,therapeutic,HIV Infections,25113755.0
+242605,trans-resveratrol 3-sulfate,therapeutic,HIV Infections,25113755.0
+242912,resveratrol 3-sulfate,therapeutic,Huntington Disease,25113755.0
+242913,trans-resveratrol 3-sulfate,therapeutic,Huntington Disease,25113755.0
+242984,resveratrol 3-sulfate,therapeutic,Hyperalgesia,25113755.0
+242985,trans-resveratrol 3-sulfate,therapeutic,Hyperalgesia,25113755.0
+243180,resveratrol 3-sulfate,therapeutic,Hyperamylasemia,25113755.0
+243181,trans-resveratrol 3-sulfate,therapeutic,Hyperamylasemia,25113755.0
+243260,resveratrol 3-sulfate,therapeutic,Hypercholesterolemia,25113755.0
+243261,trans-resveratrol 3-sulfate,therapeutic,Hypercholesterolemia,25113755.0
+243400,resveratrol 3-sulfate,therapeutic,Hyperglycemia,25113755.0
+243401,trans-resveratrol 3-sulfate,therapeutic,Hyperglycemia,25113755.0
+243532,resveratrol 3-sulfate,therapeutic,Hyperinsulinism,25113755.0
+243533,trans-resveratrol 3-sulfate,therapeutic,Hyperinsulinism,25113755.0
+243648,resveratrol 3-sulfate,therapeutic,Hyperlipidemias,25113755.0
+243649,trans-resveratrol 3-sulfate,therapeutic,Hyperlipidemias,25113755.0
+243808,resveratrol 3-sulfate,therapeutic,Hyperplasia,25113755.0
+243809,trans-resveratrol 3-sulfate,therapeutic,Hyperplasia,25113755.0
+243904,resveratrol 3-sulfate,therapeutic,Hypersensitivity,25113755.0
+243905,trans-resveratrol 3-sulfate,therapeutic,Hypersensitivity,25113755.0
+244120,resveratrol 3-sulfate,therapeutic,Hypertension,25113755.0
+244121,trans-resveratrol 3-sulfate,therapeutic,Hypertension,25113755.0
+244620,resveratrol 3-sulfate,therapeutic,"Hypertension, Pulmonary",25113755.0
+244621,trans-resveratrol 3-sulfate,therapeutic,"Hypertension, Pulmonary",25113755.0
+244716,resveratrol 3-sulfate,therapeutic,Hypertensive Encephalopathy,25113755.0
+244717,trans-resveratrol 3-sulfate,therapeutic,Hypertensive Encephalopathy,25113755.0
+244720,resveratrol 3-sulfate,therapeutic,Hypertensive Nephropathy,25113755.0
+244721,trans-resveratrol 3-sulfate,therapeutic,Hypertensive Nephropathy,25113755.0
+244724,resveratrol 3-sulfate,therapeutic,Hyperthyroidism,25113755.0
+244725,trans-resveratrol 3-sulfate,therapeutic,Hyperthyroidism,25113755.0
+244776,resveratrol 3-sulfate,therapeutic,Hypertriglyceridemia,25113755.0
+244777,trans-resveratrol 3-sulfate,therapeutic,Hypertriglyceridemia,25113755.0
+244812,resveratrol 3-sulfate,therapeutic,Hypertrophy,25113755.0
+244813,trans-resveratrol 3-sulfate,therapeutic,Hypertrophy,25113755.0
+244868,resveratrol 3-sulfate,therapeutic,"Hypertrophy, Left Ventricular",25113755.0
+244869,trans-resveratrol 3-sulfate,therapeutic,"Hypertrophy, Left Ventricular",25113755.0
+244928,resveratrol 3-sulfate,therapeutic,"Hypertrophy, Right Ventricular",25113755.0
+244929,trans-resveratrol 3-sulfate,therapeutic,"Hypertrophy, Right Ventricular",25113755.0
+244936,resveratrol 3-sulfate,therapeutic,Hyperuricemia,25113755.0
+244937,trans-resveratrol 3-sulfate,therapeutic,Hyperuricemia,25113755.0
+245112,resveratrol 3-sulfate,therapeutic,Hyponatremia,25113755.0
+245113,trans-resveratrol 3-sulfate,therapeutic,Hyponatremia,25113755.0
+245296,resveratrol 3-sulfate,therapeutic,Hypothermia,25113755.0
+245297,trans-resveratrol 3-sulfate,therapeutic,Hypothermia,25113755.0
+245520,resveratrol 3-sulfate,therapeutic,"Infarction, Middle Cerebral Artery",25113755.0
+245521,trans-resveratrol 3-sulfate,therapeutic,"Infarction, Middle Cerebral Artery",25113755.0
+245652,resveratrol 3-sulfate,therapeutic,"Infertility, Female",25113755.0
+245653,trans-resveratrol 3-sulfate,therapeutic,"Infertility, Female",25113755.0
+245748,resveratrol 3-sulfate,therapeutic,"Infertility, Male",25113755.0
+245749,trans-resveratrol 3-sulfate,therapeutic,"Infertility, Male",25113755.0
+245856,resveratrol 3-sulfate,therapeutic,Inflammation,25113755.0
+245857,trans-resveratrol 3-sulfate,therapeutic,Inflammation,25113755.0
+246220,resveratrol 3-sulfate,therapeutic,"Influenza, Human",25113755.0
+246221,trans-resveratrol 3-sulfate,therapeutic,"Influenza, Human",25113755.0
+246300,resveratrol 3-sulfate,therapeutic,Insulin Resistance,25113755.0
+246301,trans-resveratrol 3-sulfate,therapeutic,Insulin Resistance,25113755.0
+246612,resveratrol 3-sulfate,therapeutic,Intervertebral Disc Degeneration,25113755.0
+246613,trans-resveratrol 3-sulfate,therapeutic,Intervertebral Disc Degeneration,25113755.0
+246624,resveratrol 3-sulfate,therapeutic,Intestinal Diseases,25113755.0
+246625,trans-resveratrol 3-sulfate,therapeutic,Intestinal Diseases,25113755.0
+246788,resveratrol 3-sulfate,therapeutic,Ischemia,25113755.0
+246789,trans-resveratrol 3-sulfate,therapeutic,Ischemia,25113755.0
+246880,resveratrol 3-sulfate,therapeutic,"Ischemic Attack, Transient",25113755.0
+246881,trans-resveratrol 3-sulfate,therapeutic,"Ischemic Attack, Transient",25113755.0
+246996,resveratrol 3-sulfate,therapeutic,Keloid,25113755.0
+246997,trans-resveratrol 3-sulfate,therapeutic,Keloid,25113755.0
+247160,resveratrol 3-sulfate,therapeutic,Kidney Calculi,25113755.0
+247161,trans-resveratrol 3-sulfate,therapeutic,Kidney Calculi,25113755.0
+247184,resveratrol 3-sulfate,therapeutic,Kidney Diseases,25113755.0
+247185,trans-resveratrol 3-sulfate,therapeutic,Kidney Diseases,25113755.0
+248016,resveratrol 3-sulfate,therapeutic,Lens Diseases,25113755.0
+248017,trans-resveratrol 3-sulfate,therapeutic,Lens Diseases,25113755.0
+248268,resveratrol 3-sulfate,therapeutic,"Leukemia, Lymphoid",25113755.0
+248269,trans-resveratrol 3-sulfate,therapeutic,"Leukemia, Lymphoid",25113755.0
+248280,resveratrol 3-sulfate,therapeutic,"Leukemia-Lymphoma, Adult T-Cell",25113755.0
+248281,trans-resveratrol 3-sulfate,therapeutic,"Leukemia-Lymphoma, Adult T-Cell",25113755.0
+248372,resveratrol 3-sulfate,therapeutic,"Leukemia, Monocytic, Acute",25113755.0
+248373,trans-resveratrol 3-sulfate,therapeutic,"Leukemia, Monocytic, Acute",25113755.0
+248380,resveratrol 3-sulfate,therapeutic,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",25113755.0
+248381,trans-resveratrol 3-sulfate,therapeutic,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",25113755.0
+248452,resveratrol 3-sulfate,therapeutic,"Leukemia, Myeloid, Acute",25113755.0
+248453,trans-resveratrol 3-sulfate,therapeutic,"Leukemia, Myeloid, Acute",25113755.0
+248696,resveratrol 3-sulfate,therapeutic,"Leukemia, Promyelocytic, Acute",25113755.0
+248697,trans-resveratrol 3-sulfate,therapeutic,"Leukemia, Promyelocytic, Acute",25113755.0
+248796,resveratrol 3-sulfate,therapeutic,"Leukemia, T-Cell",25113755.0
+248797,trans-resveratrol 3-sulfate,therapeutic,"Leukemia, T-Cell",25113755.0
+249152,resveratrol 3-sulfate,therapeutic,Liver Cirrhosis,25113755.0
+249153,trans-resveratrol 3-sulfate,therapeutic,Liver Cirrhosis,25113755.0
+249500,resveratrol 3-sulfate,therapeutic,"Liver Cirrhosis, Experimental",25113755.0
+249501,trans-resveratrol 3-sulfate,therapeutic,"Liver Cirrhosis, Experimental",25113755.0
+250968,resveratrol 3-sulfate,therapeutic,Liver Diseases,25113755.0
+250969,trans-resveratrol 3-sulfate,therapeutic,Liver Diseases,25113755.0
+251132,resveratrol 3-sulfate,therapeutic,"Liver Diseases, Alcoholic",25113755.0
+251133,trans-resveratrol 3-sulfate,therapeutic,"Liver Diseases, Alcoholic",25113755.0
+251240,resveratrol 3-sulfate,therapeutic,Liver Neoplasms,25113755.0
+251241,trans-resveratrol 3-sulfate,therapeutic,Liver Neoplasms,25113755.0
+251508,resveratrol 3-sulfate,therapeutic,"Liver Neoplasms, Experimental",25113755.0
+251509,trans-resveratrol 3-sulfate,therapeutic,"Liver Neoplasms, Experimental",25113755.0
+251848,resveratrol 3-sulfate,therapeutic,Lung Diseases,25113755.0
+251849,trans-resveratrol 3-sulfate,therapeutic,Lung Diseases,25113755.0
+252640,resveratrol 3-sulfate,therapeutic,Lymphatic Diseases,25113755.0
+252641,trans-resveratrol 3-sulfate,therapeutic,Lymphatic Diseases,25113755.0
+252728,resveratrol 3-sulfate,therapeutic,"Lymphoma, B-Cell",25113755.0
+252729,trans-resveratrol 3-sulfate,therapeutic,"Lymphoma, B-Cell",25113755.0
+252920,resveratrol 3-sulfate,therapeutic,"Lymphoma, Non-Hodgkin",25113755.0
+252921,trans-resveratrol 3-sulfate,therapeutic,"Lymphoma, Non-Hodgkin",25113755.0
+253128,resveratrol 3-sulfate,therapeutic,Lymphoproliferative Disorders,25113755.0
+253129,trans-resveratrol 3-sulfate,therapeutic,Lymphoproliferative Disorders,25113755.0
+253176,resveratrol 3-sulfate,therapeutic,Macular Degeneration,25113755.0
+253177,trans-resveratrol 3-sulfate,therapeutic,Macular Degeneration,25113755.0
+253336,resveratrol 3-sulfate,therapeutic,"Mammary Neoplasms, Animal",25113755.0
+253337,trans-resveratrol 3-sulfate,therapeutic,"Mammary Neoplasms, Animal",25113755.0
+253688,resveratrol 3-sulfate,therapeutic,"Mammary Neoplasms, Experimental",25113755.0
+253689,trans-resveratrol 3-sulfate,therapeutic,"Mammary Neoplasms, Experimental",25113755.0
+254384,resveratrol 3-sulfate,therapeutic,Melanoma,25113755.0
+254385,trans-resveratrol 3-sulfate,therapeutic,Melanoma,25113755.0
+254748,resveratrol 3-sulfate,therapeutic,"Melanoma, Experimental",25113755.0
+254749,trans-resveratrol 3-sulfate,therapeutic,"Melanoma, Experimental",25113755.0
+254800,resveratrol 3-sulfate,therapeutic,Memory Disorders,25113755.0
+254801,trans-resveratrol 3-sulfate,therapeutic,Memory Disorders,25113755.0
+255144,resveratrol 3-sulfate,therapeutic,"Mesothelioma, Malignant",25113755.0
+255145,trans-resveratrol 3-sulfate,therapeutic,"Mesothelioma, Malignant",25113755.0
+255380,resveratrol 3-sulfate,therapeutic,Metabolic Diseases,25113755.0
+255381,trans-resveratrol 3-sulfate,therapeutic,Metabolic Diseases,25113755.0
+255408,resveratrol 3-sulfate,therapeutic,Metabolic Syndrome X,25113755.0
+255409,trans-resveratrol 3-sulfate,therapeutic,Metabolic Syndrome X,25113755.0
+255888,resveratrol 3-sulfate,therapeutic,Mitochondrial Diseases,25113755.0
+255889,trans-resveratrol 3-sulfate,therapeutic,Mitochondrial Diseases,25113755.0
+256000,resveratrol 3-sulfate,therapeutic,Motor Disorders,25113755.0
+256001,trans-resveratrol 3-sulfate,therapeutic,Motor Disorders,25113755.0
+256172,resveratrol 3-sulfate,therapeutic,Movement Disorders,25113755.0
+256173,trans-resveratrol 3-sulfate,therapeutic,Movement Disorders,25113755.0
+256280,resveratrol 3-sulfate,therapeutic,Multiple Myeloma,25113755.0
+256281,trans-resveratrol 3-sulfate,therapeutic,Multiple Myeloma,25113755.0
+256484,resveratrol 3-sulfate,therapeutic,Muscle Weakness,25113755.0
+256485,trans-resveratrol 3-sulfate,therapeutic,Muscle Weakness,25113755.0
+256508,resveratrol 3-sulfate,therapeutic,Muscular Atrophy,25113755.0
+256509,trans-resveratrol 3-sulfate,therapeutic,Muscular Atrophy,25113755.0
+256552,resveratrol 3-sulfate,therapeutic,"Muscular Atrophy, Spinal",25113755.0
+256553,trans-resveratrol 3-sulfate,therapeutic,"Muscular Atrophy, Spinal",25113755.0
+256644,resveratrol 3-sulfate,therapeutic,"Muscular Dystrophy, Duchenne",25113755.0
+256645,trans-resveratrol 3-sulfate,therapeutic,"Muscular Dystrophy, Duchenne",25113755.0
+256852,resveratrol 3-sulfate,therapeutic,Myocardial Infarction,25113755.0
+256853,trans-resveratrol 3-sulfate,therapeutic,Myocardial Infarction,25113755.0
+257540,resveratrol 3-sulfate,therapeutic,Myocardial Reperfusion Injury,25113755.0
+257541,trans-resveratrol 3-sulfate,therapeutic,Myocardial Reperfusion Injury,25113755.0
+257816,resveratrol 3-sulfate,therapeutic,Myocarditis,25113755.0
+257817,trans-resveratrol 3-sulfate,therapeutic,Myocarditis,25113755.0
+257940,resveratrol 3-sulfate,therapeutic,Nasopharyngeal carcinoma,25113755.0
+257941,trans-resveratrol 3-sulfate,therapeutic,Nasopharyngeal carcinoma,25113755.0
+258048,resveratrol 3-sulfate,therapeutic,Necrosis,25113755.0
+258049,trans-resveratrol 3-sulfate,therapeutic,Necrosis,25113755.0
+258264,resveratrol 3-sulfate,therapeutic,Neointima,25113755.0
+258265,trans-resveratrol 3-sulfate,therapeutic,Neointima,25113755.0
+258284,resveratrol 3-sulfate,therapeutic,Neoplasm Invasiveness,25113755.0
+258285,trans-resveratrol 3-sulfate,therapeutic,Neoplasm Invasiveness,25113755.0
+258672,resveratrol 3-sulfate,therapeutic,Neoplasm Metastasis,25113755.0
+258673,trans-resveratrol 3-sulfate,therapeutic,Neoplasm Metastasis,25113755.0
+259252,resveratrol 3-sulfate,therapeutic,Neoplasms,25113755.0
+259253,trans-resveratrol 3-sulfate,therapeutic,Neoplasms,25113755.0
+259424,resveratrol 3-sulfate,therapeutic,"Neoplasms, Experimental",25113755.0
+259425,trans-resveratrol 3-sulfate,therapeutic,"Neoplasms, Experimental",25113755.0
+259624,resveratrol 3-sulfate,therapeutic,"Neovascularization, Pathologic",25113755.0
+259625,trans-resveratrol 3-sulfate,therapeutic,"Neovascularization, Pathologic",25113755.0
+259836,resveratrol 3-sulfate,therapeutic,Nerve Degeneration,25113755.0
+259837,trans-resveratrol 3-sulfate,therapeutic,Nerve Degeneration,25113755.0
+260232,resveratrol 3-sulfate,therapeutic,Neural Tube Defects,25113755.0
+260233,trans-resveratrol 3-sulfate,therapeutic,Neural Tube Defects,25113755.0
+260428,resveratrol 3-sulfate,therapeutic,Neurodegenerative Diseases,25113755.0
+260429,trans-resveratrol 3-sulfate,therapeutic,Neurodegenerative Diseases,25113755.0
+260668,resveratrol 3-sulfate,therapeutic,Neurogenic Inflammation,25113755.0
+260669,trans-resveratrol 3-sulfate,therapeutic,Neurogenic Inflammation,25113755.0
+260752,resveratrol 3-sulfate,therapeutic,Neurotoxicity Syndromes,25113755.0
+260753,trans-resveratrol 3-sulfate,therapeutic,Neurotoxicity Syndromes,25113755.0
+260916,resveratrol 3-sulfate,therapeutic,Non-alcoholic Fatty Liver Disease,25113755.0
+260917,trans-resveratrol 3-sulfate,therapeutic,Non-alcoholic Fatty Liver Disease,25113755.0
+261144,resveratrol 3-sulfate,therapeutic,Obesity,25113755.0
+261145,trans-resveratrol 3-sulfate,therapeutic,Obesity,25113755.0
+261688,resveratrol 3-sulfate,therapeutic,Oligospermia,25113755.0
+261689,trans-resveratrol 3-sulfate,therapeutic,Oligospermia,25113755.0
+261740,resveratrol 3-sulfate,therapeutic,Opioid-Related Disorders,25113755.0
+261741,trans-resveratrol 3-sulfate,therapeutic,Opioid-Related Disorders,25113755.0
+261912,resveratrol 3-sulfate,therapeutic,Osteoarthritis,25113755.0
+261913,trans-resveratrol 3-sulfate,therapeutic,Osteoarthritis,25113755.0
+262096,resveratrol 3-sulfate,therapeutic,"Osteoarthritis, Knee",25113755.0
+262097,trans-resveratrol 3-sulfate,therapeutic,"Osteoarthritis, Knee",25113755.0
+262228,resveratrol 3-sulfate,therapeutic,Osteoporosis,25113755.0
+262229,trans-resveratrol 3-sulfate,therapeutic,Osteoporosis,25113755.0
+262356,resveratrol 3-sulfate,therapeutic,"Osteoporosis, Postmenopausal",25113755.0
+262357,trans-resveratrol 3-sulfate,therapeutic,"Osteoporosis, Postmenopausal",25113755.0
+262536,resveratrol 3-sulfate,therapeutic,Ovarian Neoplasms,25113755.0
+262537,trans-resveratrol 3-sulfate,therapeutic,Ovarian Neoplasms,25113755.0
+262904,resveratrol 3-sulfate,therapeutic,Pancreatic Neoplasms,25113755.0
+262905,trans-resveratrol 3-sulfate,therapeutic,Pancreatic Neoplasms,25113755.0
+263116,resveratrol 3-sulfate,therapeutic,Pancreatitis,25113755.0
+263117,trans-resveratrol 3-sulfate,therapeutic,Pancreatitis,25113755.0
+263540,resveratrol 3-sulfate,therapeutic,"Parkinson Disease, Secondary",25113755.0
+263541,trans-resveratrol 3-sulfate,therapeutic,"Parkinson Disease, Secondary",25113755.0
+263564,resveratrol 3-sulfate,therapeutic,Parkinsonian Disorders,25113755.0
+263565,trans-resveratrol 3-sulfate,therapeutic,Parkinsonian Disorders,25113755.0
+263920,resveratrol 3-sulfate,therapeutic,Peritonitis,25113755.0
+263921,trans-resveratrol 3-sulfate,therapeutic,Peritonitis,25113755.0
+264124,resveratrol 3-sulfate,therapeutic,Pituitary Neoplasms,25113755.0
+264125,trans-resveratrol 3-sulfate,therapeutic,Pituitary Neoplasms,25113755.0
+264560,resveratrol 3-sulfate,therapeutic,Polycystic Ovary Syndrome,25113755.0
+264561,trans-resveratrol 3-sulfate,therapeutic,Polycystic Ovary Syndrome,25113755.0
+264912,resveratrol 3-sulfate,therapeutic,Precancerous Conditions,25113755.0
+264913,trans-resveratrol 3-sulfate,therapeutic,Precancerous Conditions,25113755.0
+265152,resveratrol 3-sulfate,therapeutic,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,25113755.0
+265153,trans-resveratrol 3-sulfate,therapeutic,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,25113755.0
+265172,resveratrol 3-sulfate,therapeutic,Precursor Cell Lymphoblastic Leukemia-Lymphoma,25113755.0
+265173,trans-resveratrol 3-sulfate,therapeutic,Precursor Cell Lymphoblastic Leukemia-Lymphoma,25113755.0
+265248,resveratrol 3-sulfate,therapeutic,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,25113755.0
+265249,trans-resveratrol 3-sulfate,therapeutic,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,25113755.0
+265276,resveratrol 3-sulfate,therapeutic,Pre-Eclampsia,25113755.0
+265277,trans-resveratrol 3-sulfate,therapeutic,Pre-Eclampsia,25113755.0
+265380,resveratrol 3-sulfate,therapeutic,Prenatal Exposure Delayed Effects,25113755.0
+265381,trans-resveratrol 3-sulfate,therapeutic,Prenatal Exposure Delayed Effects,25113755.0
+265472,resveratrol 3-sulfate,therapeutic,Progeria,25113755.0
+265473,trans-resveratrol 3-sulfate,therapeutic,Progeria,25113755.0
+265500,resveratrol 3-sulfate,therapeutic,Prolactinoma,25113755.0
+265501,trans-resveratrol 3-sulfate,therapeutic,Prolactinoma,25113755.0
+265604,resveratrol 3-sulfate,therapeutic,Prostatic Neoplasms,25113755.0
+265605,trans-resveratrol 3-sulfate,therapeutic,Prostatic Neoplasms,25113755.0
+266608,resveratrol 3-sulfate,therapeutic,Proteinuria,25113755.0
+266609,trans-resveratrol 3-sulfate,therapeutic,Proteinuria,25113755.0
+266952,resveratrol 3-sulfate,therapeutic,"Pulmonary Disease, Chronic Obstructive",25113755.0
+266953,trans-resveratrol 3-sulfate,therapeutic,"Pulmonary Disease, Chronic Obstructive",25113755.0
+267036,resveratrol 3-sulfate,therapeutic,Pulmonary Edema,25113755.0
+267037,trans-resveratrol 3-sulfate,therapeutic,Pulmonary Edema,25113755.0
+267116,resveratrol 3-sulfate,therapeutic,Pulmonary Fibrosis,25113755.0
+267117,trans-resveratrol 3-sulfate,therapeutic,Pulmonary Fibrosis,25113755.0
+267620,resveratrol 3-sulfate,therapeutic,"Renal Insufficiency, Chronic",25113755.0
+267621,trans-resveratrol 3-sulfate,therapeutic,"Renal Insufficiency, Chronic",25113755.0
+267668,resveratrol 3-sulfate,therapeutic,Reperfusion Injury,25113755.0
+267669,trans-resveratrol 3-sulfate,therapeutic,Reperfusion Injury,25113755.0
+268160,resveratrol 3-sulfate,therapeutic,Respiratory Syncytial Virus Infections,25113755.0
+268161,trans-resveratrol 3-sulfate,therapeutic,Respiratory Syncytial Virus Infections,25113755.0
+268192,resveratrol 3-sulfate,therapeutic,Respiratory Tract Diseases,25113755.0
+268193,trans-resveratrol 3-sulfate,therapeutic,Respiratory Tract Diseases,25113755.0
+268260,resveratrol 3-sulfate,therapeutic,Retinal Detachment,25113755.0
+268261,trans-resveratrol 3-sulfate,therapeutic,Retinal Detachment,25113755.0
+268292,resveratrol 3-sulfate,therapeutic,Retinal Diseases,25113755.0
+268293,trans-resveratrol 3-sulfate,therapeutic,Retinal Diseases,25113755.0
+268360,resveratrol 3-sulfate,therapeutic,Retinal Neovascularization,25113755.0
+268361,trans-resveratrol 3-sulfate,therapeutic,Retinal Neovascularization,25113755.0
+268776,resveratrol 3-sulfate,therapeutic,Schistosomiasis japonica,25113755.0
+268777,trans-resveratrol 3-sulfate,therapeutic,Schistosomiasis japonica,25113755.0
+269020,resveratrol 3-sulfate,therapeutic,"Scleroderma, Systemic",25113755.0
+269021,trans-resveratrol 3-sulfate,therapeutic,"Scleroderma, Systemic",25113755.0
+269052,resveratrol 3-sulfate,therapeutic,Scoliosis,25113755.0
+269053,trans-resveratrol 3-sulfate,therapeutic,Scoliosis,25113755.0
+269092,resveratrol 3-sulfate,therapeutic,Seizures,25113755.0
+269093,trans-resveratrol 3-sulfate,therapeutic,Seizures,25113755.0
+269284,resveratrol 3-sulfate,therapeutic,Sepsis,25113755.0
+269285,trans-resveratrol 3-sulfate,therapeutic,Sepsis,25113755.0
+269416,resveratrol 3-sulfate,therapeutic,Sezary Syndrome,25113755.0
+269417,trans-resveratrol 3-sulfate,therapeutic,Sezary Syndrome,25113755.0
+269492,resveratrol 3-sulfate,therapeutic,"Shock, Hemorrhagic",25113755.0
+269493,trans-resveratrol 3-sulfate,therapeutic,"Shock, Hemorrhagic",25113755.0
+269800,resveratrol 3-sulfate,therapeutic,Skin Neoplasms,25113755.0
+269801,trans-resveratrol 3-sulfate,therapeutic,Skin Neoplasms,25113755.0
+270224,resveratrol 3-sulfate,therapeutic,Spinocerebellar Ataxia 17,25113755.0
+270225,trans-resveratrol 3-sulfate,therapeutic,Spinocerebellar Ataxia 17,25113755.0
+270288,resveratrol 3-sulfate,therapeutic,Splenomegaly,25113755.0
+270289,trans-resveratrol 3-sulfate,therapeutic,Splenomegaly,25113755.0
+270660,resveratrol 3-sulfate,therapeutic,Stomach Neoplasms,25113755.0
+270661,trans-resveratrol 3-sulfate,therapeutic,Stomach Neoplasms,25113755.0
+271284,resveratrol 3-sulfate,therapeutic,Stroke,25113755.0
+271285,trans-resveratrol 3-sulfate,therapeutic,Stroke,25113755.0
+271400,resveratrol 3-sulfate,therapeutic,Subarachnoid Hemorrhage,25113755.0
+271401,trans-resveratrol 3-sulfate,therapeutic,Subarachnoid Hemorrhage,25113755.0
+271420,resveratrol 3-sulfate,therapeutic,Substance-Related Disorders,25113755.0
+271421,trans-resveratrol 3-sulfate,therapeutic,Substance-Related Disorders,25113755.0
+271740,resveratrol 3-sulfate,therapeutic,Teratoma,25113755.0
+271741,trans-resveratrol 3-sulfate,therapeutic,Teratoma,25113755.0
+271748,resveratrol 3-sulfate,therapeutic,Testicular Diseases,25113755.0
+271749,trans-resveratrol 3-sulfate,therapeutic,Testicular Diseases,25113755.0
+272136,resveratrol 3-sulfate,therapeutic,"Thyroid cancer, medullary",25113755.0
+272137,trans-resveratrol 3-sulfate,therapeutic,"Thyroid cancer, medullary",25113755.0
+272380,resveratrol 3-sulfate,therapeutic,Tongue Neoplasms,25113755.0
+272381,trans-resveratrol 3-sulfate,therapeutic,Tongue Neoplasms,25113755.0
+272484,resveratrol 3-sulfate,therapeutic,Trigeminal Neuralgia,25113755.0
+272485,trans-resveratrol 3-sulfate,therapeutic,Trigeminal Neuralgia,25113755.0
+273156,resveratrol 3-sulfate,therapeutic,Uterine Cervical Neoplasms,25113755.0
+273157,trans-resveratrol 3-sulfate,therapeutic,Uterine Cervical Neoplasms,25113755.0
+273240,resveratrol 3-sulfate,therapeutic,Uterine Neoplasms,25113755.0
+273241,trans-resveratrol 3-sulfate,therapeutic,Uterine Neoplasms,25113755.0
+273340,resveratrol 3-sulfate,therapeutic,Vascular Diseases,25113755.0
+273341,trans-resveratrol 3-sulfate,therapeutic,Vascular Diseases,25113755.0
+273428,resveratrol 3-sulfate,therapeutic,"Vasospasm, Intracranial",25113755.0
+273429,trans-resveratrol 3-sulfate,therapeutic,"Vasospasm, Intracranial",25113755.0
+273520,resveratrol 3-sulfate,therapeutic,Ventricular Dysfunction,25113755.0
+273521,trans-resveratrol 3-sulfate,therapeutic,Ventricular Dysfunction,25113755.0
+273548,resveratrol 3-sulfate,therapeutic,"Ventricular Dysfunction, Left",25113755.0
+273549,trans-resveratrol 3-sulfate,therapeutic,"Ventricular Dysfunction, Left",25113755.0
+273612,resveratrol 3-sulfate,therapeutic,"Ventricular Dysfunction, Right",25113755.0
+273613,trans-resveratrol 3-sulfate,therapeutic,"Ventricular Dysfunction, Right",25113755.0
+273640,resveratrol 3-sulfate,therapeutic,Ventricular Remodeling,25113755.0
+273641,trans-resveratrol 3-sulfate,therapeutic,Ventricular Remodeling,25113755.0
+273812,resveratrol 3-sulfate,therapeutic,Waldenstrom Macroglobulinemia,25113755.0
+273813,trans-resveratrol 3-sulfate,therapeutic,Waldenstrom Macroglobulinemia,25113755.0
+273820,resveratrol 3-sulfate,therapeutic,Wallerian Degeneration,25113755.0
+273821,trans-resveratrol 3-sulfate,therapeutic,Wallerian Degeneration,25113755.0
+273840,resveratrol 3-sulfate,therapeutic,Wasting Syndrome,25113755.0
+273841,trans-resveratrol 3-sulfate,therapeutic,Wasting Syndrome,25113755.0
+273852,resveratrol 3-sulfate,therapeutic,Weight Gain,25113755.0
+273853,trans-resveratrol 3-sulfate,therapeutic,Weight Gain,25113755.0
+274036,resveratrol 3-sulfate,therapeutic,Weight Loss,25113755.0
+274037,trans-resveratrol 3-sulfate,therapeutic,Weight Loss,25113755.0
+274100,resveratrol 3-sulfate,therapeutic,Werner Syndrome,25113755.0
+274101,trans-resveratrol 3-sulfate,therapeutic,Werner Syndrome,25113755.0
+274160,resveratrol 3-sulfate,therapeutic,Wounds and Injuries,25113755.0
+274161,trans-resveratrol 3-sulfate,therapeutic,Wounds and Injuries,25113755.0
+274445,resveratrol 5-o-glucoside,therapeutic,Anaphylaxis,5281718.0
+275117,resveratrol 5-o-glucoside,therapeutic,Cardiomegaly,5281718.0
+275666,resveratrol 5-o-glucoside,therapeutic,"Disease Models, Animal",5281718.0
+275834,resveratrol 5-o-glucoside,therapeutic,Endomyocardial Fibrosis,5281718.0
+275855,resveratrol 5-o-glucoside,therapeutic,Enterovirus Infections,5281718.0
+276509,resveratrol 5-o-glucoside,therapeutic,Hypertrophy,5281718.0
+276536,resveratrol 5-o-glucoside,therapeutic,Hyperuricemia,5281718.0
+276737,resveratrol 5-o-glucoside,therapeutic,Kidney Diseases,5281718.0
+279298,paeonol,therapeutic,Drug-Induced Liver Injury,11092.0
+280172,urolithin a,therapeutic,Urinary Bladder Neoplasms,5488186.0
+280173,urolithin b,therapeutic,Urinary Bladder Neoplasms,5488186.0
+285513,(-)-epicatechin 3-o-gallate,therapeutic,Hemolysis,107905.0
+294811,quercetin 3-o-glucuronide,therapeutic,Glucose Intolerance,5274585.0
+306248,4-hydroxycoumarin,therapeutic,"Melanoma, Experimental",54682930.0
+306252,4-hydroxycoumarin,therapeutic,Neoplasm Metastasis,54682930.0
+306562,"1,4-naphtoquinone",therapeutic,Inflammation,8530.0
+307391,benzoic acid,therapeutic,Carbamoyl-Phosphate Synthase I Deficiency Disease,243.0
+307815,benzoic acid,therapeutic,Hyperammonemia,243.0
+308504,galloyl glucose,therapeutic,Uveitis,124021.0
+311323,equol,therapeutic,Breast Neoplasms,91469.0
+311794,equol,therapeutic,Prostatic Neoplasms,91469.0
+312003,isoliquiritigenin,therapeutic,Adenoma,638278.0
+312194,isoliquiritigenin,therapeutic,Brain Diseases,638278.0
+312229,isoliquiritigenin,therapeutic,Breast Neoplasms,638278.0
+312433,isoliquiritigenin,therapeutic,Colitis,638278.0
+312448,isoliquiritigenin,therapeutic,Colonic Neoplasms,638278.0
+312622,isoliquiritigenin,therapeutic,Drug-Induced Liver Injury,638278.0
+313297,isoliquiritigenin,therapeutic,Muscle Cramp,638278.0
+313358,isoliquiritigenin,therapeutic,Neoplasm Invasiveness,638278.0
+313373,isoliquiritigenin,therapeutic,Neoplasm Metastasis,638278.0
+313414,isoliquiritigenin,therapeutic,Nervous System Diseases,638278.0
+314008,o-desmethylangolensin,therapeutic,Prostatic Neoplasms,89472.0
+314308,prunetin,therapeutic,Inflammation,5281804.0
+314523,prunetin,therapeutic,Sepsis,5281804.0
+314601,puerarin,therapeutic,Acute Kidney Injury,5281807.0
+314661,puerarin,therapeutic,Alcohol-Related Disorders,5281807.0
+314728,puerarin,therapeutic,Arteriosclerosis,5281807.0
+314828,puerarin,therapeutic,Brain Ischemia,5281807.0
+315183,puerarin,therapeutic,Diabetes Mellitus,5281807.0
+315187,puerarin,therapeutic,"Diabetes Mellitus, Experimental",5281807.0
+315242,puerarin,therapeutic,Diabetic Nephropathies,5281807.0
+315285,puerarin,therapeutic,Drug-Induced Liver Injury,5281807.0
+315320,puerarin,therapeutic,Dyslipidemias,5281807.0
+315575,puerarin,therapeutic,Hyperglycemia,5281807.0
+315592,puerarin,therapeutic,Hyperlipidemias,5281807.0
+315614,puerarin,therapeutic,Hypertension,5281807.0
+315692,puerarin,therapeutic,Inflammation,5281807.0
+315776,puerarin,therapeutic,Learning Disorders,5281807.0
+315819,puerarin,therapeutic,Liver Cirrhosis,5281807.0
+315990,puerarin,therapeutic,Memory Disorders,5281807.0
+316070,puerarin,therapeutic,Myocardial Ischemia,5281807.0
+316273,puerarin,therapeutic,Pancreatic Diseases,5281807.0
+316401,puerarin,therapeutic,Proteinuria,5281807.0
+316645,puerarin,therapeutic,Uremia,5281807.0
+316725,tectoridin,therapeutic,Drug-Induced Liver Injury,5281810.0
+316732,tectoridin,therapeutic,Fatty Liver,5281810.0
+316778,deoxyschisandrin,therapeutic,Drug-Induced Liver Injury,43595.0
+316826,enterodiol,therapeutic,Breast Neoplasms,115089.0
+316892,enterodiol,therapeutic,"Neovascularization, Pathologic",115089.0
+317136,enterolactone,therapeutic,Breast Neoplasms,10685477.0
+318347,enterolactone,therapeutic,"Neovascularization, Pathologic",10685477.0
+318912,schisandrin b,therapeutic,Cardiomyopathies,108130.0
+318970,schisandrin b,therapeutic,Drug-Induced Liver Injury,108130.0
+319015,schisandrin b,therapeutic,Heart Diseases,108130.0
+319027,schisandrin b,therapeutic,Hepatitis,108130.0
+319070,schisandrin b,therapeutic,Kidney Diseases,108130.0
+319145,schisandrin b,therapeutic,Neoplasms,108130.0
+319284,schisandrin c,therapeutic,Drug-Induced Liver Injury,443027.0
+319352,schisandrol b,therapeutic,Amnesia,3001662.0
+319577,schisandrol b,therapeutic,Drug-Induced Liver Injury,3001662.0
+320002,schisandrol b,therapeutic,Precancerous Conditions,3001662.0
+320172,schisantherin a,therapeutic,Drug-Induced Liver Injury,151529.0
+320375,lithospermic acid,therapeutic,"Arthritis, Gouty",6441498.0
+320382,lithospermic acid,therapeutic,Inflammation,6441498.0
+320677,salvianolic acid b,therapeutic,Cognition Disorders,6441188.0
+320789,salvianolic acid b,therapeutic,Drug-Induced Liver Injury,6441188.0
+320859,salvianolic acid b,therapeutic,Fibrosis,6441188.0
+320903,salvianolic acid b,therapeutic,Heart Diseases,6441188.0
+320937,salvianolic acid b,therapeutic,Hepatomegaly,6441188.0
+320996,salvianolic acid b,therapeutic,Hypokinesia,6441188.0
+321097,salvianolic acid b,therapeutic,"Liver Cirrhosis, Experimental",6441188.0
+321263,salvianolic acid b,therapeutic,Necrosis,6441188.0
+321377,salvianolic acid b,therapeutic,"Parkinson Disease, Secondary",6441188.0
+321616,salvianolic acid b,therapeutic,Weight Gain,6441188.0
+321650,paeoniflorin,therapeutic,Amnesia,442534.0
+321789,paeoniflorin,therapeutic,"Dermatitis, Allergic Contact",442534.0
+321921,paeoniflorin,therapeutic,Hypotension,442534.0
+322141,paeoniflorin,therapeutic,Radiation Injuries,442534.0
+322280,phenylacetic acid,therapeutic,Carbamoyl-Phosphate Synthase I Deficiency Disease,999.0
+322286,phenylacetic acid,therapeutic,Coma,999.0
+322303,phenylacetic acid,therapeutic,Hyperammonemia,999.0
+322331,phenylacetic acid,therapeutic,"Urea Cycle Disorders, Inborn",999.0
+322411,3-phenylpropionic acid,therapeutic,Melanoma,107.0
