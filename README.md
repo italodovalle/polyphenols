@@ -9,6 +9,7 @@ git clone https://github.com/italodovalle/polyphenols.git
 cd polyphenols
 git init submodule
 git submodule update
+pip install -r requirements.txt
 ```
 
 

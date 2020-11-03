@@ -109,7 +109,7 @@ if __name__ == '__main__':
 
     ### Interactome params
 
-    description = 'Run Proximity'
+    description = 'Calculate Network Proximity'
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument('-i', required=True, dest='interactome',
                         action='store',help='interactome file')
@@ -140,6 +140,13 @@ if __name__ == '__main__':
     parser.add_argument('-test', dest = 'test_run', action='store',
                         help = 'test run, default = False',
                         default = False)
+    parser.add_argument('-chem', dest = 'chemical_col', action = 'store',
+                        default = 'chemical', help = 'chemical column in binding file')
+    parser.add_argument('-prot', dest = 'protein_col', action = 'store',
+                        default = 'entrezid', help = 'protein column in binding file')
+    parser.add_argument('-evi', dest = 'evidence_col', action = 'store',
+                        default = None, help = 'experimental column in binding file, default None')
+
 
 
 
@@ -162,6 +169,11 @@ if __name__ == '__main__':
     lcc = bool(args.lcc)
     columns = [args.source_node, args.target_node]
     test_run = bool(args.test_run)
+    chemical_col = args.chemical_col
+    protein_col = args.protein_col
+    evidence_col = args.evidence_col
+    #if evidence_col == 'None':
+    #    evidence_col = None
 
     final_outfile = outdir_tmp_files + 'merged_zscore_proximity.csv'
 
@@ -198,12 +210,15 @@ if __name__ == '__main__':
 
     polyphenol = pd.read_csv(polyphenl_targets_file,index_col = 0)
     polyphenol = polyphenol.reset_index()
-    #polyphenol = polyphenol[(polyphenol.experimental > 0) | (polyphenol.database > 0)]
-    polyphenol = polyphenol[(polyphenol.experimental > 0)]
+    polyphenol[chemical_col] = polyphenol[chemical_col].astype(str)
+    if evidence_col:
+        polyphenol = polyphenol[(polyphenol[evidence_col] > 0)]
+
+
     chemical2genes = defaultdict(list)
     for i in polyphenol.index:
-        name = str(int(polyphenol.chemical.loc[i]))
-        chemical2genes[name].append(polyphenol.entrezid.loc[i])
+        name = polyphenol[chemical_col].loc[i]
+        chemical2genes[name].append(polyphenol[protein_col].loc[i])
 
     for i in chemical2genes.keys():
         chemical2genes[i] = list(set(chemical2genes[i]))
