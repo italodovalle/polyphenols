@@ -4,11 +4,31 @@ Jupyter (IPython) Notebook and required files for the proximity-based analysis i
 
 ## Instructions
 
+**Clone repository**
+
 ```
 git clone https://github.com/italodovalle/polyphenols.git
-cd polyphenols
+```
+
+
+**Clone submodules**
+
+```
+cd polyphenols/toolbox
 git init submodule
 git submodule update
+```
+
+```
+cd polyphenols/toolbox/guney_code
+git init submodule
+git submodule update
+```
+
+**Install requirements**
+
+```
+cd polyphenols/
 pip install -r requirements.txt
 ```
 
