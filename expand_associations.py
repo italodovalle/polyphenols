@@ -8,7 +8,30 @@ from progressbar import ProgressBar
 import networkx as nx
 import os
 import sys
-import toolbox.databases_utils as databases_utils
+
+
+def load_mesh_graph(infile):
+    disease2code = defaultdict(list)
+    code2name = {}
+    codes = []
+    for i in open(infile).readlines():
+        name, code = i.rstrip().split(';')
+        if code.startswith('C'):
+            disease2code[name.lower()].append(code)
+            code2name[code] = name.lower()
+            codes.append(code)
+
+
+    edges = []
+    for i in set(codes):
+        if len(i) > 4:
+            a, b = i[:-4], i
+            edges.append((a,b))
+
+    g = nx.DiGraph()
+    g.add_edges_from(edges)
+
+    return(g, disease2code, code2name)
 
 
 if __name__ == '__main__':
@@ -21,21 +44,27 @@ if __name__ == '__main__':
     parser.add_argument('-o', dest='outfile', action='store',
                         help='outfile',
                         default= 'expanded.csv')
-    
-    if len(sys.argv) <= 1: 
-        parser.print_help() 
-        sys.exit(1) 
-    else: 
+    parser.add_argument('-d', dest = 'direct_evidence', action = 'store',
+                        help = 'DirectEvidence label, default = therapeutic',
+                        default = 'therapeutic')
+
+    if len(sys.argv) <= 1:
+        parser.print_help()
+        sys.exit(1)
+    else:
         args = parser.parse_args()
-    
+
     meshfile = args.mesh
     infile = args.infile
     outfile = args.outfile
+    direct_evidence = args.direct_evidence
 
     ## open mesh tree
     #meshfile = '/home/italodovalle/flavonoids/data/databases/mesh/mtrees2018.bin'
-    g, disease2code, code2name = databases_utils.load_mesh_graph(meshfile)
+    g, disease2code, code2name = load_mesh_graph(meshfile)
 
+    
+    ### manual curation of mesh to disease codes
     curation = {'MESH:D056486':['C06.552.195','C25.100.562','C25.723.260'],
                 'MESH:C535575':['C04.557.470.200.400','C04.557.470.700.400'],
                 'MESH:C538231':['C04.557.470.200.025'],
@@ -65,16 +94,16 @@ if __name__ == '__main__':
                                'C04.557.465.625.650.240','C04.557.470.200.025.370',
                                 'C04.557.580.625.650.240']
                 }
-    
+
     ctd = pd.read_csv(infile,index_col = 0)
     print ('%d Chemical-Disease Associations'%ctd.shape[0])
     ctd['disease'] = [i.lower() for i in ctd['disease']]
-    
+
     ## format cols in association file
-    ### ['chemical', 'disease', 'DirectEvidence'] 
+    ### ['chemical', 'disease', 'DirectEvidence']
     ctd = ctd[~ctd.DirectEvidence.isnull()]
-    ctd = ctd[ctd.DirectEvidence == 'therapeutic']
-    
+    ctd = ctd[ctd.DirectEvidence == direct_evidence]
+
     ## all possible chemical disease associations
     table = defaultdict(dict)
     c = 0
@@ -85,16 +114,16 @@ if __name__ == '__main__':
             table[c]['DirectEvidence'] = float('nan')
             c = c + 1
     table = pd.DataFrame.from_dict(table, orient='index')
-    
+
     merged = pd.merge(ctd, table,on = ['chemical', 'disease'],how='outer')
     merged['DirectEvidence'] = float('nan')
-    merged.loc[(~merged['DirectEvidence_x'].isnull()), 'DirectEvidence'] = 'therapeutic'
+    merged.loc[(~merged['DirectEvidence_x'].isnull()), 'DirectEvidence'] = direct_evidence
     merged = merged[['chemical', 'disease', 'DirectEvidence']]
-    
+
     print (merged[~merged.DirectEvidence.isnull()].shape[0], 'interactions DirectEvidence')
     print (len(set(merged[~merged.DirectEvidence.isnull()].chemical)), 'chemicals DirectEvidence')
     print (len(set(merged[~merged.DirectEvidence.isnull()].disease)), 'diseases DirectEvidence')
-    
+
     print ('\nCreating chemical2code matrix\n')
     chemical2code = defaultdict(dict)
     pbar = ProgressBar()
@@ -105,7 +134,7 @@ if __name__ == '__main__':
             ## all possible codes for the disease
             codes = disease2code[disease]
             for code in codes:
-                if merged.DirectEvidence.loc[i] == 'therapeutic':
+                if merged.DirectEvidence.loc[i] == direct_evidence:
                     chemical2code[chemical][code] = 1
                 else:
                     chemical2code[chemical][code] = 0
@@ -113,7 +142,7 @@ if __name__ == '__main__':
     chemical2code = chemical2code.fillna(0)
     ## chemical2code is a matrix with all codes and all chemicals
     ## 1 if the chemical is associated with a disease code, zero otherwise
-    
+
     print ('\nRetrieving Implicit from Explicit associations')
     merged['therapeutic'] = float('nan')
     diseases = set(merged.disease)
@@ -138,7 +167,7 @@ if __name__ == '__main__':
             x = x.T
             implicit = list(x[x>0].dropna(how='all').index)
             evidence = list(set(explicit) | set(implicit))
-            merged.loc[(merged.disease == disease) & (merged.chemical.isin(evidence)), 'therapeutic'] = 1
-           
+            merged.loc[(merged.disease == disease) & (merged.chemical.isin(evidence)), direct_evidence] = 1
+
     print ('Writing output')
     merged.to_csv(outfile)

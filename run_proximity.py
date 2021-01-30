@@ -161,8 +161,6 @@ if __name__ == '__main__':
         args = parser.parse_args()
 
 
-    ##--------------------------------
-    #Input file fastq already trimmed
     infile = args.interactome
     disease_genes_file = args.diseasegenes
     polyphenl_targets_file = args.targets
