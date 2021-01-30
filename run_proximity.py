@@ -14,9 +14,7 @@ import re
 import argparse
 import sys
 
-from toolbox.guney_code import wrappers
-from toolbox.guney_code import network_utilities
-import toolbox.network_utils as network_utils
+import utils.network_utils as network_utils
 import sys
 import logging
 
@@ -25,12 +23,15 @@ def get_zscores (disease_chemical, n_random, outdir,
                      G, chemical2genes, disease2genes):
 
         disease, chemical = disease_chemical
-        chemical = chemical.lower()
+        if type(chemical) == str:
+            chemical = chemical.lower()
+        else:
+            chemical = str(int(chemical))
         nodes_from = set(chemical2genes[chemical]) & set(G.nodes())
         nodes_to = set(disease2genes[disease]) & set(G.nodes())
         min_bin_size = 2 * max(len(nodes_from), len(nodes_to))
 
-        dic = network_utils.calculate_proximity_italo(G, nodes_from,nodes_to,
+        dic = network_utils.calculate_proximity(G, nodes_from,nodes_to,
                                                       n_random = n_random,
                                                       min_bin_size=min_bin_size)
         table = {}
@@ -77,10 +78,8 @@ def run_proximity (G, disease2genes, chemical2genes, ncpus = 15,
         if len(fs) > 0:
             ds = pd.concat(fs)
             finished = [(i,str(j)) for i,j in zip(ds.disease, ds.chemical)]
-
-    #print (len(finished))
-    #print (finished[:10])
-    #sys.exit()
+            print ('%d pre-calculated chemical disease pairs loaded'%len(finished))
+            
 
 
     samples = []
@@ -89,11 +88,16 @@ def run_proximity (G, disease2genes, chemical2genes, ncpus = 15,
             pair = (disease,molecule)
             if not pair in finished:
                 samples.append((disease,molecule))
-    print ('%d Chemical-disease pairs'%len(samples))
+    print ('%d reamining chemical-disease pairs'%len(samples))
+    
+    if len(samples) == 0:
+        print ('No chemical-disease pairs for calculation!')
+        sys.exit()
 
 
     if test_run:
-        samples = samples[:ncpus]
+        if len(samples) > ncpus:
+            samples = samples[:ncpus]
 
     p = Pool(ncpus)
     res = p.map(partial(get_zscores,
@@ -101,7 +105,8 @@ def run_proximity (G, disease2genes, chemical2genes, ncpus = 15,
                   G = G, chemical2genes = chemical2genes,
                   disease2genes = disease2genes), samples)
     p.close()
-
+    
+    
     df = pd.concat(res)
     return(df)
 
@@ -116,36 +121,35 @@ if __name__ == '__main__':
     parser.add_argument('-d', required=True, dest='diseasegenes',action='store',
                         help='disease genes file')
     parser.add_argument('-t', required=True, dest='targets',action='store',
-                        help='target genes file')
+                        help='chemical protein interactions')
     parser.add_argument('-c', dest='cores', action='store',
                         help='number of cores to use, default = 6',
                         default= 6)
     parser.add_argument('-r', dest='nrandom', action='store',
                         help='n random permutations, default = 1000',
                         default= 1000)
-    parser.add_argument('-o', required=True, dest='outfolder', action='store',
-                        help='outfolder')
+    parser.add_argument('-o', dest='outfolder', action='store',
+                        help='outfolder', default='out')
     parser.add_argument('-sn', dest='source_node', action='store',
-                        help='name source node, default = proteinA',
+                        help='name source node Interactome, default = proteinA',
                         default= 'proteinA')
     parser.add_argument('-tn', dest='target_node', action='store',
-                        help='name target node, default = proteinB',
+                        help='name target node Interactome, default = proteinB',
                         default= 'proteinB')
     parser.add_argument('-lcc', dest = 'lcc', action = 'store',
-                        help = 'LCC, default = True',
+                        help = 'Consider only Interactome LCC, default = True',
                         default = True)
     parser.add_argument('-sep', dest='separator', action='store',
-                        help = 'separator, default = ","',
+                        help = 'separator Interactome, default = ","',
                         default = ',')
     parser.add_argument('-test', dest = 'test_run', action='store',
-                        help = 'test run, default = False',
-                        default = False)
+                        help = 'test run')
     parser.add_argument('-chem', dest = 'chemical_col', action = 'store',
-                        default = 'chemical', help = 'chemical column in binding file')
+                        default = 'chemical', help = 'chemical column in chemical-protein interaction file')
     parser.add_argument('-prot', dest = 'protein_col', action = 'store',
-                        default = 'entrezid', help = 'protein column in binding file')
-    parser.add_argument('-evi', dest = 'evidence_col', action = 'store',
-                        default = None, help = 'experimental column in binding file, default None')
+                        default = 'entrezid', help = 'chemical column in chemical-protein interaction file')
+    parser.add_argument('-tmp', dest = 'tmp_dir', action = 'store', 
+                        help = 'temporary folder', default='tmp')
 
 
 
@@ -164,23 +168,25 @@ if __name__ == '__main__':
     polyphenl_targets_file = args.targets
     ncpus = int(args.cores)
     n_random = int(args.nrandom)
-    outdir_tmp_files = os.path.abspath(args.outfolder) + '/'
+    outdir_tmp_files = os.path.abspath(args.tmp_dir) + '/'
     sep = args.separator
     lcc = bool(args.lcc)
     columns = [args.source_node, args.target_node]
     test_run = bool(args.test_run)
     chemical_col = args.chemical_col
     protein_col = args.protein_col
-    evidence_col = args.evidence_col
-    #if evidence_col == 'None':
-    #    evidence_col = None
-
-    final_outfile = outdir_tmp_files + 'merged_zscore_proximity.csv'
-
+    outdir = os.path.abspath(args.outfolder) + '/'
     header=True
 
+    final_outfile = outdir + 'merged_zscore_proximity.csv'
 
 
+    if not os.path.exists(outdir):
+        os.mkdir(outdir)
+    if not os.path.exists(outdir_tmp_files):
+        os.mkdir(outdir_tmp_files)
+    
+    
 
     logging.basicConfig(format='%(asctime)s - %(message)s',
                     datefmt='%d-%b-%y %H:%M:%S',level=logging.INFO)
@@ -196,24 +202,20 @@ if __name__ == '__main__':
     ## create dictionary
     ## disease names are keys and elements are disease genes
 
-    disease2genes = {}
-    for i in open(disease_genes_file).readlines():
-        v = i.rstrip().split('\t')
-        disease = v[1]
-        genes = v[2:]
-        if len(genes) > 19:
-            disease2genes[disease] = [int(i) for i in genes]
+    disease2genes = defaultdict(list)
+    
+    dg = pd.read_csv(disease_genes_file)
+    
+    for i in dg.index:
+        disease2genes[dg.disease.loc[i]].append(dg.entrez_id.loc[i])
+
 
     ## create dictionary
     ## polyphenol names are keys and elements are polyphenol targets
 
 
-    polyphenol = pd.read_csv(polyphenl_targets_file,index_col = 0)
-    polyphenol = polyphenol.reset_index()
+    polyphenol = pd.read_csv(polyphenl_targets_file)
     polyphenol[chemical_col] = polyphenol[chemical_col].astype(str)
-    if evidence_col:
-        polyphenol = polyphenol[(polyphenol[evidence_col] > 0)]
-
 
     chemical2genes = defaultdict(list)
     for i in polyphenol.index:
