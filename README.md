@@ -2,6 +2,17 @@
 
 Jupyter (IPython) Notebook and required files for the proximity-based analysis in the *"Predicting the Health Impact of Dietary Polyphenols Using a Network Medicine Framework"* manuscript.
 
+
+## Table of Contents
+
+  * [Instructions](#instructions)
+  * [Network Proximity](#network-proximity)
+  * [Implicit Associations](#implicit-associations)
+  * [Gene Set Enrichment Analysis](#gene-set-enrichment-analysis)
+  * [Data Files](#data-files)
+  * [Citation](#citation)
+
+
 ## Instructions
 
 **Clone repository**
@@ -10,20 +21,6 @@ Jupyter (IPython) Notebook and required files for the proximity-based analysis i
 git clone https://github.com/italodovalle/polyphenols.git
 ```
 
-
-**Clone submodules**
-
-```
-cd polyphenols/toolbox
-git init submodule
-git submodule update
-```
-
-```
-cd polyphenols/toolbox/guney_code
-git init submodule
-git submodule update
-```
 
 **Install requirements**
 
@@ -80,7 +77,7 @@ optional arguments:
 * run time: it can take several days to calculate the proximity for the entire dataset.
 
 
-## Obtaining implicit disease-chemical associations associations
+## Implicit Associations
 
 * Consider the example of the disease 'Cardiovascular diseases' (C14.XXX):
     * The following chemicals have the 'therapeutic' label in CTD: Genistein, Kaempferol, Resveratrol, Daidzein
