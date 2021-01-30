@@ -1,6 +1,6 @@
 # Network Medicine Framework to Predict Health Impact of Dietary Polyphenols
 
-Jupyter (IPython) Notebook and required files for the proximity-based analysis in the *"Predicting the Health Impact of Dietary Polyphenols Using a Network Medicine Framework"* manuscript.
+Code and input files for the proximity-based analysis in the *"Predicting the Health Impact of Dietary Polyphenols Using a Network Medicine Framework"* manuscript.
 
 
 ## Table of Contents
