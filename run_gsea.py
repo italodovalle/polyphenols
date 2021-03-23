@@ -86,6 +86,7 @@ def get_gsea_performance(geneset, nongeneset, df):
 
 
 def get_null(input):
+    np.random.seed()
     n, df = input
     geneset = df['gene'].sample(n)
     nongeneset = list(set(df['gene']) - set(geneset))

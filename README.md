@@ -185,4 +185,4 @@ The data folder contains:
 
 ## Citation
 
-do Valle, I. F. et al. Predicting the Health Impact of Dietary Polyphenols Using a Network Medicine Framework. bioRxiv 2020.08.27.270173 (2020) doi:10.1101/2020.08.27.270173.
+do Valle, I. F. et al. Network medicine framework shows that proximity of polyphenol targets and disease proteins predicts therapeutic effects of polyphenols. Nat. Food 2, 143–155 (2021).
