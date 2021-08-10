@@ -29,7 +29,19 @@ def pick_random_nodes_matching_selected(network, bins, nodes_selected, n_random,
                                         degree_aware=True, connected=False,
                                         seed=None):
     """
-    Use get_degree_binning to get bins. Guney Github
+    Get random nodes with the same size as original set
+    Adapted from https://github.com/emreg00/toolbox
+
+    Args:
+        network (nx.Graph):
+        bins (list): bins containing nodes with similar degree
+        nodes_selected:
+        n_random (int): number of random selections
+        degree_aware (bool): degree-preserving random selection
+        connected (bool):
+        seed (int): random seed
+    Returns:
+        list of lists
     """
     if seed is not None:
         random.seed(seed)
@@ -70,7 +82,12 @@ def pick_random_nodes_matching_selected(network, bins, nodes_selected, n_random,
 def get_degree_equivalents(seeds, bins, g):
 
     """
-    Obtained from the Guney github
+    Get other nodes that match degree as seed
+    Adapted from https://github.com/emreg00/toolbox
+    Args:
+        seeds (list): nodes
+        bins (list): bins containing nodes with similar degree
+        g (nx.Graph): graph object
     """
 
     seed_to_nodes = {}
@@ -87,7 +104,16 @@ def get_degree_equivalents(seeds, bins, g):
 def get_random_nodes(nodes, network, bins=None, n_random=1000, min_bin_size=100,
                     degree_aware=True, seed=None):
     """
-    Obtained from the Guney github
+    Get a random selection of nodes 
+    Adapted from https://github.com/emreg00/toolbox
+    Args:
+        nodes (list): list of nodes
+        network (nx.Graph): graph
+        bins (list): bins containing nodes with similar degree
+        n_random (int): number of random samples
+        min_bin_size (int): minimum size of bin of nodes with similar degree 
+        degree_aware (bool): whether selection is degree preserving or not
+        seed (int): random seed
     """
 
     if bins is None:
@@ -103,9 +129,23 @@ def calculate_proximity(network, nodes_from, nodes_to,
                         seed=452456, sp = None, node2index = None,lengths = None):
 
     """
-    Calculate proximity from nodes_from to nodes_to
-    If degree binning or random nodes are not given, they are generated
-    last edit: Italo Oct 12, 2019
+    Calculate network proximity measures (d_closest and d_shortest)
+    between two sets of nodes
+    Args:
+        network (nx.Graph)
+        nodes_from (iterable): source nodes
+        nodes_to (iterable): target nodes
+        nodes_from_random (iterable, optional)
+        nodes_to_random (iterable, optional)
+        bins (iterable, optional)
+        n_random (int, default = 1000): number of random iteractions
+        min_bin_size(int, default = 100): minimum size for bins of nodes with similar degree
+        seed (int, default = 452456): random seed
+        sp (np.ndarray, optional): pre-computed pairwirse shortest path matrix
+        node2id (dict, optional): node 2 index mapping in shortest path matrix
+        lengths (dict, optional): 
+    Returns:
+        dict: with proximity measures
     """
 
 
@@ -153,7 +193,13 @@ def calculate_proximity(network, nodes_from, nodes_to,
 def get_degree_binning(g, bin_size, lengths=None):
 
     """
-    Obtained from the Guney github
+    Organize nodes in bins according to their degree
+    Adapted from https://github.com/emreg00/toolbox
+
+    Args:
+        g (nx.Graph):
+        bin_size (int):
+        lengths (dict)
     """
     degree_to_nodes = {}
     degrees = dict(g.degree())
@@ -185,83 +231,21 @@ def get_degree_binning(g, bin_size, lengths=None):
             bins.append((low, high, val))
     return bins
 
-def pick_random_nodes_matching_selected(network, bins, nodes_selected, n_random,
-                                        degree_aware=True, connected=False,
-                                        seed=None):
-    """
-    Use get_degree_binning to get bins. Guney Github
-    """
-    if seed is not None:
-        random.seed(seed)
-    values = []
-    nodes = network.nodes()
-    for i in range(n_random):
-        if degree_aware:
-            if connected:
-               raise ValueError("Not implemented!")
-            nodes_random = set()
-            node_to_equivalent_nodes = get_degree_equivalents(nodes_selected, bins, network)
-            for node, equivalent_nodes in node_to_equivalent_nodes.items():
-               #nodes_random.append(random.choice(equivalent_nodes))
-               chosen = random.choice(equivalent_nodes)
-               for k in range(20): # Try to find a distinct node (at most 20 times)
-                   if chosen in nodes_random:
-                     chosen = random.choice(equivalent_nodes)
-               nodes_random.add(chosen)
-            nodes_random = list(nodes_random)
-        else:
-            if connected:
-               nodes_random = [ random.choice(nodes) ]
-               k = 1
-               while True:
-                   if k == len(nodes_selected):
-                     break
-                   node_random = random.choice(nodes_random)
-                   node_selected = random.choice(network.neighbors(node_random))
-                   if node_selected in nodes_random:
-                     continue
-                   nodes_random.append(node_selected)
-                   k += 1
-            else:
-               nodes_random = random.sample(nodes, len(nodes_selected))
-        values.append(nodes_random)
-    return values
-
-def get_degree_equivalents(seeds, bins, g):
-
-    """
-    Obtained from the Guney github
-    """
-
-    seed_to_nodes = {}
-    for seed in seeds:
-        d = g.degree(seed)
-        for l, h, nodes in bins:
-            if l <= d and h >= d:
-               mod_nodes = list(nodes)
-               mod_nodes.remove(seed)
-               seed_to_nodes[seed] = mod_nodes
-               break
-    return seed_to_nodes
-
-def get_random_nodes(nodes, network, bins=None, n_random=1000, min_bin_size=100,
-                    degree_aware=True, seed=None):
-    """
-    Obtained from the Guney github
-    """
-
-    if bins is None:
-        # Get degree bins of the network
-        bins = get_degree_binning(network, min_bin_size)
-    nodes_random = pick_random_nodes_matching_selected(network, bins, nodes, n_random, degree_aware, seed=seed)
-    return nodes_random
-
 
 def parse_interactome(infile, sep='\t', header=False, columns=[], lcc = False,
                       dataframe=False):
 
     """
-    infile, sep, header, columns, lcc
+    Parse edgelist from file or pandas.dataframe into a networkx.graph object
+    Args:
+        infile (str or pandas.dataframe): path to table or pandas.dataframe
+        sep (str): column separator if input is file
+        header (bool): indicates if table has header
+        columns (list): names of columns for source and target nodes
+        lcc (bool): indicates whether to return only lcc or not
+        dataframe (bool): if True input must be a pandas.dataframe
+    Returns:
+        networkx.graph object
     """
 
     if dataframe:
@@ -301,8 +285,10 @@ def connected_component_subgraphs(G, copy=True):
 
 def get_lcc(G,S):
     """
-    S: [list] set of source nodes
-    G: [nx.Graph] interactome
+    Get largest connect component induced by nodes in `S` in the graph `G`
+    Args:
+        S (list): set of source nodes
+        G (nx.Graph): interactome
     """
     if len(S) == 0:
         return (nx.Graph())
@@ -318,6 +304,22 @@ def get_lcc(G,S):
 
 def get_lcc_significance(G,seeds,n_random=1000, min_bin_size = 100,
                             lengths = None,seed=452456):
+
+    """
+    Get significance of the size of the largest connected component
+    induced by nodes in `seeds` in the graph `G`. At `n_random` iterations,
+    the function gets a degree preserving random selection of nodes with
+    the same size as `seeds`. After all iterations, a z-score is calculated
+    using the lcc sizes of the random distribution that was obtained.
+    
+    Args:
+        G (nx.Graph): interactome
+        seeds (list): nodes
+        n_random (int): number of random samples
+        min_bin_size (int): minimum size of bins containing nodes with similar degree
+        lenghts
+        seed (int): random seed
+    """
 
     # getting all genes in the network
     all_genes = G.nodes()
@@ -378,10 +380,16 @@ def calculate_distances (G, nodes_from, nodes_to,
                          sp=None, node2index=None):
 
     """
-    pair of nodes that do not have a path
-    do not contribute to the final value
-    sp: numpy matrix
-    index2node: dict
+    Calculates the closest and shortest distance from
+    `nodes_from` to `nodes_to` in the graph `G`.
+
+    Args:
+
+        G (nx.Graph):
+        nodes_from (list):
+        nodes_to (list):
+        sp (np.matrix, optional): matrix with shortest paths pre-calculated
+        index2node (dict, optional): index to node id mapping
     """
 
     ds = defaultdict(dict)

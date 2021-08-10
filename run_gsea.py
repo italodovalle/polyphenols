@@ -28,6 +28,8 @@ def parse_gct(infile):
     
     """
     Parse .gct file obtained from https://clue.io/
+    Args:
+        infile (str): file path
     """
     
     dt = pd.read_table(infile, sep = '\t', skiprows=2, low_memory=False)
