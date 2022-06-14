@@ -176,6 +176,11 @@ The data folder contains:
 * `data/HumanInteractome_v2017.csv`: Human interactome (see manuscript for details)
 * `data/GenesDisease.csv`: Disease-gene associations for MeSH disease terms curated in Menche et al. (2015, Science)
 * `data/PolyphenolProteinInteractions.csv`: Polyphenol protein targets obtained from the STITCH database
+
+**Note**
+
+* Polyphenol protein interactions were obtained from STITCH (http://stitch.embl.de/download/protein_chemical.links.detailed.v5.0/9606.protein_chemical.links.detailed.v5.0.tsv.gz). We used PubChem CIDS to represent chemicals and we mapped protein ENSEMBL ids to ENTREZ IDs as the final representation for proteins. We only considered interactions in which the `experimental` column was > 0.
+
 * `data/connectivity_map`: Perturbation profiles obtained in the Connectivity Map database (https://clue.io/) for selected polyphenols
 * `data/mtrees2018.bin`: MeSH hierarchy
 * `ctd_disease_chemical_phenolexplorer_therapeutic.csv`: all disease-polyphenol associations obtained by combining data from the databases CTD and PhenolExplorer

@@ -44,11 +44,19 @@ def get_zscores (disease_chemical, n_random, outdir,
             table['closest'] = dic['closest']
             table['z_shortest'] = dic['z_shortest']
             table['z_closest'] = dic['z_closest']
+            table['avg_shortest'] = dic['avg_shortest']
+            table['std_shortest'] = dic['std_shortest']
+            table['avg_closest'] = dic['avg_closest']
+            table['std_closest'] = dic['std_closest']
         else:
             table['shortest'] = float('nan')
             table['closest'] = float('nan')
             table['z_shortest'] = float('nan')
             table['z_closest'] = float('nan')
+            table['avg_shortest'] = float('nan')
+            table['std_shortest'] = float('nan')
+            table['avg_closest'] = float('nan')
+            table['std_closest'] = float('nan')
 
         df = pd.DataFrame.from_dict(table, orient='index').T
 
